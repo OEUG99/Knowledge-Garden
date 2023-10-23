@@ -24,4 +24,4 @@ public:: true
 		- **Instagram:** [@OEugenio99](instagram.com/oeugenio99)
 		- **Wikipedia:** [OEugenio](https://en.wikipedia.org/wiki/User:OEugenio)
 		- **Leetcode:** [OEUG99](https://leetcode.com/OEUG99/)
-		- **Discord:** @bufferoverflowd
+		- **Discord:** [@bufferoverflowd](https://discord.com/users/1164374755277799444)
