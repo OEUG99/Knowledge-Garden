@@ -1,4 +1,5 @@
 - [[Reverse [[DSA/Linked List]]]]
+  title:: Reverse [[DSA/Linked List]]
 	- topic:: [[Leetcode]]
 	  patterns:: [[DSA/Linked List]]
 	- ```python
