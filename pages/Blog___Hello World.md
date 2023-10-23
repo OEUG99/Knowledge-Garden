@@ -1,3 +1,3 @@
-# Welcome to my blog!
--
--
+category:: [[Blog]]
+
+- # Welcome to my blog!
