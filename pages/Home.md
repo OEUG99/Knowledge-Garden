@@ -22,5 +22,6 @@ public:: true
 		- **LinkedIn:** [Oli Eugenio](https://www.linkedin.com/in/oli-eugenio)
 		- **Twitter/X:** [@OliviaGenoGG](x.com/OliviaGenoGG)
 		- **Instagram:** [@OEugenio99](instagram.com/oeugenio99)
+		  **Leetcode:** [OEUG99](https://leetcode.com/OEUG99/)
 		- **Wikipedia:** [OEugenio](https://en.wikipedia.org/wiki/User:OEugenio)
 		- **Discord:** @bufferoverflowd
