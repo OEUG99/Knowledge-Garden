@@ -16,13 +16,13 @@ public:: true
   id:: 65369905-c5a9-414c-9841-2c5f005ff7f1
 	- **Email:** [oli@eugenio.software](email:oli@eugenio.software)
 	  id:: 65369905-0fd5-4b6a-8fbd-3c2c310302e0
+	- **LinkedIn:** [Oli Eugenio](https://www.linkedin.com/in/oli-eugenio)
 	- **Telegram:** [@oeugenio](https://t.me/oeugenio)
-		- ## 🖥️ Development Info
+	- ## 🖥️ Development Info
 		- **Github:** https://github.com/OEUG99
 		- **Stack Overflow:** [Oli Eugenio](https://stackoverflow.com/users/21506081/oli-eugenio)
 		- **Leetcode:** [OEUG99](https://leetcode.com/OEUG99/)
 	- ## 📲 Social Media & Misc
-		- **LinkedIn:** [Oli Eugenio](https://www.linkedin.com/in/oli-eugenio)
 		- **Twitter/X:** [@OliviaGenoGG](x.com/OliviaGenoGG)
 		- **Instagram:** [@OEugenio99](instagram.com/oeugenio99)
 		- **Discord:** [@bufferoverflowd](https://discord.com/users/1164374755277799444)
