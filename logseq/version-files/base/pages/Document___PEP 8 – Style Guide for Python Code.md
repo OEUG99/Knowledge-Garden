@@ -1,6 +1,6 @@
-title:: Doccument/PEP 8 – Style Guide for Python Code
+title:: Document/PEP 8 – Style Guide for Python Code
 author:: [[@python.org]]
-abbreviated-title:: PEP 8 
+abbreviated-title:: PEP 8
 full-title:: "PEP 8 – Style Guide for Python Code"
 start:: [[Oct 22nd, 2023]]
 end:: Unfinished
@@ -8,7 +8,6 @@ status:: Reading
 doccument_type:: Article
 url:: https://peps.python.org/pep-0008/
 tags:: [[Python/PEP8]]
-
 - Highlights
 	- Some other good reasons to ignore a particular guideline:
 	  

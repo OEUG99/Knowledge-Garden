@@ -1,4 +1,4 @@
-title:: Doccument/☕ the Birth of the FBI
+title:: Document/☕ the Birth of the FBI
 author:: [[@Morning Brew]]
 abbreviated-title: ☕ the Birth of the FBI 
 full-title:: "☕ the Birth of the FBI"

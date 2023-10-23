@@ -1,4 +1,4 @@
-title:: Doccument/10 Insane Websites You M...
+title:: Document/10 Insane Websites You M...
 author:: [[@@CodeByPoonam on Twitter]]
 abbreviated-title: 10 Insane Websites You M... 
 full-title:: "10 Insane Websites You M..."
@@ -8,7 +8,6 @@ status:: Reading
 category:: #tweets
 doccument_type:: 
 url:: https://twitter.com/CodeByPoonam/status/1715666039005233584
-
 - Highlights
 	- 10 Insane Websites you might not know exist (Bookmark them): 
 	  
