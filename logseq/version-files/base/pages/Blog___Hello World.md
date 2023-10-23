@@ -8,8 +8,8 @@ category:: [[Blog]]
 		- The purpose of this blog is to document my educational pursuits. Whether you're interested in science, looking for inspiration in art, or just want to know more about me, I hope you'll find what you're looking for here!
 	- ## What You Can Expect
 		- Here's what you can expect from my blog:
-			- **Regular Updates**: I'll be posting new content every [insert frequency here].
-			- **Engaging Content**: Articles, how-to guides, interviews, and reviews related to [insert topics your blog will cover].
+			- **Regular Updates**: I'll be posting new content about once a week.
+			- **Engaging Content**: Articles, how-to guides, interviews, and reviews.
 			- **Community**: I want this to be a place where we can share thoughts, ideas, and support each other. Feel free to leave comments, questions, or suggestions on any of my posts.
 			- **Quality**: Every post on this blog will be thoroughly researched and well-written. I want to provide you with the most accurate and helpful information possible.
 	- ## Get Involved
