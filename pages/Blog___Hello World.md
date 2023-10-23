@@ -17,8 +17,8 @@ category:: [[Blog]]
 		- I'd love for you to be part of my blogging journey. Here's how you can get involved:
 			- 1.  **Comments**: Got questions or feedback? I'd love to hear from you! Please feel free to leave comments via my email.
 			- 2.  **Share**: If you find any of my content helpful or entertaining, I'd appreciate it if you could share it with your friends and family on social media.
-			- 3.  **Connect**: Follow me on my social media to stay updated on the latest posts and happenings. ()
+			- 3.  **Connect**: Follow me on my social media to stay updated on the latest posts and happenings. (See above for list.)
 	- ## Thank You!
 		- Thank you for taking the time to read this welcome post. I'm excited to have you as a part of this community and can't wait to share more with you.
 		- Stay tuned for more amazing content!
-		- Best wishes, [Your Name]
+		- Best wishes, Oli Eugenio!
