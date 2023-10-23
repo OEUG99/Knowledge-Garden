@@ -25,6 +25,7 @@ public:: true
 	- ## 📲 Social Media & Misc
 		- **Twitter/X:** [@OliviaGenoGG](x.com/OliviaGenoGG)
 		- **Instagram:** [@OEugenio99](instagram.com/oeugenio99)
+		- **Mastadon:**[@eugenio@infosec.exchange]
 		- **Discord:** [@bufferoverflowd](https://discord.com/users/1164374755277799444)
 		- **Wikipedia:** [OEugenio](https://en.wikipedia.org/wiki/User:OEugenio)
 		- **Chess.com:** [oli_e](https://www.chess.com/member/oli_e)
