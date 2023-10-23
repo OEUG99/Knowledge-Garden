@@ -9,4 +9,4 @@
 			- A lower case letter with an arrow on top is the math mathematical representation
 				- ![image.png](../assets/image_1698085833256_0.png)
 		- ###  Real Coordinate Spaces
-			- Real cordinate spaces are normally represenmted by
+			- Real cordinate spaces are normally represenmted by  T
