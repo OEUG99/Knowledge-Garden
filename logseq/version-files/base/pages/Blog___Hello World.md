@@ -11,8 +11,8 @@ category:: [[Blog]]
 			- **Regular Updates**: I'll be posting new content about once a week.
 			- **Engaging Content**: Articles, how-to guides, interviews, and reviews.
 			- **Community**: I want this to be a place where we can share thoughts, ideas, and support each other. Feel free to reach out to me via email or any other platform!
-				- ((65369905-0fd5-4b6a-8fbd-3c2c310302e0))
-			- **Quality**: Every post on this blog will be thoroughly researched and well-written. I want to provide you with the most accurate and helpful information possible.
+				- {{embed ((65369905-c5a9-414c-9841-2c5f005ff7f1))}}
+			- **Quality**: Every post on this blog will be thoroughly researched and well-written. I want to provide you with the most accurate and helpful information possible. If you feel I have made any errors, please contact me with your concerns! :)
 	- ## Get Involved
 		- I'd love for you to be part of my blogging journey. Here's how you can get involved:
 			- 1.  **Subscribe**: To make sure you don't miss out on any new posts, please consider subscribing to my newsletter.
