@@ -4,7 +4,7 @@
 	- ## 📜 Blog Posts
 		- For those who appreciate a more guided expedition, the traditional [[Blog]] awaits, offering curated articles that delve into fascinating topics, such as development, with depth and expertise. Each post serves as a stepping stone, guiding you through complex landscapes of thought in a welcoming and accessible manner.
 	- I invite you to roam freely, whether along the curated trails of the blog or through the winding paths of the Knowledge Garden. Each offers its own flavor of enlightenment, promising not just information but a richer, more nuanced understanding of the world we inhabit.
-	-
+	- For future reference, you can return to this page at any time by navigating to the `favorite` section in the side bar and clicking `home`.
 - #  🧭 Navigation
 	- Navigating this knowledge garden is simple yet versatile. You can use the links below for guided access to key areas, explore interconnected ideas through the 'Graph View,' or pinpoint specific topics using the search bar. Each option offers a unique way to engage with the content, catering to your preferred style of exploration.
 	- **[[About Me]]** — A section dedicated to learning more about me.
