@@ -9,4 +9,6 @@
 			- A lower case letter with an arrow on top is the math mathematical representation
 				- ![image.png](../assets/image_1698085833256_0.png)
 		- ###  Real Coordinate Spaces
-			- Real cordinate spaces are normally represenmted by  T
+			- Real cordinate spaces are normally represenmted by R^x where x says how many dimensions we are working with:
+				- ![image.png](../assets/image_1698086272895_0.png)
+				-
