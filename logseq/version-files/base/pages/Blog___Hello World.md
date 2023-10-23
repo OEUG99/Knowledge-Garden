@@ -5,7 +5,7 @@ category:: [[Blog]]
 	- ## Hello, World!
 		- Hello and welcome to my blog! I'm thrilled to have you here—after all, a journey of a thousand miles begins with a single step, and you've just taken that first step by landing on this page.
 	- ## Why I Started This Blog
-		- The purpose of this blog is to document my educational pursuits. Whether you're interested in , looking for inspiration in [Topic 2], or just want to know more about [Topic 3], I hope you'll find what you're looking for here.
+		- The purpose of this blog is to document my educational pursuits. Whether you're interested in science, looking for inspiration in art, or just want to know more about me, I hope you'll find what you're looking for here!
 	- ## What You Can Expect
 		- Here's what you can expect from my blog:
 			- **Regular Updates**: I'll be posting new content every [insert frequency here].
