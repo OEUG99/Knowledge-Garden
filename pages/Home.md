@@ -18,10 +18,10 @@ public:: true
 	  id:: 65369905-0fd5-4b6a-8fbd-3c2c310302e0
 	- **Telegram:** [@oeugenio](https://t.me/oeugenio)
 	- **Github:** https://github.com/OEUG99
-	- ## 📲 Social Media
+	- ## 📲 Social Media & Misc
 		- **LinkedIn:** [Oli Eugenio](https://www.linkedin.com/in/oli-eugenio)
 		- **Twitter/X:** [@OliviaGenoGG](x.com/OliviaGenoGG)
 		- **Instagram:** [@OEugenio99](instagram.com/oeugenio99)
-		  **Leetcode:** [OEUG99](https://leetcode.com/OEUG99/)
 		- **Wikipedia:** [OEugenio](https://en.wikipedia.org/wiki/User:OEugenio)
+		- **Leetcode:** [OEUG99](https://leetcode.com/OEUG99/)
 		- **Discord:** @bufferoverflowd
