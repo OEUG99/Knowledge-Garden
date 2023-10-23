@@ -11,4 +11,4 @@
 		- ###  Real Coordinate Spaces
 			- Real cordinate spaces are normally represenmted by R^x where x says how many dimensions we are working with:
 				- ![image.png](../assets/image_1698086272895_0.png)
-				-
+					- This symbol also represents all possible real-valued 2-tuple.
