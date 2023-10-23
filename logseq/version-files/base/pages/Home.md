@@ -25,4 +25,4 @@ public:: true
 		- **Discord:** [@bufferoverflowd](https://discord.com/users/1164374755277799444)
 		- **Wikipedia:** [OEugenio](https://en.wikipedia.org/wiki/User:OEugenio)
 		- **Leetcode:** [OEUG99](https://leetcode.com/OEUG99/)
-		-
+		- **Chess.com:** [oli_e](https://www.chess.com/member/oli_e)
