@@ -8,7 +8,7 @@ public:: true
 	- I invite you to roam freely, whether along the curated trails of the blog or through the winding paths of the Knowledge Garden. Each offers its own flavor of enlightenment, promising not just information but a richer, more nuanced understanding of the world we inhabit.
 - #  🧭 Navigation
 	- Navigating this knowledge garden is simple yet versatile. You can use the links below for guided access to key areas, explore interconnected ideas through the 'Graph View,' or pinpoint specific topics using the search bar. Each option offers a unique way to engage with the content, catering to your preferred style of exploration.
-	- **[[Blog]]** — My personal blog.
+	- **[[Blog]]** — My personal blog for development and life.
 	- **[[About Me]]** — A section dedicated to learning more about me.
 	- **[[Projects]]** — A directory for the various code related projects that I have worked on.
 	- **[[Master Nodes]]** — A directory that contains a curated list of ‘master nodes’ on various topics.
