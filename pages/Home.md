@@ -13,7 +13,9 @@ public:: true
 	- **[[Projects]]** — A directory for the various code related projects that I have worked on.
 	- **[[Master Nodes]]** — A directory that contains a curated list of ‘master nodes’ on various topics.
 - # 📬 Contact Info
+  id:: 65369905-c5a9-414c-9841-2c5f005ff7f1
 	- **Email:** [oli@eugenio.software](email:oli@eugenio.software)
+	  id:: 65369905-0fd5-4b6a-8fbd-3c2c310302e0
 	- **Telegram:** [@oeugenio](https://t.me/oeugenio)
 	- **Github:** https://github.com/OEUG99
 	- ## 📲 Social Media
