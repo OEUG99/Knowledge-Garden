@@ -1,4 +1,5 @@
 topic:: [[Leetcode]], [[Programming]]
+public:: true
 
 - # What is a Binary Tree?
   heading:: 1
