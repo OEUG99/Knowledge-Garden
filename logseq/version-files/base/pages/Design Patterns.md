@@ -1,14 +1,14 @@
 title:: Design Patterns
 category:: [[Programming]]
 
-- # Entity-Component-System #ecs #game-development
-  heading:: 1
-	- An **Entity** is an ID.
-	- A **Component** is a struct of data.
-	- A **System** is the logic that operates on the components.
-		- The important thing to know is how to implement these three in a way that is simple and easy to understand, and to use.
-	- ## The Entity
-	  heading:: 2
+	- # Entity-Component-System #ecs #game-development
+	  heading:: 1
+		- An **Entity** is an ID.
+		- A **Component** is a struct of data.
+		- A **System** is the logic that operates on the components.
+			- The important thing to know is how to implement these three in a way that is simple and easy to understand, and to use.
+		- ## The Entity
+		  heading:: 2
 - # Model-View-Controller
   heading:: 1
   id:: 63484d07-5ec4-4cf3-ba9b-543f737a6909
