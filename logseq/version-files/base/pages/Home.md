@@ -15,7 +15,7 @@ public:: true
 - # 📬 Contact Info
 	- **Email:** [oli@eugenio.software](email:oli@eugenio.software)
 	- **Telegram:** [@oeugenio](https://t.me/oeugenio)
-	- **Github:**
+	- **Github:** https://github.com/OEUG99
 	- ## 📲 Social Media
 		- **LinkedIn:** [Oli Eugenio](https://www.linkedin.com/in/oli-eugenio)
 		- **Twitter/X:** [@OliviaGenoGG](x.com/OliviaGenoGG)
