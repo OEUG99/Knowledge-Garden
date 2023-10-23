@@ -1,4 +1,4 @@
-- ![image.png](../assets/image_1698081533733_0.png)
+- ![image.png](../assets/image_1698081533733_0.png){:height 76, :width 800}
 - # 🌎 Oli Eugenio's Knowledge Garden
 	- Welcome to my knowledge garden, a haven for the intellectually curious and a treasure trove for those eager to expand their horizons. As you step into this inviting space, you'll encounter two enriching paths for your journey: a traditional [[Blog]] adorned with carefully crafted articles and my cherished Knowledge Garden’s graph view, a sprawling, vibrant map of interconnected ideas and insights.
 	- Think of the Knowledge Garden as a living tapestry of curiosity, one where each note is a delicate stitch in a broader, ever-expanding pattern. Through the unique "Graph View," you can meander through this intricate web visually, each node inviting you to dive deeper and discover the interconnected beauty of ideas. It's a space that thrives on the joy of exploration, letting you wander freely in a labyrinth of thought that celebrates the interconnectedness of all knowledge.
