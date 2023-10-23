@@ -1,6 +1,7 @@
-# What is a linked list?
-title:: Datastructures and Algorithms/Linked List
-heading:: 1
+title:: DSA/Linked List
+public:: true
+
+- # What is a linked list?
 	- A linked list is a common data structure used in computer programming to store a collection of elements, or nodes, in a linear sequences.
 	- In a linked list, each node contains two parts:
 		- 1. the data (which represents the value of the node)

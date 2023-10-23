@@ -1,6 +1,6 @@
-- [[Reverse [[Datastructures and Algorithms/Linked List]]]]
+- [[Reverse [[DSA/Linked List]]]]
 	- topic:: [[Leetcode]]
-	  patterns:: [[Datastructures and Algorithms/Linked List]]
+	  patterns:: [[DSA/Linked List]]
 	- ```python
 	  # Definition for singly-linked list.
 	  # class ListNode:
