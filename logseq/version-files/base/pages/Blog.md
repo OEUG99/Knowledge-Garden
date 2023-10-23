@@ -1,3 +1,3 @@
 public:: true
 
-- {{query (and (page-property category [[Book]]) (page-property status Reading))}}
+- {{query (page-property category Blog) (order-by updated-at desc)}}
