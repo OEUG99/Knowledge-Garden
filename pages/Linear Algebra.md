@@ -8,4 +8,4 @@
 					- when you have both of these you can get velocity a vector.
 			- A lower case letter with an arrow on top is the math mathematical representation
 				- ![image.png](../assets/image_1698085833256_0.png)
-		-
+		- ###
