@@ -9,8 +9,11 @@
 			- A lower case letter with an arrow on top is the math mathematical representation
 				- ![image.png](../assets/image_1698085833256_0.png)
 		- ###  Real Coordinate Spaces
-			- Real cordinate spaces are normally represenmted by R^x where x says how many dimensions we are working with:
+		  collapsed:: true
+			- Real coordinate spaces are normally represented by R^x where x says how many dimensions we are working with:
 				- ![image.png](../assets/image_1698086272895_0.png)
 					- This symbol also represents all possible real-valued 2-tuple.
 				- Example of 3d real cordinate space
 				  ![image.png](../assets/image_1698086712238_0.png)
+		- ### Adding Vectors algebraically & graphically.
+			-
