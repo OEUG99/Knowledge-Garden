@@ -1,4 +1,6 @@
-# What are the laws of motion?
+public:: true
+
+- # What are the laws of motion?
 	- These laws lay the foundation for classical mechanics, which is tremendously successful in explaining and predicting the behavior of objects in our everyday experiences and in scientific experiments.
 - ##  First law of Motion: the Law of Inertia.
 	- This law states that an object at rest tends to stay at rest, and an object in motion tends to stay in motion, with the same direction and speed, unless acted upon by a non-zero net force.
