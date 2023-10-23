@@ -1,0 +1,72 @@
+{:blocks (
+{:block/created-at 1697677160029
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "P"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 346]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9eeb2640-6e1a-11ee-aec4-558263b690cb"
+:noFill false
+:point [88 424]
+:parentId "65307f2e-8a0b-4b9d-bb4f-a04f37423166"
+:collapsedHeight 0
+:nonce 1697677111067}}
+:block/updated-at 1697677160029} 
+{:block/created-at 1697920820280
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "Python/unpacking"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 160.6674575805664]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a88ea5f0-6e1a-11ee-aec4-558263b690cb"
+:noFill false
+:point [272 112]
+:parentId "65307f2e-8a0b-4b9d-bb4f-a04f37423166"
+:collapsedHeight 0
+:nonce 1697677127123}}
+:block/updated-at 1697920820280})
+:pages (
+{:block/uuid #uuid "65307f67-d5c9-4979-9b19-e4a00ecc9aa8"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "65307f67-d5c9-4979-9b19-e4a00ecc9aa8"
+:name "p"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("9eeb2640-6e1a-11ee-aec4-558263b690cb" "a88ea5f0-6e1a-11ee-aec4-558263b690cb")}}
+:block/updated-at 1697920824417
+:block/created-at 1697677102355
+:block/type "whiteboard"
+:block/name "p"
+:block/original-name "P"})}

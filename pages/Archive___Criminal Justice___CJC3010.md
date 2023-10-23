@@ -1,0 +1,34 @@
+exclude-from-graph-view:: true
+
+- ## Chapter 9: Nature of Society
+  heading:: 2
+	- What happened during this era:
+		- Civil Rights Movement
+		- Women's Rights Movement
+		- Vietnam War Protests
+		- College Student Protests
+		- The 1967 Detroit Riots were among the most violent and destructive riots in the U.S. history.
+	- Prior to the 1960's the prevalent view of the public was that the courts, polcie, and the correctional system operated with the disinterested proffessionalism
+	- Faith in goverment took a negative turn
+	- Nihilism became an underlying ideology
+	- Minority rights.
+	- <u>The goal of police to to main order under the rule of law </u>
+		- Goal conflict - order vs individual rights.
+	- ### The Folsom Strike
+	  heading:: 3
+		- The work stopage at Folsom ahs been recorded as the longest, nonviolent prisons trike in history
+		- Nearly all 2,400 inmates refused to work and remained in their cells for 19 days without food
+		- created a 31 point manifesto addressing rights for religious, legal, discrimination, and working conditions.
+	- **Structural reformists** beleive that the ultiamte aspirations of institutional litigation is to **transform institutions**
+	- What are some exampleso f major federal court cases regardign social reform during the Warren Court?
+		- **Educational Reform**:
+			- brown v.
+			- School finance (serrano)
+			- School and religion
+			- School adequacy
+		- **Penal Reform**
+		- - Mapp vs Ohio
+			- Miranda
+			- Gault (Juvenile)
+			- Prisoner Treatment (Ruize)
+			- Conditions of Confinement
