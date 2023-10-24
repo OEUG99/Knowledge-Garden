@@ -5,3 +5,5 @@ exclude-from-graph-view:: true
 - On [[Oct 22nd, 2023]] at 3:42 PM Readwise synced 37 highlights from 3 books.
 - On [[Oct 24th, 2023]] at 1:13 AM Readwise synced 15 highlights from 1 book.
 	- 15 highlights from World War I
+- On [[Oct 24th, 2023]] at 2:29 AM Readwise synced 2 highlights from 1 book.
+	- 2 highlights from World War I
