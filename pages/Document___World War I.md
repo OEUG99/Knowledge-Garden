@@ -7,7 +7,7 @@ end:: Unfinished
 status:: Reading
 document_type:: 
 url:: https://en.wikipedia.org/wiki/World_War_I
-tags:: [[World War 1]] #History
+tags:: [[World War 1]] #History #War
 
 - Highlights
 	- **World War I** (28 July 1914 – 11 November 1918), often abbreviated as **WWI**, was a [global conflict](https://en.wikipedia.org/wiki/World_war) fought between two coalitions, the [Allied Powers](https://en.wikipedia.org/wiki/Allies_of_World_War_I) and the [Central Powers](https://en.wikipedia.org/wiki/Central_Powers). Fighting took place throughout [Europe](https://en.wikipedia.org/wiki/Europe), the [Middle East](https://en.wikipedia.org/wiki/Middle_Eastern_theatre_of_World_War_I), [Africa](https://en.wikipedia.org/wiki/African_theatre_of_World_War_I), the [Pacific](https://en.wikipedia.org/wiki/Asian_and_Pacific_theatre_of_World_War_I), and parts of [Asia](https://en.wikipedia.org/wiki/Asian_and_Pacific_theatre_of_World_War_I). ([View Highlight](https://read.readwise.io/read/01hdfr1rc6pk0394ayg8wnzxpw))
