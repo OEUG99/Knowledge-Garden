@@ -1,0 +1,62 @@
+title:: Document/World War I
+author:: [[@wikipedia.org]]
+abbreviated-title:: World War I 
+full-title:: World War I
+start:: [[Oct 24th, 2023]]
+end:: Unfinished
+status:: Reading
+document_type:: 
+url:: https://en.wikipedia.org/wiki/World_War_I
+
+- Highlights
+	- ```md
+	- **World War I** (28 July 1914 – 11 November 1918), often abbreviated as **WWI**, was a [global conflict](https://en.wikipedia.org/wiki/World_war) fought between two coalitions, the [Allied Powers](https://en.wikipedia.org/wiki/Allies_of_World_War_I) and the [Central Powers](https://en.wikipedia.org/wiki/Central_Powers). Fighting took place throughout [Europe](https://en.wikipedia.org/wiki/Europe), the [Middle East](https://en.wikipedia.org/wiki/Middle_Eastern_theatre_of_World_War_I), [Africa](https://en.wikipedia.org/wiki/African_theatre_of_World_War_I), the [Pacific](https://en.wikipedia.org/wiki/Asian_and_Pacific_theatre_of_World_War_I), and parts of [Asia](https://en.wikipedia.org/wiki/Asian_and_Pacific_theatre_of_World_War_I). ([View Highlight](https://read.readwise.io/read/01hdfr1rc6pk0394ayg8wnzxpw))
+	- ```
+	- ```md
+	- This reached a [breaking point](https://en.wikipedia.org/wiki/July_Crisis) on 28 June 1914, when a [Bosnian Serb](https://en.wikipedia.org/wiki/Serbs_of_Bosnia_and_Herzegovina) named [Gavrilo Princip](https://en.wikipedia.org/wiki/Gavrilo_Princip) [assassinated Archduke Franz Ferdinand](https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand), heir to the Austro-Hungarian throne. [Austria-Hungary](https://en.wikipedia.org/wiki/Austria-Hungary) held [Serbia](https://en.wikipedia.org/wiki/Kingdom_of_Serbia) responsible, and declared war on 28 July. ([View Highlight](https://read.readwise.io/read/01hdfr2k6px92gmctmtfmdp1jq))
+	- ```
+	- ```md
+	- [Russia](https://en.wikipedia.org/wiki/Russian_Empire) came to Serbia's defence, and by 4 August, [Germany](https://en.wikipedia.org/wiki/German_Empire), [France](https://en.wikipedia.org/wiki/French_Third_Republic), and [Britain](https://en.wikipedia.org/wiki/British_Empire) were drawn into the war, with the [Ottoman Empire](https://en.wikipedia.org/wiki/Ottoman_Empire) joining in November of that same year ([View Highlight](https://read.readwise.io/read/01hdfs1tw4pzyh6bse0se47s0c))
+	- ```
+	- ```md
+	- [Germany's strategy in 1914](https://en.wikipedia.org/wiki/Schlieffen_Plan) was to first defeat France, then transfer forces to the Russian front ([View Highlight](https://read.readwise.io/read/01hdfs8033t7w0drm99jt0w8rc))
+	- ```
+	- ```md
+	- this [failed](https://en.wikipedia.org/wiki/First_Battle_of_the_Marne), and by the end of 1914 ([View Highlight](https://read.readwise.io/read/01hdfs9pzrwpkphmqa5a2rxaex))
+	- ```
+	- ```md
+	- the [Western Front](https://en.wikipedia.org/wiki/Western_Front_(World_War_I)) consisted of a continuous line of [trenches](https://en.wikipedia.org/wiki/Trench_warfare) stretching from the [English Channel](https://en.wikipedia.org/wiki/English_Channel) to [Switzerland](https://en.wikipedia.org/wiki/Switzerland_during_the_World_Wars). The [Eastern Front](https://en.wikipedia.org/wiki/Eastern_Front_(World_War_I)) was more dynamic, but neither side could gain a decisive advantage, despite costly offensives. ([View Highlight](https://read.readwise.io/read/01hdfv8w4s4gkhcb7hj5ygagnz))
+	- ```
+	- ```md
+	- In early 1917, the [United States entered the war](https://en.wikipedia.org/wiki/American_entry_into_World_War_I) on the side of the Allies, and later the same year, the [Bolsheviks](https://en.wikipedia.org/wiki/Bolsheviks) seized power in the Russian [October Revolution](https://en.wikipedia.org/wiki/October_Revolution), making [peace](https://en.wikipedia.org/wiki/Treaty_of_Brest-Litovsk) with the Central Powers in early 1918. ([View Highlight](https://read.readwise.io/read/01hdfv9pcsck8q13gf29x66mbs))
+	- ```
+	- ```md
+	- Germany launched an [offensive](https://en.wikipedia.org/wiki/German_spring_offensive) in the west in March 1918, and despite initial success, it left the [German Army](https://en.wikipedia.org/wiki/Imperial_German_Army) exhausted and demoralised. A successful Allied [counter-offensive](https://en.wikipedia.org/wiki/Hundred_Days_Offensive) later that year caused a collapse of the German frontline. ([View Highlight](https://read.readwise.io/read/01hdfvb8kx5dj9144p19d1xmrd))
+	- ```
+	- ```md
+	- Facing [revolution](https://en.wikipedia.org/wiki/German_Revolution_of_1918%E2%80%931919) at home and with his army on the verge of mutiny, [Kaiser Wilhelm II](https://en.wikipedia.org/wiki/Wilhelm_II,_German_Emperor) abdicated on 9 November. An [armistice three days later](https://en.wikipedia.org/wiki/Armistice_of_11_November_1918) ended the fighting, and the [Paris Peace Conference](https://en.wikipedia.org/wiki/Paris_Peace_Conference_(1919%E2%80%931920)) imposed various settlements on the defeated powers, notably the [Treaty of Versailles](https://en.wikipedia.org/wiki/Treaty_of_Versailles). ([View Highlight](https://read.readwise.io/read/01hdfvcjb4bxn84phyd894kfm9))
+	- ```
+	- ```md
+	- World War I was one of the [deadliest wars in history](https://en.wikipedia.org/wiki/List_of_anthropogenic_disasters_by_death_toll), and resulted in an estimated 9 million soldiers dead and 23 million wounded, while 5 million civilians died due to military action, hunger and disease. ([View Highlight](https://read.readwise.io/read/01hdfvd07xftg0t5wsj2s88kff))
+	- ```
+	- ```md
+	- Millions more died as a result of [genocide](https://en.wikipedia.org/wiki/Genocides_in_history_(World_War_I_through_World_War_II)), and the devastation of the war heavily contributed to the 1918 [Spanish flu](https://en.wikipedia.org/wiki/Spanish_flu) pandemic. ([View Highlight](https://read.readwise.io/read/01hdfvda58yhxbpf3jwm4z569k))
+	- ```
+	- ```md
+	- The dissolution of the Russian, German, Austro-Hungarian, and Ottoman Empires resulted in the creation of new independent states, including [Poland](https://en.wikipedia.org/wiki/Second_Polish_Republic), [Finland](https://en.wikipedia.org/wiki/Finland), [Czechoslovakia](https://en.wikipedia.org/wiki/First_Czechoslovak_Republic), and [Yugoslavia](https://en.wikipedia.org/wiki/Kingdom_of_Yugoslavia). The inability to manage [post-war instability](https://en.wikipedia.org/wiki/Interwar_period) [contributed](https://en.wikipedia.org/wiki/Causes_of_World_War_II) to the outbreak of [World War II](https://en.wikipedia.org/wiki/World_War_II) in September 1939. ([View Highlight](https://read.readwise.io/read/01hdfvhmj9xhkkmymz4nmne0e1))
+	- ```
+	- ```md
+	- Prior to [World War II](https://en.wikipedia.org/wiki/World_War_II), the events of 1914–1918 were generally known as the **Great War** or simply the **World War**. ([View Highlight](https://read.readwise.io/read/01hdfvjxsxzb0znx2mkxd84hq0))
+	- ```
+	- ```md
+	- For much of the 19th century, the major European powers maintained a tenuous [balance of power](https://en.wikipedia.org/wiki/Balance_of_power_(international_relations)) among themselves, known as the [Concert of Europe](https://en.wikipedia.org/wiki/Concert_of_Europe).[[9](https://en.wikipedia.org/wiki/World_War_I#cite_note-FOOTNOTEClark2013121–152-19) ([View Highlight](https://read.readwise.io/read/01hdfwg5jnbbpaes7nve6561rd))
+	- ```
+	- ```md
+	- After 1848, this was challenged by a variety of factors, including Britain's withdrawal into so-called [splendid isolation](https://en.wikipedia.org/wiki/Splendid_isolation), the [decline of the Ottoman Empire](https://en.wikipedia.org/wiki/Decline_and_modernization_of_the_Ottoman_Empire), [New Imperialism](https://en.wikipedia.org/wiki/New_Imperialism), and the rise of [Prussia](https://en.wikipedia.org/wiki/Kingdom_of_Prussia) under [Otto von Bismarck](https://en.wikipedia.org/wiki/Otto_von_Bismarck) ([View Highlight](https://read.readwise.io/read/01hdfwhb07v4d606zpqe337eg6))
+	- ```
+	- ```md
+	- After the agreement lapsed in 1887, he replaced it with the [Reinsurance Treaty](https://en.wikipedia.org/wiki/Reinsurance_Treaty), a secret agreement between Germany and Russia to remain neutral if either were attacked by France or Austria-Hungary.[[12]](https://en.wikipedia.org/wiki/World_War_I#cite_note-FOOTNOTEMedlicott194566–70-23) ([View Highlight](https://read.readwise.io/read/01hdg1rs2q82w9jq39tse208zq))
+	- ```
+	- ```md
+	- German industrial strength and production significantly increased after 1871, driven by the creation of a unified Reich, [French indemnity](https://en.wikipedia.org/wiki/French_indemnity) payments, and the annexation of [Alsace-Lorraine](https://en.wikipedia.org/wiki/Alsace-Lorraine) ([View Highlight](https://read.readwise.io/read/01hdg1wc4nkcz5b1bs4pw9mdtw))
+	- ```
