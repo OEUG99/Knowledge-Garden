@@ -9,390 +9,1164 @@ status:: Reading
 document_type::
 
 - Highlights
+	- ```md
 	- In the first half of the twentieth century, criminological inquiry was focused upon offender behavior and crime causation. ([Location 90](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=90))
+	- ```
+	- ```md
 	- it was assumed that this system simply operates in accordance with its formally prescribed goals and purposes. ([Location 92](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=92))
+	- ```
+	- ```md
 	- As public scrutiny increased, problems emerged that were directly connected to the underlying goals and fundamental purposes of the criminal justice system. ([Location 95](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=95))
+	- ```
+	- ```md
 	- “blind justice” and “disin terested professionalism” ([Location 96](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=96))
+	- ```
+	- ```md
 	- Research shifted from a fixation with the offender and causes of crime to a preoccupation with the meaning and consequences of past and present crime-control efforts. ([Location 99](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=99))
+	- ```
+	- ```md
 	- One dominant theme is what Cohen (1985) termed the “demystification theme of penology,” which resulted from critical examinations of the ideas and consequences of various penal strategies. ([Location 101](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=101))
+	- ```
+	- ```md
 	- For example, some assert that this disparity is due to flawed implementation resulting from misunderstandings in program design, in sufficient resources and staff, or other unforeseen developmental impediments (ibid.). ([Location 106](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=106))
+	- ```
+	- ```md
 	- Others maintain that the disparity between ideas and consequences is not so accidental; ([Location 107](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=107))
+	- ```
+	- ```md
 	- There are no unintended (negative) consequences associated with penal reform, just traditional political and economic imperatives and interests being fulfilled. ([Location 110](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=110))
+	- ```
+	- ```md
 	- According to this theme—depending upon the needs of the labor market—the prison effectively functions as a factory by manufacturing disciplined and reliable workers, or as a warehouse controlling a surplus population of workers who threaten the existing social and economic order (Melossi and Pavarini, 1981; Rusche and Kirchheimer, 1939). ([Location 114](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=114))
+	- ```
+	- ```md
 	- The American colonial period spanned nearly two hundred years, beginning with the establishment of Virginia in 1607, and concluding after the American Revolution. ([Location 261](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=261))
+	- ```
+	- ```md
 	- Friedman (1993) noted, the physical and social circumstances of colonial life (e.g., starvation, Indian hostility, internal dissent) “bent the English pat terns out of shape.” ([Location 264](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=264))
+	- ```
+	- ```md
 	- There was a genuine fear that men and women might overindulge in the liberties of the New World and become “worse than brute beasts” (quoted in ibid.). ([Location 267](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=267))
+	- ```
+	- ```md
 	- The English common law system established the practices of oral testimony, a jury of peers, and the classification of offenses. ([Location 270](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=270))
+	- ```
+	- ```md
 	- criminal codes in colonial America were generally more lenient than in England, ([Location 273](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=273))
+	- ```
+	- ```md
 	- Colonies developed their own ideas about crime and punishment based on their specific religious beliefs and immediate surroundings. ([Location 274](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=274))
+	- ```
+	- ```md
 	- in all colonies, public and physical punishments of various types were the norm. ([Location 278](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=278))
+	- ```
+	- ```md
 	- Colonial society was organized around the three primary institutions of community, church, and family. ([Location 281](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=281))
+	- ```
+	- ```md
 	- Community cohesion and order were also facilitated by the establishment of small, closely knit communities. ([Location 284](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=284))
+	- ```
+	- ```md
 	- Community order was equally secured through a culturally and spiritually prescribed hierarchy of authority. ([Location 292](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=292))
+	- ```
+	- ```md
 	- colonial authorities modeled their role after stern fathers, seeking to mend the ways of their wayward children. ([Location 296](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=296))
+	- ```
+	- ```md
 	- Towns, like families, were responsible for their own, and permanent residence was critical in establishing a good reputation. ([Location 297](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=297))
+	- ```
+	- ```md
 	- outsiders were feared and resisted because they posed a potential threat to the stability of the community. ([Location 298](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=298))
+	- ```
+	- ```md
 	- most colonies enacted settlement laws to exclude outsiders. ([Location 299](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=299))
+	- ```
+	- ```md
 	- In order to survive and thrive, communities needed to remain small and be founded on a shared faith and cooperation ([Location 305](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=305))
+	- ```
+	- ```md
 	- The religious screening of outsiders would seem to contradict the very reason for establishing the new world. ([Location 306](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=306))
+	- ```
+	- ```md
 	- Religion was clearly the salt that flavored colonial life and it permeated every aspect of life ([Location 311](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=311))
+	- ```
+	- ```md
 	- In eighteenth-century America, religion entered into all discourse, marked all observations, and gave meaning to every private and public crisis—crime included ([Location 319](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=319))
+	- ```
+	- ```md
 	- in colonial America, there was little if any distinction between crime and sin. ([Location 320](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=320))
+	- ```
+	- ```md
 	- Crime, like any sin, was a predictable consequence of a fallen world and the active forces of the devil. ([Location 323](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=323))
+	- ```
+	- ```md
 	- Colonists were additionally mindful of behaviors that would unduly burden the community. For example, colonists were not preoccupied with sexual offenses solely because of their moral implications; they were concerned with the influence of illicit sexual activity on the well being of the community. ([Location 342](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=342))
+	- ```
+	- ```md
 	- Out of deference to community, criminal codes were also used to control prices and wages and it was unlawful for merchants to gain unreasonable profits through the sale of goods. ([Location 345](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=345))
+	- ```
+	- ```md
 	- Although criminal codes clearly existed, what constituted illegal behavior also could be determined on a situational basis (Norton, 1991). ([Location 351](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=351))
+	- ```
+	- ```md
 	- Legislators of the day purposely penned broad statutes, assuming that specificity was not required because everyone shared the same norms and values ([Location 352](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=352))
+	- ```
+	- ```md
 	- because there was a general consensus on what constituted criminal behavior, at least among those of English descent, establishing a meticulous comprehensive system of laws was not as crucial to social order. ([Location 358](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=358))
+	- ```
+	- ```md
 	- For example, while a law might declare a certain behavior to be criminal, it would go unreported and therefore unpunished if the community viewed it as harmless. ([Location 360](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=360))
+	- ```
+	- ```md
 	- Conversely, if no law existed for behavior the community found reprehensible (e.g., severe child beating), then members of the community would seek remedy together (ibid.) ([Location 361](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=361))
+	- ```
+	- ```md
 	- Historical records show that fornication, lewd behavior, drunkenness, petty theft, assaults, and Lord's Day violations were the most frequently prosecuted crimes (Powers, 1966). ([Location 365](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=365))
+	- ```
+	- ```md
 	- Women most often were charged with the offenses of witchcraft, fornication, bastardy, and infanticide ([Location 368](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=368))
+	- ```
+	- ```md
 	- Given the close-knit existence of colonial towns, there was little need for day-to-day surveillance of possible wrongdoing. ([Location 374](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=374))
+	- ```
+	- ```md
 	- colonists were, in effect, self-policed. ([Location 375](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=375))
+	- ```
+	- ```md
 	- informal social control precluded the need for formal law enforcement, ([Location 376](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=376))
+	- ```
+	- ```md
 	- When the informal social control mechanisms of family, community, and church failed, colonists employed relatively harsh punishments. ([Location 378](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=378))
+	- ```
+	- ```md
 	- it was not unusual for crimes committed by non-community members to be treated more harshly than those committed by community members. ([Location 380](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=380))
+	- ```
+	- ```md
 	- This disparity in colonial responses to offenders reflects the classic distinction between welfare-oriented reactions to rule breaking by in-group community members and punishment-oriented reactions to deviating outsiders. ([Location 382](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=382))
+	- ```
+	- ```md
 	- The purpose of punishment was, in the end, primarily retributive: The punishment of crime (i.e., sin) was necessary, regardless of effectiveness, because it was morally right and deserved. ([Location 389](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=389))
+	- ```
+	- ```md
 	- Fines were by far the most frequently imposed sanction and were used nearly three times as often as corporal punishment. ([Location 391](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=391))
+	- ```
+	- ```md
 	- As a matter of practice, fines were primarily reserved for the propertied class. Those without property—namely, slaves—had their period of servitude extended or were whipped. ([Location 394](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=394))
+	- ```
+	- ```md
 	- Because everyone has a body, few people escaped some form of corporal punishment in their lifetime. ([Location 398](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=398))
+	- ```
+	- ```md
 	- Servants, slaves, and women were particularly vulnerable to whippings because they lacked the money or property to pay fines. ([Location 402](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=402))
+	- ```
+	- ```md
 	- Fining a woman usually meant fining her husband. To ensure that the woman was the one punished, judges resorted to whipping ([Location 403](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=403))
+	- ```
+	- ```md
 	- officials were often reluctant to impose economic penalties on widows or single women, concerned that their estates or dependent children might be harmed as a result ([Location 404](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=404))
+	- ```
+	- ```md
 	- Some colonies employed biblical scripture as a type of sentencing guideline. ([Location 410](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=410))
+	- ```
+	- ```md
 	- Colonists also relied on banishment and various shaming techniques as methods of punishment. Banishment usually was reserved for non-community members, recidivists, and other offenders viewed as permanent dangers. ([Location 414](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=414))
+	- ```
+	- ```md
 	- When imposed, these shaming punishments exposed the offender to verbal and physical abuse (pelting with stones, rotten fruit, or mud) by community passers-by. ([Location 426](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=426))
+	- ```
+	- ```md
 	- Rather than subduing the offender and encouraging repentance, shaming often had the opposite effect: The public ridicule often drove the offender to beg, swear, and insult spectators ([Location 427](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=427))
+	- ```
+	- ```md
 	- Colonists employed harsh measures for recidivists, including death and what, for lack of a better term, can be called “shock” death. In the case of shock death, an offender would receive a sentence of death by hanging but later would be granted a reprieve. ([Location 429](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=429))
+	- ```
+	- ```md
 	- The sentence of actual death by hanging could apply to recidivists, murderers, arsonists, horse thieves, and incorrigible youth. ([Location 434](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=434))
+	- ```
+	- ```md
 	- Though executions were relatively infrequent events, they were not meaningless or private events. High-profile cases were particularly likely to draw large crowds. Those in attendance might even have traveled long distances to witness the execution. ([Location 442](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=442))
+	- ```
+	- ```md
 	- The execution scene was also intended to be a “deeply spiritual experience for all those who witnessed” it (Friedman, 1993). ([Location 444](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=444))
+	- ```
+	- ```md
 	- In colonial America, jails were of little significance and were unremarkable in appearance. Architecturally, they resembled any other house or building and were located within the main parameters of the community. ([Location 455](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=455))
+	- ```
+	- ```md
 	- In an attempt to mimic family routines, the keeper (i.e., warden) was expected to be married and his family, along with the offend ers, resided under one roof. ([Location 457](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=457))
+	- ```
+	- ```md
 	- Offenders were required to pay for their keep, and there was little or no attempt to separate offenders by gender, age, or offense severity: Vagrants, prostitutes, runaway servants and slaves, disobedient apprentices, juvenile delinquents, the insane, prisoners of war, and religious offenders all were detained together; women and children were detained with men and others who had committed violent crimes ([Location 459](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=459))
+	- ```
+	- ```md
 	- there were few or no security measures to pre vent escapes. ([Location 462](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=462))
+	- ```
+	- ```md
 	- jails were not envisioned as a primary punishment or as a place of rehabilitation. Instead, they were used most commonly as holding places for offenders awaiting trial or punishment. ([Location 463](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=463))
+	- ```
+	- ```md
 	- jails were seen primarily a way of “prying open their purses” (Kann, 2005). ([Location 464](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=464))
+	- ```
+	- ```md
 	- Almshouses and workhouses functioned as alternatives to jail for the relief of the poor and those segments of the population that were not quite criminal. ([Location 466](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=466))
+	- ```
+	- ```md
 	- Though colonial communities were no doubt quaint in certain respects, they were also rigid in a way that made life demanding and difficult. In particular, severe punishment awaited anyone who strayed from cultural norms or social and religious authorities. ([Location 478](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=478))
+	- ```
+	- ```md
 	- In a harsh and unfamiliar new world, family, community, economic necessity, and religion contributed to a social context in which specific punishment ideas and practices were viewed as necessary and appropriate. ([Location 480](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=480))
+	- ```
+	- ```md
 	- Punishment in colonial America was overwhelmingly public and physical. It emphasized the condemnation of sin and disobedience, and ultimately repentance through shaming and humiliation. Punishment also was considered to be a moral obligation of the community. To neglect this obligation was a sin itself, equally subject to the displeasure of God. ([Location 481](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=481))
+	- ```
+	- ```md
 	- After 1790, the pillars of colonial existence gave way to a new social, cultural, and political order. As the American landscape changed geographically, demographically, and economically, so too did ideas about crime and punishment. The American Revolution heralded the beginning of the Industrial Revolution, westward expansion, and the era of penal modernity. ([Location 489](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=489))
+	- ```
+	- ```md
 	- reformers were already starting to question capital punishment and the conditions in colonial jails, and began to express mixed views if not outright opposition to physical and public punishments. ([Location 492](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=492))
+	- ```
+	- ```md
 	- Between 1790 and 1830, the new republic experienced rapid and marked social changes that culminated in what is now referred to as modernity. ([Location 496](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=496))
+	- ```
+	- ```md
 	- The social norms and values consistent with scientific reason, capitalism, free markets, democracy, and egalitarianism were established during this period and are regarded as the hallmarks of the modern age. ([Location 497](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=497))
+	- ```
+	- ```md
 	- Nationhood also established a “centralizing presence” that was absent in colonial America. ([Location 498](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=498))
+	- ```
+	- ```md
 	- federal laws—seventeen crimes against the new federal government were enacted in 1790—as well as the development of postal, roadway, lighthouse, and navigational systems. ([Location 499](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=499))
+	- ```
+	- ```md
 	- Following the Revolution, the frequency and seriousness of crime were seen as increasing, and cries of alarm could be heard in both the burgeoning cities and quieter countryside. ([Location 503](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=503))
+	- ```
+	- ```md
 	- Beginning in the 1790s, reformers, legislators, and penal authorities conceded that public punishments should be abandoned and incarceration adopted. ([Location 511](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=511))
+	- ```
+	- ```md
 	- Moreover, the institutions of family, church, and community could no longer absorb the rising numbers of the poor, criminal, insane, and other marginal social types (immigrants, freed blacks) who were seen as threats to the fragile new nation. ([Location 541](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=541))
+	- ```
+	- ```md
 	- Humanitarian reform guided by natural scientific laws rather than divine providence was the common interest of this movement. ([Location 546](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=546))
+	- ```
+	- ```md
 	- Prominent among these new beliefs were the ideas that men are equal and that human beings are naturally good and can improve or perfect themselves morally. Indeed, the chief con cern of the Enlightenment was to procure the ideal relationship between man, society, and the state. ([Location 548](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=548))
+	- ```
+	- ```md
 	- They held that man is the supreme achievement of God's creativity and ingenuity and that to devalue man's preeminence is an insult to God (Barnes, 1972). ([Location 558](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=558))
+	- ```
+	- ```md
 	- The rhetoric of the Enlightenment suggested that misguided individuals could be persuaded to exercise moral restraint, good judgment, and self-control. Therefore, severe draconian laws were unnecessary, as free men would voluntarily change their ways (Kann, 2005). ([Location 563](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=563))
+	- ```
+	- ```md
 	- crime was explained in terms of sin and disobedience to God and earthly authorities, crime in the nineteenth century was attributed to archaic legal codes that were counterintuitive to the theory of free will. ([Location 572](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=572))
+	- ```
+	- ```md
 	- Utilitarianism was particularly salient in the reform of the criminal justice system. ([Location 582](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=582))
+	- ```
+	- ```md
 	- Jeremy Bentham elevated utilitarianism to a moral science in his An Introduction to the Principles of Morals and Legislation (1789). ([Location 583](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=583))
+	- ```
+	- ```md
 	- In the nineteenth century, compared with the earlier colonial period, the criminal was no longer perceived to be a sinner who should be punished for offenses against God in accordance with biblical principles. ([Location 594](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=594))
+	- ```
+	- ```md
 	- Beccaria asserted that barbarism had no place in punishment, for it was not the intensity of punishment that had the greatest effect on the human spirit, but its duration. ([Location 615](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=615))
+	- ```
+	- ```md
 	- French and other philosophers agreed that to impose suffering upon anyone because they have made another suffer is an act of cruelty, condemned by reason and humanity. ([Location 617](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=617))
+	- ```
+	- ```md
 	- Bentham echoed this sentiment by maintaining that the pain of punishment was to exceed the pleasure obtained from the offense, but by only the slightest of margins. ([Location 624](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=624))
+	- ```
+	- ```md
 	- Enlightenment thinkers therefore concluded that the key to eliminating criminal behavior is the establishment of a penal code that prohibits unbridled discretion, favoritism, and oppression. ([Location 628](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=628))
+	- ```
+	- ```md
 	- The combined positions of Bentham and Beccaria formed a school of thought known as “classicism.” ([Location 637](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=637))
+	- ```
+	- ```md
 	- Police forces were created during the first half of the nineteenth century. ([Location 641](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=641))
+	- ```
+	- ```md
 	- This was one of the first fruits of liberty and confirms the remark of Montesquieu, “That, as freedom advances, the severity of the penal law decreases” (Bradford, [1793] quoted in Barnes, 1972: 104). ([Location 657](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=657))
+	- ```
+	- ```md
 	- In addition to concealing the strong arm of the state, incarceration deprived men of a revolutionary heritage of their most cherished value—liberty. ([Location 703](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=703))
+	- ```
+	- ```md
 	- Most notably, the colonial practice of “warning out” (e.g., banishment) was replaced by walling in and capital punishment was abolished for all but one or two offenses. ([Location 752](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=752))
+	- ```
+	- ```md
 	- In contrast to previous punishments and social practices, the universal aim of these social reforms was transformation: This new American mindset considered the prospect of curing, whereas seventeenth- and eighteenth-century Americans largely sought to maintain and care for problem populations. ([Location 779](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=779))
+	- ```
+	- ```md
 	- For much of the nineteenth century, American penology focused on reforming the prisons of the previous century. ([Location 781](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=781))
+	- ```
+	- ```md
 	- However, the hope of reforming the prison so that men might be reformed was eventually lost in the familiar realities of overcrowding and recidivism. ([Location 783](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=783))
+	- ```
+	- ```md
 	- In fact, social observers of the day acknowledged that the “progress of society necessarily presented new temptations and new facilities for crime” ([Location 817](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=817))
+	- ```
+	- ```md
 	- it was assumed that an epidemic of alcoholism had overcome the nation. ([Location 833](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=833))
+	- ```
+	- ```md
 	- A sense of moral panic was even communicated in various newspapers and periodicals. ([Location 857](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=857))
+	- ```
+	- ```md
 	- Influenced by medical advances of the time, the idea of crime as a moral disease was easily embraced, and the cure (or antidote) for a moral disease was thought to be a moral science. ([Location 885](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=885))
+	- ```
+	- ```md
 	- As with surgery, the corrupting influences needed to be removed, while the corrupted were nursed back to good moral health in a sanitary environment. Rush claimed that one could be returned to good moral health through constant employment in bodily labor. For the insane and disobedient, he designed what he called an im mobilizing tranquilizer chair. He held that two days of solitary confinement would internalize ([Location 893](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=893))
+	- ```
+	- ```md
 	- By 1830, penitentiaries were replacing the prisons that emerged in the late eighteenth century. ([Location 903](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=903))
+	- ```
+	- ```md
 	- Importantly, penitentiaries were intended to be different from the earliest prisons in both their form and function. ([Location 906](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=906))
+	- ```
+	- ```md
 	- In the end, whether the causes of crime were located in societal or in individual anomalies, the less fortunate and criminally wayward were not to be punished or reformed for presumed moral failings; they were to be rehabilitated for failings brought on by psychological, biological, and/or social irregularities. ([Location 1116](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1116))
+	- ```
+	- ```md
 	- Juvenile courts were not to operate according to due process, adversarial proceedings, presumption of innocence, and rights to a jury trial and defense counsel, but rather upon the presumption that troubled children were in need of treatment and care. ([Location 1613](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1613))
+	- ```
+	- ```md
 	- Since the court's purpose was to save and treat youth instead of determining guilt or innocence and administering punishment, progressives reasoned that broad and largely unfettered discretion was necessary if juvenile courts were to be successful in fulfilling their goals. ([Location 1623](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1623))
+	- ```
+	- ```md
 	- Since the role of the juvenile court was that of surrogate for the child's parents, the handling by the court of numerous childhood-related difficulties and problems that extended beyond lawbreaking was assumed ([Location 1638](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1638))
+	- ```
+	- ```md
 	- The premise behind the progressive-based penology was that scientific casework would reveal the causes of crime and ([Location 1883](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1883))
+	- ```
+	- ```md
 	- Francis Allen (1964) as the “twentieth-century rehabilitative ideal.” ([Location 1884](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1884))
+	- ```
+	- ```md
 	- The twentieth-century rehabilitative ideal fueled a search for the causes of crime that was undertaken in large part by the newly created University of Chicago. ([Location 1884](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1884))
+	- ```
+	- ```md
 	- the common explanatory factors involved the characteristics of individual criminal offenders, their group associations, and their immediate area of residence. ([Location 1888](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1888))
+	- ```
+	- ```md
 	- This sixty-year period of growth, however, was concerned with refining existing strategies rather than creating new ones. ([Location 1895](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1895))
+	- ```
+	- ```md
 	- Human behavior is a product of antecedent causes. ([Location 1902](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1902))
+	- ```
+	- ```md
 	- The antecedent causes of human behavior can be identified and it is the obligation of behavioral scientists to discover and describe the antecedent causes with all possible exactness. ([Location 1907](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1907))
+	- ```
+	- ```md
 	- Knowledge of the antecedent causes of problem behavior enables scientific treatment of human behavior problems. ([Location 1911](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1911))
+	- ```
+	- ```md
 	- Specifically, Park and Burgess theorized that American society is characterized by ever-present conditions of com petition, which generate conflict that is manifested in such social problems as crime. But American society possesses the inherent capacity to accommodate and/or correct both the conditions leading to conflict and other social problems like crime, thereby enabling the assimilation of all of society's members into American common ([Location 1943](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1943))
+	- ```
+	- ```md
 	- Together, these assumptions reflect the image of American society as an ongoing social system that becomes disrupted by social change. Social change results in social disorganization and conflict, which precipitates social problems like crime. ([Location 1946](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1946))
+	- ```
+	- ```md
 	- The trend in Chicago school studies of crime, then, was to identify and describe various social correlates of crime that, taken together, could provide a grounded explanation of crime to guide various accommodation or correction efforts. ([Location 1950](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1950))
+	- ```
+	- ```md
 	- Shaw and McKay (1972) documented that high-crime and delinquency neighborhoods suffered from a number of pathological conditions, ([Location 1954](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1954))
+	- ```
+	- ```md
 	- Moreover, the re searchers found that, despite rapid population increases and turnover, crime and delinquency rates in particular geographic neighborhoods remained constant. ([Location 1955](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1955))
+	- ```
+	- ```md
 	- the culture of slum neighborhoods is in conflict with the larger and more dominant culture of middle-class America. ([Location 1966](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1966))
+	- ```
+	- ```md
 	- A refinement of the theoretical reasoning of culture conflict occurred in 1938. ([Location 1970](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1970))
+	- ```
+	- ```md
 	- Sutherland (1947) identified several incidents that played pivotal roles in his efforts to move criminological theory beyond culture conflict. ([Location 1971](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1971))
+	- ```
+	- ```md
 	- Michael and Adler's (1933) critical appraisal of American criminology as essentially atheoretical antagonized Sutherland and turned his attention to the need for theoretical abstraction. ([Location 1972](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1972))
+	- ```
+	- ```md
 	- Professor Dean Ruml of the University of Chicago once asked a group (of which Sutherland was a part), “What do you know about criminal behavior?” (The Sutherland Papers, edited by Cohen, Lindesmith, and Schuessler, 1956: 16). Sutherland indicated that he could only summarize certain research findings on high-incidence crimes and refer to certain ([Location 1973](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1973))
+	- ```
+	- ```md
 	- propositions that had been proven to be false. ([Location 1976](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1976))
+	- ```
+	- ```md
 	- Sutherland recounted that Professor Louis Wirth asked, “What is the closest approach to a general theory of criminal behavior?” (ibid.: 17). The only possible answer was culture conflict, which Sutherland indicated he found to be quite lacking. ([Location 1977](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1977))
+	- ```
+	- ```md
 	- his 1930s' research with Thorsten Sellin: In their organization of national crime data, they encountered problems when attempting to apply the culture conflict framework to explain their data (ibid.: 16–17). ([Location 1979](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1979))
+	- ```
+	- ```md
 	- Sutherland's “differential association theory” contended that people be come delinquent or criminal through a form of learning that is structured by the individual being exposed to an excess of definitions favorable to the violation of law relative to definitions unfavorable to the violation of law. ([Location 1984](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=1984))
+	- ```
+	- ```md
 	- Robert K. Merton (1938) published an article entitled, “Social Structure and Anomie.” In this article, Merton presented another general theory of criminal behavior that came to epitomize structural functional explanations of crime. ([Location 2011](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2011))
+	- ```
+	- ```md
 	- Merton argued that all Americans, regardless of social status, are subject to a common socialization process that stresses high aspirations and open access to the means for achieving these high aspirations. ([Location 2015](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2015))
+	- ```
+	- ```md
 	- Merton claimed that everyone raised in American society is taught to believe that, through hard work and postponed gratification, they can achieve anything for which they are willing to work and sacrifice. This belief is known as the American Dream. However, as Merton elaborated, the American Dream is more myth than reality. ([Location 2017](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2017))
+	- ```
+	- ```md
 	- deprivation (i.e., deprivation relative to their high aspirations), which can result in anomie. Those suffering from anomie (or normlessness), in turn, experience disappointment and frustration that facilitates drift into various nonconformist behaviors, including crime. ([Location 2020](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2020))
+	- ```
+	- ```md
 	- Merton concluded that American society has a much higher incidence of crime than other Western industrial countries because of its uniformly high aspirations and its failure to provide equal access to the means necessary to achieve these commonly held high aspirations. ([Location 2023](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2023))
+	- ```
+	- ```md
 	- Cloward and Ohlin provided an integration of elements from the delinquency and opportunity theories of the Chicago School, Merton, and Sutherland. ([Location 2042](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2042))
+	- ```
+	- ```md
 	- Cloward and Ohlin contended that delinquents could pursue different and independent delinquent lifestyles. They argued that lower-class youth who experience relative deprivation and turn to delinquency will learn and pursue ([Location 2043](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2043))
+	- ```
+	- ```md
 	- those delinquent opportunities that are readily available to them—be they drugs, alcohol, violence, prostitution, or gambling (Cloward and Ohlin, 1960). ([Location 2044](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2044))
+	- ```
+	- ```md
 	- Overall, then, what emerged from the development of theories of criminality and delinquency was a continuing focus upon the individual offender and associated correlates of criminal behavior. ([Location 2046](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2046))
+	- ```
+	- ```md
 	- The prevailing rehabilitative thinking guiding this growth was that successful criminal and delinquent rehabilitation could be accomplished only through individualized treatment. ([Location 2052](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2052))
+	- ```
+	- ```md
 	- As a consequence, Congress developed federal prisons, the first of which was in Leavenworth, Kansas, in 1897. Atlanta, Georgia, became the second site for a federal prison in 1902, while Alderson, West Virginia, was chosen as the site for the first federal prison for women in 1928 (Rotman, 1995). These first federal prisons were operated separately and without centralized administration. As Rotman summarized: ([Location 2062](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2062))
+	- ```
+	- ```md
 	- The problems caused by prison congestion and the need for a more efficient record-keeping system to facilitate the goal of proper classification and segregation of prisoners, led to the creation of the Federal Bureau of Prisons in 1929. ([Location 2066](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2066))
+	- ```
+	- ```md
 	- In 1937, the Bureau of Prisons placed all prison employees under the Federal Civil Service, throwing off the last vestiges of political patronage. ([Location 2069](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2069))
+	- ```
+	- ```md
 	- The classification of offenders in the federal system was based upon the Bureau's criminological study of prisoners. Specifically, low-risk offenders were sent to non-custodial camps, while more serious offenders were sent to Leavenworth and Atlanta. ([Location 2075](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2075))
+	- ```
+	- ```md
 	- the most serious and hard core federal prisoners were sent to Alcatraz. ([Location 2078](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2078))
+	- ```
+	- ```md
 	- the bureau's classification system was far more comprehensive than the classification efforts of most states, some states were implementing similar prison classification methods and were expanding their range of prisons (ibid.). During this time, an increasingly complex array of minimum-, medium-, and maximum-security facilities were developed at the state and federal lev els. ([Location 2079](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2079))
+	- ```
+	- ```md
 	- in 1954, the American Prison Association changed its name to the American Correctional Association. This was the major professional organization for federal as well as state and local correctional professionals through out the country. ([Location 2084](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2084))
+	- ```
+	- ```md
 	- It was even agreed upon that the “antiquated bastilles” and “huge factory like institutions” were barriers to individualized treatment (Bell, 1956). ([Location 2087](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2087))
+	- ```
+	- ```md
 	- During the early implementation of pa role, primary attention was given to the release rather than the supervision process. ([Location 2119](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2119))
+	- ```
+	- ```md
 	- Initially, then, community supervision was not seen as a necessity because parole was to be used only for a select ([Location 2133](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2133))
+	- ```
+	- ```md
 	- few low-risk offenders with impeccable community ties. ([Location 2133](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2133))
+	- ```
+	- ```md
 	- Rather than being used for only a select few low-risk offend ers, parole became the preferred method of releasing inmates. ([Location 2135](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2135))
+	- ```
+	- ```md
 	- The clinical model stresses the professional capacity of parole agents to craft treatment programs that are responsive to the individual needs of the parolee and that can operate independently of the community. ([Location 2151](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2151))
+	- ```
+	- ```md
 	- Simon (1993) argued that the development of the clinical model in parole represented an institutional acknowledgement of a potential “underclass.” ([Location 2155](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2155))
+	- ```
+	- ```md
 	- that policy makers of the 1950s and 1960s believed there was a class of people who could not be absorbed into the labor force until they had been altered and fully prepared for the labor force. ([Location 2156](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2156))
+	- ```
+	- ```md
 	- The adoption of probation did not occur with the same speed and continuity as did the adoption of parole ([Location 2161](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2161))
+	- ```
+	- ```md
 	- the early implementation of probation, its differential and fragmented use was apparent. Some states used probation, while others used a suspended sentence that did not necessarily involve a period of direct supervision. State differences in court organization also contributed to diverse uses and structures of probation. ([Location 2162](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2162))
+	- ```
+	- ```md
 	- The probation supervision process was not altogether different from the parole supervision process. ([Location 2167](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2167))
+	- ```
+	- ```md
 	- tension between treatment and control existed in the prison as well, but it took on a new character in probation and parole. ([Location 2170](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2170))
+	- ```
+	- ```md
 	- Because probation and parole officers had treatment and sentence enforcement responsibilities, conflict was inherent in the officer's role. ([Location 2171](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2171))
+	- ```
+	- ```md
 	- 35 cases per officer ([Location 2174](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2174))
+	- ```
+	- ```md
 	- by 1965, 67 percent of people under correctional supervision at any given time were in the community. ([Location 2178](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2178))
+	- ```
+	- ```md
 	- Fifty-four percent of these were on probation, while 13 percent were on parole or some other form of aftercare ([Location 2179](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2179))
+	- ```
+	- ```md
 	- Throughout the twentieth century, the correctional system took on new and unplanned dimensions. ([Location 2182](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2182))
+	- ```
+	- ```md
 	- prison architect who joked that the following phrase should be etched into the stonework of a main prison gateway: “Abandon Hope All Ye Who Enter Here” (Bell, 1956). This is of course a far cry from the intention expressed in the slogan proposed by the then-director of the U.S. Bureau of Prisons: “Enter Prisoner—Exit Citizen” ([Location 2185](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2185))
+	- ```
+	- ```md
 	- it also has been documented that—instead of decisions based upon offender treatment needs—such decisions were determined largely by such legal variables as seriousness of offense and prior record: Legal variables (rather than offender characteristics and associated treatment needs) were reported to be the best predictors of prison sentence length, when an offender would be paroled from prison, and whether or not an offender would receive probation, prison, or reformatory placement (Wellford, 1975). ([Location 2188](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2188))
+	- ```
+	- ```md
 	- At the same time that probation and parole were becoming more popular, they fell short of meeting their stated goals. ([Location 2204](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2204))
+	- ```
+	- ```md
 	- in 1939, the then Attorney General declared parole to be a “source of scandal” ([Location 2206](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2206))
+	- ```
+	- ```md
 	- Given the size of the caseloads and the additional responsibilities of having to conduct pre- and post-sentence investigations, supervision often amounted to little more than random checks ([Location 2207](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2207))
+	- ```
+	- ```md
 	- It was widely acknowledged that the ideal caseload for each probation or parole officer should be fifty to sixty-five offenders; yet, for decades, caseloads had averaged approximately one hundred and fifteen offenders per officer (Bell, 1956). ([Location 2209](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2209))
+	- ```
+	- ```md
 	- probation and parole officers must attempt to “manage” and “control” their respective caseloads with little or no time for such lofty concerns as individualized treatment. ([Location 2216](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2216))
+	- ```
+	- ```md
 	- At the turn of the twentieth century, America faced numerous and profound social challenges. ([Location 2235](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2235))
+	- ```
+	- ```md
 	- it was believed that these challenges could be overcome through government interventions ([Location 2236](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2236))
+	- ```
+	- ```md
 	- The strategy for combating social ills was fairly straightforward: Determine the cause of the problem and develop policies and practices to correct it. The twentieth-century rehabilitative ideal reflects the Progressive-Era approach to confronting social… ([Location 2237](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2237))
+	- ```
+	- ```md
 	- Ex plain, treat, and eliminate… ([Location 2240](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2240))
+	- ```
+	- ```md
 	- The twentieth-century rehabilitative ideal gave rise to what is now known as the “… ([Location 2240](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2240))
+	- ```
+	- ```md
 	- overall goal of rehabilitation necessitated the search for the causes of criminality, which in turn led to more complicated and… ([Location 2241](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2241))
+	- ```
+	- ```md
 	- These explanations resulted in further differentiation and classification of offenders and… ([Location 2242](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2242))
+	- ```
+	- ```md
 	- As domains of professional expertise and other organizational demands increased, correctional agencies expanded and became more bureaucratized in order to… ([Location 2244](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2244))
+	- ```
+	- ```md
 	- the actual everyday practice of this burgeoning “correctional” system involved struggles with caseload management, routinized control, and treatment competency. Offenders tended not to be treated as individuals, but rather as categories or… ([Location 2248](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2248))
+	- ```
+	- ```md
 	- the cause of crime was enthusiastically pursued, answers… ([Location 2251](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2251))
+	- ```
+	- ```md
 	- Was it culture conflict, learning, anomie, reaction formation, or differential opportunity? How could a fast-developing penal bureaucracy respond to inconclusive theories in fulfilling its offender treatment and rehabilitation goals? Were the goals of treatment and rehabilitation mere disguises for governmental efforts to control and punish?… ([Location 2251](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2251))
+	- ```
+	- ```md
 	- Parole and especially probation were promoted as substitutes to the dominant practice of incarceration. However, instead of providing alternatives, these programs served as supplements. The salient consequences of these supplemental functions were increasing numbers of… ([Location 2254](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2254))
+	- ```
+	- ```md
 	- Until the turbulent decades of the 1960s and 1970s, this pattern of growth resulting from the rehabilitative… ([Location 2256](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2256))
+	- ```
+	- ```md
 	- While much has been said about the subjection of offenders to brutal conditions of punishment and confinement in the course of reform, inmate responses to these conditions have not been explored. More specifically, the psychological impact of confinement and the social organization of… ([Location 2260](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2260))
+	- ```
+	- ```md
 	- First, the body of research that enabled an understanding of prison life evolved from the theoretical developments of the… ([Location 2263](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2263))
+	- ```
+	- ```md
 	- The prison—a mini-society in its own right—provides an excellent opportunity for investigating the requirements of social order and the… ([Location 2265](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2265))
+	- ```
+	- ```md
 	- Second, the problem of order in prisons had become particularly strained by the 1950s, with more than fifty riots… ([Location 2268](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2268))
+	- ```
+	- ```md
 	- Beginning in 1952, approximately forty prison riots transpired in a span of… ([Location 2269](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2269))
+	- ```
+	- ```md
 	- It was generally assumed that prisons operated under conditions of absolute power, but the presence of inmate social systems and… ([Location 2271](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2271))
+	- ```
+	- ```md
 	- new body of research unearthed a deeper comprehension of prison life that called into question the very notion of… ([Location 2275](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2275))
+	- ```
+	- ```md
 	- The architects of this new research—Clemmer, Sykes, Irwin, and Giallombardo—forged what has become the conventional wisdom on inmate subcultures and… ([Location 2276](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2276))
+	- ```
+	- ```md
 	- Sociological interest in the prison began with The Prison Community (Clemmer, 1940). In this pioneering research, Clemmer studied the ways in which the prison community influences and shapes the attitudes and behavior of prisoners. ([Location 2279](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2279))
+	- ```
+	- ```md
 	- Clemmer employed the concept of assimilation as an analytical framework. ([Location 2281](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2281))
+	- ```
+	- ```md
 	- “prisonization” to describe the process of “taking on in greater or lesser degree the folkways, mores, customs and general culture of the prison.” ([Location 2283](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2283))
+	- ```
+	- ```md
 	- Clemmer proposed that all inmates undergo certain experiences that make them a part of the prison community. ([Location 2284](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2284))
+	- ```
+	- ```md
 	- This inferior role is reinforced by one's anonymous status, conferred by a prison number that replaces his or her name. The standard-issue uniforms that prevent individual expression further accentuate the imposed anonymity and inferiority. ([Location 2286](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2286))
+	- ```
+	- ```md
 	- A second universal experience at prison entry is learning the ways and means of the institution. ([Location 2290](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2290))
+	- ```
+	- ```md
 	- Learning the new habits for daily existence constitutes a third universal prison experience. ([Location 2293](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2293))
+	- ```
+	- ```md
 	- Clemmer's analysis of prison life extends beyond the universal features of prisonization. ([Location 2299](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2299))
+	- ```
+	- ```md
 	- he aimed to identify the factors that “bred or deepened criminality and antisociality and made the inmate characteristic of the criminalistic ideology in the prison community” ([Location 2301](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2301))
+	- ```
+	- ```md
 	- In short, he sought to identify the factors that accelerate or delay the prisonization process. Clemmer found that five factors exert the most pronounced effect on this process. ([Location 2302](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2302))
+	- ```
+	- ```md
 	- the inmate's pre-prison personality, the type and extent of relationships maintained with persons outside and inside the prison, and the inmate associations that were not of the inmate's choosing, such as their cellmates and workmates. A final factor affecting the degree and pace of prisonization is whether the inmate truly accepts the creeds and codes of the prison subculture or merely follows them in order to survive. ([Location 2303](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2303))
+	- ```
+	- ```md
 	- Clemmer's work highlights the fact that the prison experience necessarily disrupts the inmate's personality and that prospects for successful community reintegration depend on how “prisonized” the inmate becomes. ([Location 2308](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2308))
+	- ```
+	- ```md
 	- Wheeler (1971) affirmed that an inmate's conformity to socially prescribed norms varies with length of stay and the number of close associations within the prison. He found this relationship to be consistent with an inverted Ushape: Prisonization effects are least evident at the beginning and end of a sentence and are greatest midway into a sentence. ([Location 2311](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2311))
+	- ```
+	- ```md
 	- That is, prisonization is presumably less severe in treatment-oriented institutions than in custody/disciplinarian-oriented institutions. ([Location 2318](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2318))
+	- ```
+	- ```md
 	- Though Clemmer's contributions to the understanding of prison communities and socialization are many, he did not address the impact of prisonization upon release. ([Location 2319](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2319))
+	- ```
+	- ```md
 	- Clemmer also did not address questions surrounding the origins of the prison subculture. ([Location 2321](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2321))
+	- ```
+	- ```md
 	- This omission paved the way for the seminal works of Gresham Sykes (1958) and John Irwin and Donald Cressey (1962). ([Location 2323](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2323))
+	- ```
+	- ```md
 	- In The Society of Captives (1958), Sykes employed a social-psychological perspective to study the inmate social system of the New Jersey State Maximum Security Prison. ([Location 2325](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2325))
+	- ```
+	- ```md
 	- he examined the impact of the prison environment (i.e., the social) on the mentality and self-concept (i.e., the psychological) of the inmate. ([Location 2326](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2326))
+	- ```
+	- ```md
 	- Sykes called attention to the often forgotten or ignored truth that physical pains, such as corporal punishments, are not the only pains endured while confined. ([Location 2327](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2327))
+	- ```
+	- ```md
 	- he termed the “pains of imprisonment”—have their roots in the extremely “depriving or frustrating” nature of the inmate's captivity. ([Location 2329](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2329))
+	- ```
+	- ```md
 	- Sykes (1958) concluded that five deprivations constituted the greatest pains of imprisonment. ([Location 2333](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2333))
+	- ```
+	- ```md
 	- One such pain was the deprivation of liberty, which went beyond the obvious dimension of being confined to a secure institution. ([Location 2334](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2334))
+	- ```
+	- ```md
 	- Sykes proposed that inmates ultimately adapted to this psychological pain by rejecting their rejecters. ([Location 2338](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2338))
+	- ```
+	- ```md
 	- the deprivation of autonomy, or the loss of self-determination. This deprivation refers to the all-encompassing regulations that preclude individual decision making about the most basic and mundane of daily functions (e.g., eating, sleeping, showering, interacting). ([Location 2340](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2340))
+	- ```
+	- ```md
 	- inmate antagonism toward rules likely is aggravated by the fact that officials feel no obligation to explain the rationale for their system of rules. ([Location 2344](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2344))
+	- ```
+	- ```md
 	- The third pain identified by inmates in Sykes's (1958) study was the deprivation of goods and services. ([Location 2348](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2348))
+	- ```
+	- ```md
 	- the deprivation of goods and services is not the result of “self-sacrifice in the interests of the community,” nor the result of “present pleasures foregone for pleasures in the future.” ([Location 2353](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2353))
+	- ```
+	- ```md
 	- the deprivation of heterosexual relationships has a particularly detrimental effect on the male psyche. ([Location 2355](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2355))
+	- ```
+	- ```md
 	- Added to this is the sexual frustration that results from the lack of heterosexual relationships, while surrendering to that frustration through homosexual en counters only further degrades the self-concept. ([Location 2359](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2359))
+	- ```
+	- ```md
 	- The final deprivation identified by inmates is the loss of security. ([Location 2361](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2361))
+	- ```
+	- ```md
 	- “worst thing about prison is you have to live with other prisoners.” ([Location 2361](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2361))
+	- ```
+	- ```md
 	- Sykes (1958) found that adaptations to the pains of imprisonment were numerous and could include es caping physically or psychologically, mounting a violent insurrection, or seeking peaceful change though legal means. ([Location 2367](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2367))
+	- ```
+	- ```md
 	- the more realistic mode of surviving the pains of imprisonment is through the pat terns of social interaction established by the inmates themselves. Such pat terns of interaction were termed “adaptive endurance” ([Location 2370](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2370))
+	- ```
+	- ```md
 	- adaptive endurance, or patterned social interaction, fluctuated be tween the two extremes of “collectivistic” and “… ([Location 2374](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2374))
+	- ```
+	- ```md
 	- the greater the inmate solidarity, the greater will be the adherence to the inmate code that governs daily life. According to this code, inmates are not to (1) interfere with other inmates' interests (i.e., “don't be nosey,” “don't have a loose lip,” “keep off a man's back,” “… ([Location 2376](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2376))
+	- ```
+	- ```md
 	- “do your own time,” and try to keep feuds and grudges to a minimum); (3) exploit fellow inmates (i.e., “don't break your word,” “don't welsh on debts”); (4) weaken (i.e., “don't whine or cop out”); or (5) be a sucker (i.e., guards are not to be… ([Location 2379](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2379))
+	- ```
+	- ```md
 	- Despite verbal allegiance to the code, several inmates adopt “alienative” responses to the pains of imprison ment. The “rat” or “squealer” violates the code of communication with guards on occasion,… ([Location 2384](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2384))
+	- ```
+	- ```md
 	- A “gorilla” violates the inmate code by forcefully taking from other weaker inmates,… ([Location 2386](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2386))
+	- ```
+	- ```md
 	- economic exploitation to manipulate… ([Location 2387](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2387))
+	- ```
+	- ```md
 	- Sykes found that the merchant is among the most alienated because he is too willing to pursue his own… ([Location 2387](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2387))
+	- ```
+	- ```md
 	- violate the code through their sexual conduct. “Wolves,” “punks,” and “fags” are so labeled because of their ho mosexual activity: Wolves are the aggressors, punks are sexually submissive, and fags are simply homosexual by nature. “Ball busters” are inmates who… ([Location 2388](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2388))
+	- ```
+	- ```md
 	- Inmate roles also include “toughs” and “hipsters.” Toughs are considered touchy and a threat because of their unpredictable outbursts. A hipster is a “wanna-be” who pretends to be tough by… ([Location 2392](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2392))
+	- ```
+	- ```md
 	- It is not accurate to say that these various characterizations serve merely as nicknames or… ([Location 2394](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2394))
+	- ```
+	- ```md
 	- termed them, “argot… ([Location 2395](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2395))
+	- ```
+	- ```md
 	- These roles reflect the principles of the inmate code and serve as cues for interaction with other inmates… ([Location 2395](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2395))
+	- ```
+	- ```md
 	- effectively function as a kind of… ([Location 2396](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2396))
+	- ```
+	- ```md
 	- Sykes's (1958) perspective on the origins and features of the inmate social system is… ([Location 2398](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2398))
+	- ```
+	- ```md
 	- his thesis does not allow for the possibility that the origins of prison subcultures or inmate behavior lay… ([Location 2399](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2399))
+	- ```
+	- ```md
 	- the importation thesis—offers a different interpretation of the… ([Location 2400](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2400))
+	- ```
+	- ```md
 	- and consequences of inmate subcultures. This perspective was developed most thoroughly by John Irwin and Donald Cressey. ([Location 2401](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2401))
+	- ```
+	- ```md
 	- Irwin and Cressey (1962) ([Location 2403](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2403))
+	- ```
+	- ```md
 	- They asserted that inmates are not simply “blank slates” upon entering the prison com munity and that the normative systems and antisocial behaviors developed on the outside inevitably are imported into the prison. ([Location 2404](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2404))
+	- ```
+	- ```md
 	- This typology explains not only the origins of prison subcultures, but also the influence of these subcultures on rehabilitative efforts in the prison and, ultimately, on the likelihood of recidivism. ([Location 2407](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2407))
+	- ```
+	- ```md
 	- Irwin and Cressey (1962) maintained that a thief–criminal subculture has a discernable presence in the prison. ([Location 2410](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2410))
+	- ```
+	- ```md
 	- Irwin and Cressey argued that the attributes of trustworthiness and dependability are not exclusive to the thief–criminal subculture found in the prison. Rather, these attributes [pre]exist in the thief–criminal subculture ([Location 2412](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2412))
+	- ```
+	- ```md
 	- outside the prison, as illustrated by the familiar adage “honor among thieves.” ([Location 2413](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2413))
+	- ```
+	- ```md
 	- Those belonging to this subculture genuinely want to be released from prison and, until that time arrives, they want a minimum of conflict. This means that members of this subculture do not seek status and prestige within the institution, but instead seek things that make incarceration more bearable. This can include radios, contraband books, food, socks, and gadgets that enhance leisure time. ([Location 2417](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2417))
+	- ```
+	- ```md
 	- Irwin and Cressey (1962) con ceded that a convict–prison subculture does emerge in response to the deprivations of freedom, wealth, and goods and services. ([Location 2421](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2421))
+	- ```
+	- ```md
 	- However, they also argued that the distinguishing features of this particular subculture are not directly de termined by these deprivations. ([Location 2422](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2422))
+	- ```
+	- ```md
 	- inmates associated with the convict–prison subculture consist of gorillas, merchants, and toughs, whose core values revolve around utilitarianism and manipulation. ([Location 2423](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2423))
+	- ```
+	- ```md
 	- In contrast to the thief–criminal subculture, members of the convict–prison subculture desire acceptance only from those within the prison. They acquire positions of status by means available only in the prison and have a vested interest in sustaining the existing order of the prison. ([Location 2426](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2426))
+	- ```
+	- ```md
 	- Irwin and Cressey (1962) also identified a legitimate prison subculture that seems to reject both the values of the thief and those of the convict subculture. This subculture consists of “accidental” criminals, ([Location 2429](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2429))
+	- ```
+	- ```md
 	- These particular criminals subscribe to prosocial attitudes and behaviors on the outside and on the in side. ([Location 2431](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2431))
+	- ```
+	- ```md
 	- This subculture is composed of inmates that prison officials refer to as “good prisoners.” ([Location 2434](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2434))
+	- ```
+	- ```md
 	- Irwin and Cressey (1962) found that rehabilitative potential is highest for those aligned with the legitimate subculture and lowest for those in the convict–prison subculture. ([Location 2439](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2439))
+	- ```
+	- ```md
 	- recidivism is most likely to occur in the convict–prison subculture because convicts remain the primary reference group. ([Location 2441](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2441))
+	- ```
+	- ```md
 	- For those in the thief–criminal subculture, the prison is a “pitfall” or disruption to outside life. Their likelihood of recidivating is not as low as for those in the legitimate subculture, ([Location 2442](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2442))
+	- ```
+	- ```md
 	- Irwin concluded as Sykes had that some inmates fail to cope entirely and ([Location 2445](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2445))
+	- ```
+	- ```md
 	- instead slip into suicidal or psychotic behavior. ([Location 2446](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2446))
+	- ```
+	- ```md
 	- These three modes of coping correspond closely with the subculture typology just presented in that “jailers” make the prison their world, while “gleaners” make the best of the situation through participation in education and other self-improvement programs. ([Location 2447](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2447))
+	- ```
+	- ```md
 	- no mat ter how inmates choose to do their time, they all acquire what Irwin termed the “convict identity.” ([Location 2450](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2450))
+	- ```
+	- ```md
 	- The convict identity, like prisonization, is acquired in degrees, but it hinders the future of all felons, no matter how much time passes since release. ([Location 2450](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2450))
+	- ```
+	- ```md
 	- Giallombardo's (1966) study of female subcultures. ([Location 2457](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2457))
+	- ```
+	- ```md
 	- Based on her observations at the Federal Reformatory for Women in West Virginia, she concluded that the pains of imprisonment do stimulate the formation of a subculture, but that the characteristics of female subcul tures are best explained by factors external to the prison. ([Location 2458](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2458))
+	- ```
+	- ```md
 	- Giallombardo (1966) found that, in large part, the pains of imprisonment are just as intense for women as they are for men. Women, too, find the deprivations of liberty, autonomy, material goods, and… ([Location 2460](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2460))
+	- ```
+	- ```md
 	- Unlike their male counterparts, however, women cite companionship and separation from their children… ([Location 2461](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2461))
+	- ```
+	- ```md
 	- A major exception to this otherwise shared prison experience is the loss of security. Unlike men, women generally do not fear… ([Location 2463](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2463))
+	- ```
+	- ```md
 	- Thus, while men fear being literally stabbed in the back, women fear a… ([Location 2466](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2466))
+	- ```
+	- ```md
 	- Giallombardo and others held that the importation of culturally determined roles into the prison also is exhibited in… ([Location 2469](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2469))
+	- ```
+	- ```md
 	- cre ating pseudo or “make believe” families that homosexual roles and relationships are played out… ([Location 2470](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2470))
+	- ```
+	- ```md
 	- Overall, Giallombardo (1966) noted that the pseudo-family roles are… ([Location 2474](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2474))
+	- ```
+	- ```md
 	- They include the “femme” or “mommy,” which is the most highly coveted role and parallels the role of… ([Location 2475](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2475))
+	- ```
+	- ```md
 	- They also include the “stud broad,” which is patterned after the “… ([Location 2476](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2476))
+	- ```
+	- ```md
 	- This role also affords considerable prestige in the female inmate subculture as it constitutes the only semblance of… ([Location 2476](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2476))
+	- ```
+	- ```md
 	- Additional wives generally fulfill a specific and individualized function. Some serve an economic purpose by helping to secure material gains. Other wives refrain from homo sexual activity and serve only in an emotional capacity. However, the wives or family… ([Location 2479](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2479))
+	- ```
+	- ```md
 	- The label of chippie is given to prison prostitutes who engage in sexual relations for mate rial… ([Location 2484](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2484))
+	- ```
+	- ```md
 	- The snitcher in the female subculture parallels the rat or squealer in… ([Location 2486](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2486))
+	- ```
+	- ```md
 	- “accidental criminals” of the female prison are known… ([Location 2487](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2487))
+	- ```
+	- ```md
 	- They are viewed by their fellow in mates as naïve, suckers, and even unwitting in their betrayals because they are so easily… ([Location 2488](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2488))
+	- ```
+	- ```md
 	- The jive bitch, on the other hand, is highly purposeful in her betrayals; her sole intent is to create conflict and break… ([Location 2490](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2490))
+	- ```
+	- ```md
 	- Though many of the argot roles identified in the female subculture involve self-interest and untrustworthy behavior, there are some loyalties that are maintained in female institutions. “Rap buddies” and “homeys” are inmates who foster a reasonable assumption of mutual trust. “Connects” work in the prison economy and are respected for supplying needed goods and information. “Boosters” are the partial… ([Location 2492](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2492))
+	- ```
+	- ```md
 	- Giallombardo's (1966) study revealed obvious similarities between the female and male subcultures, but important differences as well. Absent are the argot roles of wolf, tough, gorilla, ball buster, hipster, and the right guy. The ab sence of the right guy role, in particular, reflects the diminished importance of the inmate code and the attendant notions of fair play and loyalty. A second important distinction is that male conflicts… ([Location 2496](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2496))
+	- ```
+	- ```md
 	- Giallombardo concluded that the female inmate social system is not merely a functional response… ([Location 2500](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2500))
+	- ```
+	- ```md
 	- ment, as Sykes had proposed for the male inmate social system. While these pains provide the necessary conditions for the emergence of a social sys tem, the pains alone do not explain the characteristics of the female sub culture. Rather, the characteristics of the female inmate subculture are… ([Location 2501](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2501))
+	- ```
+	- ```md
 	- In The Society of Captives (1958), Sykes challenged the conventional belief that prisons are institutions of total power. He suggested that the exercise of total power within the institutional setting is more theoretical than real and that maintaining order is a delicate balancing act that involves ex change and reciprocity. ([Location 2508](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2508))
+	- ```
+	- ```md
 	- officials are engaged in a continuous struggle with their captives and enlist the assistance of inmates to ease this struggle and facilitate order ([Location 2511](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2511))
+	- ```
+	- ```md
 	- what Sykes termed “the defects of total power.” ([Location 2512](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2512))
+	- ```
+	- ```md
 	- First, he argued that the power of prison officials is not based on freely given authority. ([Location 2513](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2513))
+	- ```
+	- ```md
 	- those who are subjected to it will feel no moral obligation to comply with rules ([Location 2515](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2515))
+	- ```
+	- ```md
 	- many inmates claim to be innocent and view their convictions and incarcerations as unfounded, ([Location 2516](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2516))
+	- ```
+	- ```md
 	- The reality of a limited use of force also contributes to the defects of power. ([Location 2517](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2517))
+	- ```
+	- ```md
 	- Sykes proposed that ([Location 2518](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2518))
+	- ```
+	- ```md
 	- Physical force might temporarily subdue the inmate but, on a repeated basis, will have little impact both in the long term and in more complicated situations. ([Location 2519](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2519))
+	- ```
+	- ```md
 	- In an environment wherein authority is not viewed legitimately and force is limited, a system of rewards and punishments could serve as a viable al ternative for securing order and compliance. ([Location 2521](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2521))
+	- ```
+	- ```md
 	- Sykes (1958) claimed that even this strategy was destined for defeat. ([Location 2523](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2523))
+	- ```
+	- ```md
 	- the punishments administered in prison lose their “potency” because they do not constitute a dis cernible departure from the pains and deprivations already experienced: Inmates already are subjected to a steady diet of violence and threats of violence from other inmates in addition to strict rules from officials. ([Location 2523](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2523))
+	- ```
+	- ```md
 	- inmates often view these privileges as rights or obligations, rather than as rewards to be earned on a separate and gradual basis. ([Location 2529](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2529))
+	- ```
+	- ```md
 	- Sykes (1958) claimed that defects of power can be attributed to correctional officers who fail to exercise their control and authority properly. ([Location 2531](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2531))
+	- ```
+	- ```md
 	- The officers' job performance is judged by how well they are able to “handle” those in their charge; thus, a system of give and take serves the purpose of “handling” inmates in a way that gives the appearance of order and good job performance. The officer–inmate relationship, then, is not one of complete dominance by the former over the latter; it is a relationship characterized by cooperation and exchange via bargaining, “deals,” and “trades.” ([Location 2537](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2537))
+	- ```
+	- ```md
 	- Sykes (1958) concluded that the power defects are structurally induced. That is, the defects cannot be eliminated simply by hiring more qualified, better paid, or better trained staff. ([Location 2542](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2542))
+	- ```
+	- ```md
 	- Rather, the cooperative relationship between staff and inmates is a functional feature of a social system beset with unavoidable pains and deprivations. ([Location 2543](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2543))
+	- ```
+	- ```md
 	- For this reason, Sykes advised that any prison reform aimed at gaining more control that does not heed the culture of inmates is destined for failure. ([Location 2545](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2545))
+	- ```
+	- ```md
 	- More generally, it is apparent that profound increases in AfricanAmerican and Hispanic inmate populations and the growth of prison gangs have altered, but not negated, the strength and structure of the inmate social system in male prisons. ([Location 2559](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2559))
+	- ```
+	- ```md
 	- this increased propensity for violence renders the sanctions available to prison officials virtually meaningless. The more gangs rule themselves and other inmates, the more the system of reciprocity and ([Location 2567](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2567))
+	- ```
+	- ```md
 	- exchange between staff and inmates weakens. ([Location 2568](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2568))
+	- ```
+	- ```md
 	- Ralph contended that such a balance may be teetering in a dangerous direction, as gangs are at constant war with each other and are seeking to control not only the inmate subculture, but the institution itself. ([Location 2569](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2569))
+	- ```
+	- ```md
 	- The quality of management and prison life also depends on cooperative relationships with outside actors (i.e., legislators, judges, and community ac tivists), and not inside actors (i.e., inmates). ([Location 2578](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2578))
+	- ```
+	- ```md
 	- The presence of order (i.e., low rates of violence and other misconduct), good amenities (i.e., availability of clean cells, decent food), and good service (i.e., availability of various rehabilitative programs) is not contingent upon a “better class” of inmates, but rather upon effective prison administration (ibid.). ([Location 2579](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2579))
+	- ```
+	- ```md
 	- he reasoned that the responsibility for ineffective prisons ultimately rests with the failures of administration and he argued that the failures of the past can be corrected. ([Location 2582](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2582))
+	- ```
+	- ```md
 	- Prior to the 1960s, therefore, it was widely believed that an effective correctional system was within reach and that the problem of crime could be overcome eventually. ([Location 2595](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2595))
+	- ```
+	- ```md
 	- “march of progress” ([Location 2596](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2596))
+	- ```
+	- ```md
 	- 1960s, faith in the capacity of the government to control crime took a decidedly downward course. ([Location 2597](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2597))
+	- ```
+	- ```md
 	- Many academics charged that correctional practices were doing more harm than good and that the traditional response of “more [state control and intervention] is better” had become the problem rather than the solution to crime control. ([Location 2598](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2598))
+	- ```
+	- ```md
 	- The Hippie Generation ([Location 2613](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2613))
+	- ```
+	- ```md
 	- their need to separate from the hypocrisy of the old culture is what drove their opposition. ([Location 2617](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2617))
+	- ```
+	- ```md
 	- This protest philosophy led to demonstrations that often were festivals for radical and unconventional behavior. ([Location 2621](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2621))
+	- ```
+	- ```md
 	- Counterculturalist Gridley Wright wrote in 1969: “I don't believe that there is anything like rights and justice and to the degree I would see myself as hung up with concepts like that, I would be in a circular bag, because there never have been rights and justice” ([Location 2626](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2626))
+	- ```
+	- ```md
 	- Brown v. Board of Education in 1954, ([Location 2634](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2634))
+	- ```
+	- ```md
 	- Despite seeking peaceful means to racial integration, organizers in the South met with legal and violent forms of retaliation. ([Location 2639](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2639))
+	- ```
+	- ```md
 	- Malcolm X and other leaders portrayed black racism as a global third world issue linked to the history of “white” colonialism. ([Location 2650](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2650))
+	- ```
+	- ```md
 	- Malcolm X described his objectives for civil rights as “complete freedom, complete justice, complete equality, by any means necessary.” ([Location 2653](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2653))
+	- ```
+	- ```md
 	- The creation of the Black Panther Party in 1966 reflects this call to action “by any means necessary.” ([Location 2655](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2655))
+	- ```
+	- ```md
 	- established in Oakland, California, to move black power into the electoral arena and to defend against the actions of the police. ([Location 2656](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2656))
+	- ```
+	- ```md
 	- Their guiding philosophy is that “the Panther never attacks first, but when he is backed into a corner, he will strike back viciously” (Skolnick, 1969). ([Location 2659](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2659))
+	- ```
+	- ```md
 	- The Watts riots of August 1965 resulted in 4,000 arrests, while the Chicago riots resulted in 3,000 arrests in three ([Location 2661](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2661))
+	- ```
+	- ```md
 	- days. ([Location 2662](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2662))
+	- ```
+	- ```md
 	- The Detroit riot of 1967 produced 43 deaths, 7200 arrests in nine days, hundreds of injuries, 1,300 destroyed buildings, 5,000 newly homeless, and approximately $50 mil lion in damages (Graham, 1992). ([Location 2662](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2662))
+	- ```
+	- ```md
 	- In Newark, 1,500 were arrested after five days of rioting in April 1968. ([Location 2664](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2664))
+	- ```
+	- ```md
 	- The women's rights movement advanced alongside the anti-war and black civil rights movements, albeit at a slower pace. ([Location 2672](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2672))
+	- ```
+	- ```md
 	- both shared a history of oppression by a white male power structure. Blatant sexual discrimination was officially incorporated into a number of existing criminal and civil laws. ([Location 2674](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2674))
+	- ```
+	- ```md
 	- Corrective action in the form of civil rights legislation was far from immediate. Segregated classified ads were still prevalent in 1966. The Equal Employment Opportunities Commission found persistent violations by race, origin, and religion in twenty-one newspapers and 18,000 advertisements. ([Location 2679](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2679))
+	- ```
+	- ```md
 	- The demand for civil rights initiated by blacks and women soon expanded into a mass group rights movement including Hispanics, American Indians, college students, welfare recipients, soldiers, gays, lesbians, consumer advocates, and a variety of environmental groups (Feenberg, 1986). ([Location 2687](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2687))
+	- ```
+	- ```md
 	- It is from this context that prisoners launched their fight against inhumane and unfair treatment. ([Location 2692](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2692))
+	- ```
+	- ```md
 	- Those who were politically active on the outside often found themselves arrested and confined on the inside (Wald, 1980). ([Location 2695](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2695))
+	- ```
+	- ```md
 	- Pallas and Barber (1980) characterized the prisoner rights movement as unfolding in three stages. ([Location 2699](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2699))
+	- ```
+	- ```md
 	- The first of these stages is reflected in the riots of the 1950s, which were motivated mainly by demands for decent food, shelter, health care, early parole, and good treatment in general. ([Location 2700](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2700))
+	- ```
+	- ```md
 	- The second stage of the movement coincided with the increased organization of Muslim inmates (ibid.). ([Location 2704](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2704))
+	- ```
+	- ```md
 	- The third, or revolutionary, stage of the prisoner rights movement— which lasted from about 1968 to 1975—was the culmination of these worsening conditions (Pallas and ([Location 2715](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2715))
+	- ```
+	- ```md
 	- Barber, 1980). This final stage can be distinguished from the earlier stages by the manner in which inmates organized and the public support given to inmates in their quest for justice. For example, this highly politicized stage of the prisoner rights movement owes much to the Black Panthers, whose influence was most pronounced in the California prison system. ([Location 2716](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=2716))
+	- ```
+	- ```md
 	- The decentralization movement was an outgrowth of the same social context that spawned the prisoner rights movement. ([Location 3008](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3008))
+	- ```
+	- ```md
 	- The rhetoric of the decentralization movement was broader than prisoner rights, however, in that “total institutions” for the “dangerous, the defective, and the dependant” all were seen as problematic (Lowman and Menzies, 1987). ([Location 3010](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3010))
+	- ```
+	- ```md
 	- The prison research of Clemmer, Sykes, Irwin, Cressey, and Giallombardo supplied a ready foundation for decentralization efforts. ([Location 3015](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3015))
+	- ```
+	- ```md
 	- labeling theory functioned to expand and solidify this rationale. ([Location 3017](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3017))
+	- ```
+	- ```md
 	- In stark contrast to previous theories of crime and delinquency, labeling theory argues that interaction with the criminal justice system actually can create, intensify, and perpetuate criminal behavior (Cicourel, 1968; Emerson, 1969; Schur, 1971). ([Location 3018](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3018))
+	- ```
+	- ```md
 	- The state labels and stigmatizes offenders, thus subjecting them to criminal associations that, in turn, make criminal careers more likely. ([Location 3020](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3020))
+	- ```
+	- ```md
 	- Under this framework, the previously unquestioned rehabilitative agenda of “more is better” became viewed as dubious, if not detrimental. ([Location 3021](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3021))
+	- ```
+	- ```md
 	- According to Tannenbaum, the dramatization of evil is initiated in response to acts of normal, youthful misbehavior (e.g., playing baseball in the street and hitting a ball through a neighbor's window). ([Location 3031](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3031))
+	- ```
+	- ```md
 	- In Social Pathology (1951), Edwin Lemert introduced two fundamental concepts that refined labeling theory. ([Location 3041](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3041))
+	- ```
+	- ```md
 	- These concepts are primary and secondary deviance. Primary deviance refers to the range of deviant or criminal acts committed for a variety of situational or personal reasons. ([Location 3042](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3042))
+	- ```
+	- ```md
 	- Lemert argued that this shift involves a sequential process of primary deviant acts followed by gradually amplified negative social audience reactions. ([Location 3046](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3046))
+	- ```
+	- ```md
 	- he argued that criminologists are drawn to ideas that challenge the conventional wisdom on causal sequence. ([Location 3054](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3054))
+	- ```
+	- ```md
 	- In effect, “a theory that blamed the government for causing more harm than good struck a chord of truth that resonated with the times. Labeling theory, of course, did precisely this in arguing that the criminal justice system stigmatized offenders and ultimately trapped them in a criminal career” (ibid.). ([Location 3062](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3062))
+	- ```
+	- ```md
 	- the presidential campaign of 1964. The national government was caught up in a “war mentality” against domestic social ills and foreign enemies, ([Location 3068](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3068))
+	- ```
+	- ```md
 	- The federal government's response to the problem of crime therefore was found in the application of the war metaphor and culminated in the passage of the Omnibus Crime Control and Safe Streets Act of 1968 (ibid.). ([Location 3070](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3070))
+	- ```
+	- ```md
 	- President Lyndon B. Johnson established the President's Commission on Law Enforcement and the Administration of Justice in 1965. ([Location 3077](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3077))
+	- ```
+	- ```md
 	- the various task force results were integrated into a series of two hundred conclusions and recommendations, which was published as The Challenge of Crime in a Free Society (U.S. President's Commission on Law Enforcement and Administration of Justice, 1967a). ([Location 3082](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3082))
+	- ```
+	- ```md
 	- Prejudicial dispositions meant handling cases “unofficially” through the use of various non-institutional responses to law breaking, such as diversion, deinstitutionalization, and various other community-based programs. ([Location 3087](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3087))
+	- ```
+	- ```md
 	- The 1968 Safe Streets Act was passed in order to launch the nationwide implementation of decentralization reforms and other presidential task-force recommendations. ([Location 3096](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3096))
+	- ```
+	- ```md
 	- The Safe Streets Act, under the purview of the Justice Department, provided a major grant-in-aid program to assist states and local government in their efforts to effectively confront crime. ([Location 3098](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3098))
+	- ```
+	- ```md
 	- Juvenile diversion programs were the early mainstream of the decentralization movement. ([Location 3121](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3121))
+	- ```
+	- ```md
 	- diversion is to result in a narrowing of official juvenile justice jurisdiction to only those cases of “manifest danger.” ([Location 3122](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3122))
+	- ```
+	- ```md
 	- The commission specified that the bureaus' services can include individual, group, and whole-family (parents and siblings) counseling; placement in group or foster homes; and work, recreational, special remedial education, and vocational training services. ([Location 3125](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3125))
+	- ```
+	- ```md
 	- Type 1: Legal. Legal ([Location 3142](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3142))
+	- ```
+	- ```md
 	- To overcome these national problems, nothing less than a political, cultural, and economic reversal seemed appropriate. ([Location 3316](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3316))
+	- ```
+	- ```md
 	- a “new day” marked ([Location 3317](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3317))
+	- ```
+	- ```md
 	- Although the wars on drugs and crime are perhaps the most notable examples of the “zero tolerance” posture, entering the decade of the eighties, pollsters reported that Americans were mostly concerned with the economy, the Vietnam War, the cold war, and civil rights (Dyer, 2000). ([Location 3320](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3320))
+	- ```
+	- ```md
 	- crime rate between 1973 and 1982 was relatively stable, ([Location 3323](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3323))
+	- ```
+	- ```md
 	- exception of those living in urban poverty, ([Location 3323](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3323))
+	- ```
+	- ```md
 	- He marked this policy shift in decisive terms by seeking to reduce the size of government, the amount of taxes, the number of business regulations, ([Location 3343](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3343))
+	- ```
+	- ```md
 	- There were more than 100,000 deca-millionaires and the number of billionaires increased from a handful in 1981, to 26 in 1986, 49 in 1987, and 52 by 1988 (Phillips, 1991). ([Location 3351](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3351))
+	- ```
+	- ```md
 	- Quality jobs and the nation's manufacturing base were vanishing and being replaced with low-paying service sector jobs, or what the Washington Post termed “McJobs” ([Location 3360](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3360))
+	- ```
+	- ```md
 	- The age of conservatism was not without successes, but the downside was noticeably steep. The accumulation of individual wealth came at the expense of the majority of the population, and the more universal gains were largely deceptive. Though Reagan halted the recessionary cycle by fortifying national defense, the recovery was orchestrated under the precarious condition of deficit spending. During Reagan's presidency, the government spent $1.3 trillion more than it collected in taxes and other government receipts (Harrison and Bluestone, 1988). ([Location 3371](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3371))
+	- ```
+	- ```md
 	- These assertions set the stage for a new approach to crime, one that invoked the old ideas of classicism and moralism. ([Location 3409](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3409))
+	- ```
+	- ```md
 	- rational choice theory (Cornish and Clarke, 1986), which is largely a restatement of the classicist doctrine of free will, assumes that criminals are opportunistic actors, capable of calculating the consequences of their behavior. ([Location 3411](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3411))
+	- ```
+	- ```md
 	- “expected utility” principle of economic theory, ([Location 3413](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3413))
+	- ```
+	- ```md
 	- Lyndon Johnson in 1965 and Richard Nixon in 1969 also waged wars on crime. The Reagan–Bush war on crime was, however, unique in terms of its scope and character: it was far more extensive, expensive, and punitive. It was premised on the uncomplicated logic that with enough punishment and enough incarceration, crime could be reduced (Clear, 1994). ([Location 3436](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3436))
+	- ```
+	- ```md
 	- The notion of retributive justice as proportionality and fairness appealed to both the liberals and conservatives of the time. ([Location 3452](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3452))
+	- ```
+	- ```md
 	- The War on Drugs ([Location 3481](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3481))
+	- ```
+	- ```md
 	- Search and seizure protections also were eroded so as not to “handcuff” police. Drug testing for the criminal and non-criminal, furthermore, became more common. ([Location 3491](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3491))
+	- ```
+	- ```md
 	- Reform was tied not only to the war on drugs, but also to charges of system leniency, ineffectiveness, and sentencing disparities. ([Location 3502](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3502))
+	- ```
+	- ```md
 	- The Federal Sentencing Reform Act of 1984 also authorized mandatory minimums for federal drug offens es and offenses involving the use of a firearm (Schulhofer, 1993). ([Location 3541](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3541))
+	- ```
+	- ```md
 	- Congress decided to hit the problem of drugs, as they saw it, with a sledgehammer, making no allowance for the circumstances ([Location 3548](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=3548))
+	- ```
