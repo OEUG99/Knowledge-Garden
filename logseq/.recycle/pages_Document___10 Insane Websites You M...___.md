@@ -1,13 +1,13 @@
 title:: Document/10 Insane Websites You M...
 author:: [[@@CodeByPoonam on Twitter]]
-abbreviated-title: 10 Insane Websites You M... 
-full-title:: "10 Insane Websites You M..."
-start:: [[Oct 22nd, 2023]]
+abbreviated-title:: 10 Insane Websites You M... 
+full-title:: 10 Insane Websites You M...
+start:: [[Oct 24th, 2023]]
 end:: Unfinished
 status:: Reading
-category:: #tweets
-doccument_type:: 
+document_type:: 
 url:: https://twitter.com/CodeByPoonam/status/1715666039005233584
+
 - Highlights
 	- 10 Insane Websites you might not know exist (Bookmark them): 
 	  
