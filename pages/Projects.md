@@ -1,4 +1,2 @@
-public:: true
-
-- **[[Projects/CHIP-8]]** -
+- **[[Projects/CHIP-8]]** -  An emulator, Assembler, and my own game written for the CHIP-8.
 -
