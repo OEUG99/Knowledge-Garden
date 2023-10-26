@@ -1,2 +1,2 @@
 - This project began as a personal exploration into the captivating world of emulation - a field of computing that blends low-level computer architecture with intricate operations. Through my love of retro video games, the idea of creating a CHIP-8 Emulator and Assembler took root. CHIP-8, with its accessible design and manageable complexity, proved to be an ideal entry point for this emulation adventure.
-- If you are unaware what the CHIP-8 is,
+- The CHIP-8 is what is commonly described as a "fantasy console", it is
