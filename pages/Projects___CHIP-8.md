@@ -7,4 +7,4 @@ tags:: #[[Virtual Machines]] #Emulation #Interpreter #Assembler
 			- The specification for [[Chip-8]] can be found in my dedicate page for it.
 		- The use of CHIP-8 has continued well into the 21st century, with modern programming contests and game jams often featuring CHIP-8 categories. Classes on operating system design and embedded systems often use CHIP-8 due to its simplicity yet broad scope in understanding the basics of system design.
 	- ## Project's Structure
-		-
+		- This project had three distinct phases. Each proceeding phase has built ontop of the previous s
