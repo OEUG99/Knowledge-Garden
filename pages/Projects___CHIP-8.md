@@ -15,4 +15,5 @@ tags:: #[[Virtual Machines]] #Emulation #Interpreter #Assembler
 				- During this stage, I created an assembler which is a program that transforms human-readable CHIP-8 assembly code into a structure that our emulator could process. This proved to be a fantastic practical exercise in understanding the translation from higher-level, readable assembly code into machine-level instructions.
 				- Through this stage I learned...
 					- TODO write this when I get to this stage.
-			- **Stage 3 - Game Design**
+			- **Stage 3 - Game Design: **
+				- In this final phase, I put both my emulator and assembler to the test by designing a
