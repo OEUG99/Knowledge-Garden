@@ -1,1 +1,1 @@
-- This project began as a personal exploration into the captivating world of emulation - a field of computing that blends low-level computer architecture with intricate operations. Through my love of
+- This project began as a personal exploration into the captivating world of emulation - a field of computing that blends low-level computer architecture with intricate operations. Through my love of retro video games, the idea of creating a CHIP-8 Emulator and Assembler took root.
