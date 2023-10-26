@@ -16,4 +16,5 @@ tags:: #[[Virtual Machines]] #Emulation #Interpreter #Assembler
 				- Through this stage I learned...
 					- TODO write this when I get to this stage.
 			- **Stage 3 - Game Design: **
-				- In this final phase, I put both my emulator and assembler to the test by designing a
+				- In this final phase, I put both my emulator and assembler to the test by designing a of my own. This stage not only served as validation for the work done in the previous stages but also yielded a fun, playable game as the end product of the exploration.
+				- This was by far the hardest stage, as it requires both my emulator and assembler to be perfect,
