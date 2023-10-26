@@ -9,4 +9,5 @@ tags:: #[[Virtual Machines]] #Emulation #Interpreter #Assembler
 	- ## Project's Structure
 		- This project had three distinct phases. Each proceeding phase has built on top of the previous stage, adding more complexity to the overall scope of the project.
 		- The stages are as followed:
-			- **Stage 1: The Emulator**
+			- **Stage 1 -  The Emulator:**  –  The heart of the project took the form of an interpreter for the CHIP-8 language. It entailed a deep dive into the inner workings of the CHIP-8 system to read, decode, and execute CHIP-8 program instructions accurately. This stage involved an in-depth exploration of computer architecture, reiterating the fundamentals of bitwise operations, which stood as an integral part of the Emulator's operation.
+			-
