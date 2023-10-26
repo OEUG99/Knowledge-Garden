@@ -13,5 +13,6 @@ tags:: #[[Virtual Machines]] #Emulation #Interpreter #Assembler
 				- The heart of the project took the form of an interpreter for the CHIP-8 language. It entailed a deep dive into the inner workings of the CHIP-8 system to read, decode, and execute CHIP-8 program instructions accurately. This stage involved an in-depth exploration of computer architecture, reiterating the fundamentals of bitwise operations, which stood as an integral part of the Emulator's operation.
 			- **Stage 2 - The Assembler: **
 				- During this stage, I created an assembler which is a program that transforms human-readable CHIP-8 assembly code into a structure that our emulator could process. This proved to be a fantastic practical exercise in understanding the translation from higher-level, readable assembly code into machine-level instructions.
-				- Through this stage I learned
-			-
+				- Through this stage I learned...
+					- TODO write this when I get to this stage.
+			- **Stage 3 - Game Design**
