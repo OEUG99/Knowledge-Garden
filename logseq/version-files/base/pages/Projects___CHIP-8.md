@@ -1,2 +1,1 @@
-- CHIP-8 is an interpreted programming language that was developed in the mid-1970s. It was used to make game programming more accessible on systems like the RCA Cosmac VIP and Telmac 1800 microcomputers.
-- Despite its name, CHIP-8 is not a chip or a hardware component but a software virtual machine.
+- CHIP-8 is an interpreted programming language that was developed in the mid-1970s. It was used to make game programming more accessible on systems like the RCA Cosmac VIP and Telmac 1800 microcomputers. Despite its name, CHIP-8 is not a chip or a hardware component but a software virtual machine.
