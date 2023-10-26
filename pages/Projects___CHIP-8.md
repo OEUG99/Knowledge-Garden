@@ -1,4 +1,4 @@
 tags:: #[[Virtual Machines]] #Emulation #Interpreter #Assembler
 
 - This project began as a personal exploration into the captivating world of emulation - a field of computing that blends low-level computer architecture with intricate operations. Through my love of retro video games, the idea of creating a CHIP-8 Emulator and Assembler took root. CHIP-8, with its accessible design and manageable complexity, proved to be an ideal entry point for this emulation adventure.
-- The CHIP-8 is what is commonly described as a "fantasy console". It is not a physical machine, rather a conceptual virtual machine created in the mind of microprocessor researcher Joseph Weisbecker
+- The CHIP-8 is what is commonly described as a "fantasy console". It is not a physical machine, rather a conceptual virtual machine created in the mind of microcomputer researcher Joseph Weisbecker in the mid 1970s, and its aim was to simplify video game programming on early microcomputers.
