@@ -1,1 +1,1 @@
--
+- This project began as a personal exploration into the captivating world of emulation.
