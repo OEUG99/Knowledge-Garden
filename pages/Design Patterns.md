@@ -11,7 +11,6 @@ category:: [[Programming]]
 	- Consider what should be variable in your design.
 - # How to use a Design Pattern
   heading:: 1
-  collapsed:: true
 	- Read the pattern once through for an overview
 	- Go back and study the Structure, Participants, and Collaborations sections.
 	- Look at the Sample Code section to see a concrete example of the pattern in code.
