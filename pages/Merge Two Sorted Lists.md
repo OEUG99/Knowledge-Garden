@@ -1,6 +1,6 @@
 topic:: [[Leetcode]]
 pattern:: [[Dummy Node]]
-theme:: [[DSA/Linked List]]
+theme:: [[Linked List]]
 source-url:: https://leetcode.com/problems/merge-two-sorted-lists/
 
 - # Code:

@@ -1,7 +1,7 @@
 - [[Reverse Linked List]]
   title:: Reverse Linked List
 	- topic:: [[Leetcode]]
-	  patterns:: [[DSA/Linked List]]
+	  patterns:: [[Linked List]]
 	- ```python
 	  # Definition for singly-linked list.
 	  # class ListNode:
