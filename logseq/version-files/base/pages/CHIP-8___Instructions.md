@@ -106,17 +106,17 @@
 		- NOTE: Floor division (also known as integer division -- `//`) and modulus is quite useful for implementing this operator. You can take advantage of modulus's remainder to extract terms you desire, and you can take advantage of floor division by shifting numbers to make modulus easier.
 			- Example: 
 			  ```
+			  # Any positive number. 
 			  num = 567 = 567
 			  
-			  # finds the 100th place -> 5
+			  # finds the 100th place:
 			  floor(num / 100) = 5
 			  
-			  # finds the 10s place -> 6
+			  # finds the 10s place:
 			  floor(num / 10) mod 10 = 6
 			  
-			  # finds the 1s place -> 7
+			  # finds the 1s place:
 			  num mod 10 = 7
-			  
 			  ```
 	- ## `Fx55` – LD [I], Vx
 		- Store registers V0 through Vx in memory starting at location I.
