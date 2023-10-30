@@ -1,4 +1,4 @@
-tags::  [[Programming]] [[Data Structures and Algorithms]] [[Tree]] [[Leetcode]]
+tags::  [[Programming]] [[Data Structures and Algorithms]] [[Leetcode]]
 
 - # What is a Binary Tree?
   heading:: 1
