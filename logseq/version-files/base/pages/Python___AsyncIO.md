@@ -1,3 +1,5 @@
+tags:: [[Programming]]
+
 - Python’s asyncio is a co-routine-based concurrency model that provides elegant constructs to write concurrent python code without using threads.
 - # The basics of AsyncIO
   source:: https://medium.com/dev-bits/a-minimalistic-guide-for-understanding-asyncio-in-python-52c436c244ea
