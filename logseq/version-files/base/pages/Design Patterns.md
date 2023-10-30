@@ -2,8 +2,7 @@ title:: Design Patterns
 category:: [[Programming]]
 
 	- [[Design Patterns/Entity Component System]]
-- # Model-View-Controller
-  heading:: 1
+- [[Design Patterns/MVC]]
   id:: 63484d07-5ec4-4cf3-ba9b-543f737a6909
 	- # Model-View-Controller #mvc #web-development
 	  heading:: 1
