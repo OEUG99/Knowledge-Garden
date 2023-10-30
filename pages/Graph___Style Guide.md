@@ -1,5 +1,5 @@
 # Namespaces
-	- Namespaces should be avoided at all cost, as
+	- Namespaces should be avoided at all cost, and instead page property tags should be used instead.
 	- ## Special Namespaces:
 		- ###  Functional Namespaces:
 			- **[[Graph]]**
