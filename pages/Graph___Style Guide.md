@@ -4,7 +4,7 @@
 		- **[[Graph]]**
 			- This namespace refers to this graph itself. Its functional purpose is aid in the upkeep and maintenance of the graph by establishing standards and creating utility tags.
 		- [[Logseq]]
-			- For all your
+			- If you are in need of Logseq documentation or tutorials, this namespace houses all related notes.
 		- ### Data Type Namespace:
 		  collapsed:: true
 			- **[[Document]]**

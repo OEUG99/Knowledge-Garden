@@ -3,6 +3,8 @@
 		- ###  Functional Namespaces:
 		- **[[Graph]]**
 			- This namespace refers to this graph itself. Its functional purpose is aid in the upkeep and maintenance of the graph by establishing standards and creating utility tags.
+		- [[Logseq]]
+			- For all your
 		- ### Data Type Namespace:
 		  collapsed:: true
 			- **[[Document]]**
