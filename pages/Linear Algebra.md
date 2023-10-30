@@ -1,4 +1,6 @@
-# Vectors and Space
+tags:: [[Math]]
+
+- # Vectors and Space
 	- ## Vectors
 		- ### Introduction to Vectors:
 		  video:: {{video https://youtu.be/br7tS1t2SFE}}
