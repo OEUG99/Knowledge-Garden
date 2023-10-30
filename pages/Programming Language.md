@@ -5,7 +5,3 @@
 	  query-sort-desc:: true
 	  query-properties:: [:page]
 -
--
--
--
--

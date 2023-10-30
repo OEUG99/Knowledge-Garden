@@ -1,1 +1,1 @@
-title:: Python
+tags:: [[Programming]] [[Programming Language]]
