@@ -1,7 +1,7 @@
 category:: [[Book]]
 status:: Reading
 cover:: ![Image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172986053l/236665._SX318_.jpg){:height 172, :width 98}
-title:: Database Systems
+title:: Document/Database Systems
 abbreviated-title:: Database Systems
 
 - # 4: High-Level Database Models
