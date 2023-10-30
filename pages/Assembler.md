@@ -1,0 +1,1 @@
+- An assembler program creates object code by translating combinations of mnemonics and syntax for operations and adressing modes into
