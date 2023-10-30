@@ -3,14 +3,14 @@
 		- **[[Document]]**
 			- {{embed ((65402583-680b-4999-9244-b8550f5ed47b))}}
 			- **Formating:**
-				- title:: The Document's Logseq page title
-				  full-title:: Document's Full Title
-				  abbreviated-title:: Shortened Version of the Document's Title.
-				  cover:: ![Image](Link to cover image if applicable.)
+				- title:: 
+				  full-title:: 
+				  abbreviated-title:: 
+				  cover:: ![Image]()
 				  start:: 
 				  end:: 
-				  status:: Unread
-				  document_type:: the type of doccument, eg. Book, Article, etc.
+				  status:: 
+				  document_type::
 				- Example:
 					- ```
 					  title:: The Document's Logseq page title

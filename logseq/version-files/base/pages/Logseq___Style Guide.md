@@ -3,6 +3,14 @@
 		- **[[Document]]**
 			- {{embed ((65402583-680b-4999-9244-b8550f5ed47b))}}
 			- **Formating:**
+				- title:: 
+				  full-title:: 
+				  abbreviated-title:: Shortened Version of the Document's Title.
+				  cover:: ![Image](Link to cover image if applicable.)
+				  start:: 
+				  end:: 
+				  status:: 
+				  document_type::
 				- Example:
 					- ```
 					  title:: The Document's Logseq page title
