@@ -74,7 +74,7 @@
 	- ## `Dxyn` – DRW Vx, Vy, nibble
 		- Display n-byte sprite starting at memory location I at (Vx, Vy), set VF = collision.
 		- The interpreter reads `n` bytes from memory, starting at the address stored in I. These bytes are then displayed as sprites on screen at coordinates (Vx, Vy). Sprites are XORed onto the existing screen. If this causes any pixels to be erased, VF is set to `1`, otherwise it is set to `0`.
-		- NOTE: Sprites are represented as a sequence of bytes, where each bit in a byte represents a pixel. Sprites may be up to 16 bytes, for a possible sprite size of 8x15.  Sprites are always 8 pixel wide, however their height can vary. Sprites are stored in memory in a 1-dimensional array, where each pixel is an element in the array. Each pixel is represented in a boolean state `0` for off, `1` for on. In this opcode, you must unwrap the array at
+		- NOTE: Sprites are represented as a sequence of bytes, where each bit in a byte represents a pixel. Sprites may be up to 16 bytes, for a possible sprite size of 8x15.  Sprites are always 8 pixel wide, however their height can vary. Sprites are stored in memory in a 1-dimensional array, where each pixel is an element in the array. Each pixel is represented in a boolean state `0` for off, `1` for on. In this opcode, you must unwrap the array in the sense that you need to find what row and column a pixel is on.
 	- ## `Ex9E` – SKP Vx
 		- Skip next instruction if key with the value of Vx is pressed.
 		- Checks the keyboard, and if the key corresponding to the value of Vx is currently in the down position, PC is increased by `2`.
