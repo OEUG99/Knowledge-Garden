@@ -1,7 +1,7 @@
 title:: Design Patterns
 category:: [[Programming]]
 
-	- [[Entity Component System]] #game-development
+	- [[Entity Component System]] #[[Game Development]]
 		- An **Entity** is an ID.
 		- A **Component** is a struct of data.
 		- A **System** is the logic that operates on the components.
