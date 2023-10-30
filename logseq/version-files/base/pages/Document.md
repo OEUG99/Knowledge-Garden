@@ -1,6 +1,6 @@
 exclude-from-graph-view:: true
 
-- A document is any source of text-based
+- In this graph, a document refers to any form of text that
 - # List of Documents
 	- The following is a collection of note pages for all the documents in this graph.
 	- {{query (namespace [[Document]])}}
