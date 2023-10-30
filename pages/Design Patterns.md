@@ -1,8 +1,9 @@
 title:: Design Patterns
 category:: [[Programming]]
 
-	- [[Design Patterns/Entity Component System]]
-	- [[Design Patterns/Model View Controller]]
+- # Table of Contents:
+	- **[[Design Patterns/Entity Component System]]** -
+	- **[[Design Patterns/Model View Controller]]** -
 	  id:: 63484d07-5ec4-4cf3-ba9b-543f737a6909
 - # How to select a design pattern
   heading:: 1
