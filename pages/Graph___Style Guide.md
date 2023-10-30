@@ -2,6 +2,8 @@
 	- Namespaces should only be used when you are writing about a topic that is strongly interconnected with another AND it is very unlikely that you will be linking to it from other notes.
 		- **Example:**
 			- ```
+			  [[Englisj]]
+			  [Python/]
 			  ```
 	- ## Special Namespaces:
 		- ###  Functional Namespaces:
