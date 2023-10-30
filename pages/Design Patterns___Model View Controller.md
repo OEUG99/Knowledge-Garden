@@ -1,4 +1,4 @@
-tags:: [[Programming]] [[Web Development]]
+tags:: [[Programming]] [[Website Development]]
 
 - The Model-View-Controller (MVC) is an architectural pattern that separates an application into three main logical components:
   1. The **Model**
