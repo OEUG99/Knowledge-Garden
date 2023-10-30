@@ -1,6 +1,6 @@
 # Definitions
 	- ## Namespaces:
-		- ###
+		- ###  Functional Namespaces:
 		- **[[Graph]]**
 			- This name space refers
 		- ### Data Types:
