@@ -1,7 +1,8 @@
 exclude-from-graph-view:: true
 
+- A document is any source of text-based
 - # List of Documents
-	- The following is a list to the highlight pages for each document synced via readwise.
+	- The following is a collection of note pages for all the documents in this graph.
 	- {{query (namespace [[Document]])}}
 	  query-properties:: [:page :updated-at]
 	  query-sort-by:: updated-at

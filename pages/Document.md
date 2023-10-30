@@ -1,6 +1,6 @@
 exclude-from-graph-view:: true
 
--
+- In this graph, a document refers to any form of tex
 - # List of Documents
 	- The following is a collection of note pages for all the documents in this graph.
 	- {{query (namespace [[Document]])}}
