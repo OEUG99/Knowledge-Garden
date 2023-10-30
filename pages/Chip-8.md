@@ -1,4 +1,5 @@
-# Table of Contents:
+-
+- # Table of Contents:
 	- **[[CHIP-8/Instructions]]** – A detailed summary of instructions/opcodes, with notes detailing how to implement.
 -
 -
