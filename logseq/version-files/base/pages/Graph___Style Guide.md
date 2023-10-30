@@ -1,5 +1,5 @@
 # Namespaces
-	- Namespaces should be avoided at all cost, as
+	- Namespaces should only be used to
 	- ## Special Namespaces:
 		- ###  Functional Namespaces:
 			- **[[Graph]]**
