@@ -1,4 +1,4 @@
-tags::
+tags:: [[Programming]]
 
 	- # Binding operator:
 	  heading:: 1

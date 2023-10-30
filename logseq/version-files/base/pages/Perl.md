@@ -1,5 +1,4 @@
-title:: Programming Languages/Perl
-public:: True
+tags:: [[Programming]]
 
 	- # Binding operator:
 	  heading:: 1
