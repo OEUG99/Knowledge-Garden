@@ -103,7 +103,21 @@
 	- ## `Fx33` – LD B, Vx
 		- Store BCD representation of Vx in memory locations I, I+1, and I+2.
 		- The interpreter takes the decimal value of Vx, and places the hundreds digit in memory at location in I, the tens digit at location I+1, and the ones digit at location I+2.
-		- NOTE: Floor division (also known as integer division -- `//`) and modulus is quite useful for implementing this operator.
+		- NOTE: Floor division (also known as integer division -- `//`) and modulus is quite useful for implementing this operator. You can take advantage of modulus's remainder to extract terms you desire, and you can take advantage of floor division by shifting numbers to make modulus easier.
+			- Example: 
+			  ```
+			  num = 567 = 567
+			  
+			  # finds the 100th place -> 5
+			  floor(num / 100) = 5
+			  
+			  # finds the 10s place -> 6
+			  floor(num / 10) mod 10 = 6
+			  
+			  # finds the 1s place -> 7
+			  num mod 10 = 7
+			  
+			  ```
 	- ## `Fx55` – LD [I], Vx
 		- Store registers V0 through Vx in memory starting at location I.
 		- The interpreter copies the values of registers V0 through Vx into memory, starting at the address in I.
