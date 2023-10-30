@@ -17,8 +17,8 @@
 			  [[Animals/Cats]]
 			  [[Animals/Dogs/Poodle]]
 			  
-			  You are unlikely to, as it greatly affects
-			  the readability.
+			  This namespaces theme is not specific enough. Additionally, using it
+			  makes using links hard to read.
 			  ```
 	- ## Special Namespaces:
 		- ###  Functional Namespaces:
