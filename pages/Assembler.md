@@ -3,5 +3,4 @@
 - Assemblers are essentially a [Compiler]([]) that translates assembly code into machine code.
 - # Types of Assemblers
 	- **One-pass assembler** – This type of assembler process the source code once.
-	-
 -
