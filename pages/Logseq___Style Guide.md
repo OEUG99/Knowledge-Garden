@@ -5,10 +5,10 @@
 			- **Formating:**
 			  ```
 			  title:: The Document's Logseq page title
-			  full-title:: How to Hack Like a Ghost
-			  abbreviated-title:: How to Hack Like a Ghost 
+			  full-title:: Document's Full Title
+			  abbreviated-title:: Shortened Version of the Document's Title.
 			  cover:: ![Image](https://m.media-amazon.com/images/I/814wrSxBBwL._SY160.jpg)
-			  start:: [[Oct 24th, 2023]]
+			  start:: [[Link to Journal]]
 			  end:: Unfinished
 			  status:: Reading
 			  document_type::
