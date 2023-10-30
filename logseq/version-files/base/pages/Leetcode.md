@@ -1,2 +1,3 @@
 - {{query }}
-- {{query (children [[Leetcode]] )}}
+-
+- {{query((and (page-property category [[Book]]) (page-property status Reading)))}}

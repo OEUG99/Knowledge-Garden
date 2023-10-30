@@ -1,4 +1,3 @@
 - {{query }}
 -
-- Currently Reading:
-- `{{query((and (page-property category [[Book]]) (page-property status Reading)))}}`
+- {{query((and (page-property category [[Book]]) (page-property status Reading)))}}
