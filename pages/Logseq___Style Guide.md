@@ -1,2 +1,3 @@
 # Definitions
-	-
+	- ## Page Types:
+		- ** [[Document]] **
