@@ -61,6 +61,7 @@
 	- ## `9xy0` – SNE Vx, Vy
 		- Skip next instruction if Vx != Vy.
 		- The values of Vx and Vy are compared, and if they are not equal, the program counter is increased by `2`.
+		- NOTE: Another way to p
 	- ## `Annn` – LD I, addr
 		- Set I = `nnn`.
 		- The value of register I is set to `nnn`.

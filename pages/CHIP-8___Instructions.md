@@ -58,6 +58,7 @@
 	- ## `8xyE` – SHL Vx {, Vy}
 		- Set Vx = Vx SHL `1`.
 		- If the most-significant bit of Vx is `1`, then VF is set to `1`, otherwise to `0`. Then Vx is multiplied by `2`.
+		- NOTE: You can find the MSB by doing a bitmask with `0x80` on Vx.
 	- ## `9xy0` – SNE Vx, Vy
 		- Skip next instruction if Vx != Vy.
 		- The values of Vx and Vy are compared, and if they are not equal, the program counter is increased by `2`.
