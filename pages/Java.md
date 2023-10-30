@@ -1,5 +1,5 @@
 title:: Java
-tags:: [[Programming]]
+tags:: [[Programming]] [[Programming Language]]
 
 - {{embed ((633ee97b-7f1f-4188-87da-7abf3ec19818))}}
 - # Dependency Injection in Java
@@ -783,9 +783,7 @@ tags:: [[Programming]]
 					  private T[] list; // array variable, i.e. in a class
 					  list = (T[]) new Object[size]; // creating of array of reference variables.
 					  ```
-					-
-title:: Programming Languages/Java
-
+					- title:: Programming Languages/Java
 - {{embed ((633ee97b-7f1f-4188-87da-7abf3ec19818))}}
 - # Dependency Injection in Java
   heading:: 1
