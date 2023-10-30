@@ -1,2 +1,2 @@
 category:: [[Data Structures and Algorithms]]
-tags::
+tags:: [[Programming]] [[Data Structures and Algorithms]] [[Leetcode]]

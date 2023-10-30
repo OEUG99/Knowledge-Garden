@@ -1,5 +1,5 @@
 category:: [[Data Structures and Algorithms]]
-tag:: [[Two Pointers]]
+tags:: [[Programming]] [[Data Structures and Algorithms]] [[Two Pointers]] [[Leetcode]]
 
 	- Sliding window is actually implemented using two pointers.
 	- Subarrays are just a section of an array.

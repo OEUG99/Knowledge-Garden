@@ -1,4 +1,4 @@
-title:: DSA/Linked List
+title:: Linked List
 tags:: [[Programming]] [[Data Structures and Algorithms]] [[Leetcode]]
 
 - # What is a linked list?
