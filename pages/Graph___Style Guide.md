@@ -12,7 +12,9 @@
 			  ```
 			- ```
 			  # Incorrect
-			  
+			  [[Animals]]
+			  [[Animals/Cats]]
+			  [[]]
 			  ```
 	- ## Special Namespaces:
 		- ###  Functional Namespaces:
