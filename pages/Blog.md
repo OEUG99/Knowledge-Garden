@@ -1,4 +1,4 @@
-tags::
+author:: [[@Oli Eugenio]]
 
 - # 👾 Development Blog:
 	- {{query (page-property category [[Development Blog]] ) (order-by updated-at desc)}}
