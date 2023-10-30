@@ -1,11 +1,12 @@
-# Definitions
-	- ## Namespaces:
+# Namespaces
+	- ## Special Namespaces:
 		- ###  Functional Namespaces:
-		- **[[Graph]]**
-			- This namespace refers to this graph itself. Its functional purpose is aid in the upkeep and maintenance of the graph by establishing standards and creating utility tags.
-		- **[[Logseq]]**
-			- If you are in need of Logseq documentation or tutorials, this namespace houses all related pages.
+			- **[[Graph]]**
+				- This namespace refers to this graph itself. Its functional purpose is aid in the upkeep and maintenance of the graph by establishing standards and creating utility tags.
+			- **[[Logseq]]**
+				- If you are in need of Logseq documentation or tutorials, this namespace houses all related pages.
 		- ### Data Type Namespace:
+		  collapsed:: true
 			- **[[Document]]**
 				- {{embed ((65402583-680b-4999-9244-b8550f5ed47b))}}
 				- **Formating:**
