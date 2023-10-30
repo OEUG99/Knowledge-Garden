@@ -1,5 +1,5 @@
 # Namespaces
-	- Namespaces should only be used when you are writing for a topic that follows a specific format is strongly interconnected with another AND it is very unlikely that you will be linking to it from other notes. You can think of namespaces as a filling cabinet for related
+	- Namespaces should only be used when you are writing for a topic and its tangentally related to  a broad theme AND it is very unlikely that you will be linking to it from other notes. You can think of namespaces as a filling cabinet for related
 		- **Example:**
 			- ```
 			  # Correct:
