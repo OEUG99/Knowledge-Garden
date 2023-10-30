@@ -4,7 +4,7 @@
 			- ```
 			  # Correct:
 			  [[Film Review]]
-			  [[Film Review/Interception]]
+			  [[Film Review/Inception]]
 			  
 			  You are unlikedly to talk about home renovation often on another page.
 			  
