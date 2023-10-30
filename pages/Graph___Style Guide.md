@@ -3,7 +3,12 @@
 		- **Example:**
 			- ```
 			  # Correct:
-			  [[]]
+			  [[Projects]]
+			  [[Projects/Home Renovation]]
+			  
+			  You are unlikedly to talk about home renovation often on another page.
+			  
+			  
 			  ```
 	- ## Special Namespaces:
 		- ###  Functional Namespaces:
