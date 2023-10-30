@@ -1,7 +1,7 @@
 title:: Design Patterns
 category:: [[Programming]]
 
-	- [[Entity Component System]]
+	- [[Design Patterns/Entity Component System]]
 - # Model-View-Controller
   heading:: 1
   id:: 63484d07-5ec4-4cf3-ba9b-543f737a6909
