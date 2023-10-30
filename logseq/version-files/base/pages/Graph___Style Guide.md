@@ -1,13 +1,17 @@
 # Namespaces
 	- Namespaces should only be used when you are writing for a topic and its tangentally related to  a broad theme AND it is very unlikely that you will be linking to it from other notes. You can think of namespaces as a filling cabinet for related
-		- **Example:**
+		- **Examples:
 			- ```
 			  # Correct:
 			  [[Film Review]]
 			  [[Film Review/Inception]]
+			  [[Film Review/Toy Story 3]]
 			  
-			  You are unlikedly to talk about home renovation often on another page.
-			  
+			  You are unlikely to ever link to this page from another page
+			  AND your notes are tangentally related.
+			  ```
+			- ```
+			  # Incorrect
 			  
 			  ```
 	- ## Special Namespaces:
