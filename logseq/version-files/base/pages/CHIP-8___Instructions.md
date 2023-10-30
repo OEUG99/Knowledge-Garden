@@ -41,13 +41,14 @@
 		- Set Vx = Vx XOR Vy.
 		- Performs a bitwise exclusive OR on the values of Vx and Vy, then stores the result in Vx. An exclusive OR compares the corresponding bits from two values, and if the bits are not both the same, then the corresponding bit in the result is set to `1`. Otherwise, it is `0`.
 	- ## `8xy4` – ADD Vx, Vy
+	  id:: 653ff75e-9e93-4f74-acea-e27b246b7520
 		- Set Vx = Vx + Vy, set VF = carry.
 		- The values of Vx and Vy are added together. If the result is greater than 8 bits (i.e., > `255`), VF is set to `1`, otherwise `0`. Only the lowest 8 bits of the result are kept, and stored in Vx.
-		- NOTE:  When adding Vx to Vy you need to deal with overflows.
+		- NOTE:  When adding Vx to Vy you need to deal with overflows. One way of dealing with these is to use a bitmask of `0xFF` on the results to get only the lowest 8 bits.  Another more cheeky way, is to cast Vx and Vy to `int16` do the operation then cast back to `int8`.
 	- ## `8xy5` – SUB Vx, Vy
 		- Set Vx = Vx - Vy, set VF = NOT borrow.
 		- If Vx > Vy, then VF is set to `1`, otherwise `0`. Then Vy is subtracted from Vx, and the results stored in Vx.
-		- NOTE:  When subtracting Vx and Vy, you will need to deal with overflows.
+		- NOTE:  When subtracting Vx and Vy, you will need to deal with overflows similarly to how ((653ff75e-9e93-4f74-acea-e27b246b7520)) needs to handle them. See that opcode for more details.
 	- ## `8xy6` – SHR Vx {, Vy}
 		- Set Vx = Vx SHR `1`.
 		- If the least-significant bit of Vx is `1`, then VF is set to `1`, otherwise `0`. Then Vx is divided by `2`.

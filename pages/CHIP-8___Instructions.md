@@ -44,7 +44,7 @@
 	  id:: 653ff75e-9e93-4f74-acea-e27b246b7520
 		- Set Vx = Vx + Vy, set VF = carry.
 		- The values of Vx and Vy are added together. If the result is greater than 8 bits (i.e., > `255`), VF is set to `1`, otherwise `0`. Only the lowest 8 bits of the result are kept, and stored in Vx.
-		- NOTE:  When adding Vx to Vy you need to deal with overflows. One way of dealing with these is to use a bitmask of `0xFF` on the results to get only the lowest 8 bits.
+		- NOTE:  When adding Vx to Vy you need to deal with overflows. One way of dealing with these is to use a bitmask of `0xFF` on the results to get only the lowest 8 bits.  Another more cheeky way, is to cast Vx and Vy to `int16` do the operation then cast back to `int8`.
 	- ## `8xy5` – SUB Vx, Vy
 		- Set Vx = Vx - Vy, set VF = NOT borrow.
 		- If Vx > Vy, then VF is set to `1`, otherwise `0`. Then Vy is subtracted from Vx, and the results stored in Vx.
