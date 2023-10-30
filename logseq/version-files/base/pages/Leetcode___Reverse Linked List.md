@@ -1,5 +1,5 @@
-- [[Reverse Linked List]]
-  title:: Reverse Linked List
+- [[Leetcode/Reverse Linked List]]
+  title:: Leetcode/Reverse Linked List
 	- topic:: [[Leetcode]]
 	  patterns:: [[Linked List]]
 	- ```python

@@ -1,5 +1,7 @@
-# Introduction to FS (File System)
-heading:: 1
+tags:: [[Programming]]
+
+- # Introduction to FS (File System)
+  heading:: 1
 	- url:: https://www.geeksforgeeks.org/node-js-file-system/
 	  archive:: https://archive.is/hChZB
 	- ## What is the FS Module?
