@@ -2,10 +2,11 @@ title:: Design Patterns
 category:: [[Programming]]
 
 	- [[Design Patterns/Entity Component System]]
-- [[Design Patterns/Model View Controller]]
-  id:: 63484d07-5ec4-4cf3-ba9b-543f737a6909
+	- [[Design Patterns/Model View Controller]]
+	  id:: 63484d07-5ec4-4cf3-ba9b-543f737a6909
 - # How to select a design pattern
   heading:: 1
+  collapsed:: true
 	- Consider how design patterns solve design problems.
 	- Scan intent sections Each pattern has an intent
 	- Study how patterns interrelate.
@@ -14,6 +15,7 @@ category:: [[Programming]]
 	- Consider what should be variable in your design.
 - # How to use a Design Pattern
   heading:: 1
+  collapsed:: true
 	- Read the pattern once through for an overview
 	- Go back and study the Structure, Participants, and Collaborations sections.
 	- Look at the Sample Code section to see a concrete example of the pattern in code.

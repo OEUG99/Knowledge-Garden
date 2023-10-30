@@ -1,6 +1,6 @@
 title:: CSS
 category:: [[Front-End Development]]
-tags:: [[web-development]], [[Front-End Development]]
+tags:: [[Web Development]], [[Front-End Development]]
 
 - # Introduction to CSS
   heading:: 1
