@@ -1,1 +1,1 @@
-tags:: [[Programming]]
+tags:: [[Programming]] [[JavaScript]]
