@@ -5,10 +5,10 @@
 			  # Correct:
 			  [[Film Review]]
 			  [[Film Review/Inception]]
+			  [[Film Review/Toy Story 3]]
 			  
-			  You are unlikedly to talk about home renovation often on another page.
-			  
-			  
+			  You are unlikely to ever link to this page from another page
+			  AND your notes are tangentally related.
 			  ```
 	- ## Special Namespaces:
 		- ###  Functional Namespaces:
