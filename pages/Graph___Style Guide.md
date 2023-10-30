@@ -3,8 +3,8 @@
 		- **Example:**
 			- ```
 			  # Correct:
-			  [[Projects]]
-			  [[Projects/Home Renovation]]
+			  [[Film Review]]
+			  [[Film Review/Interception]]
 			  
 			  You are unlikedly to talk about home renovation often on another page.
 			  
