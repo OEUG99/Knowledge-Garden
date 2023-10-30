@@ -1,6 +1,6 @@
 exclude-from-graph-view:: true
 
-- In this graph, a document refers to any form of text-based medium that has had either highlights or notes written for it. A document can
+- In this graph, a document refers to any form of text-based medium that has had either highlights or notes written for it. Some examples of doccuments are: books, news articles,
 - # List of Documents
 	- The following is a collection of note pages for all the documents in this graph.
 	- {{query (namespace [[Document]])}}
