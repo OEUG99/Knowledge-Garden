@@ -1,7 +1,7 @@
 title:: Design Patterns
 category:: [[Programming]]
 
-	- # Entity-Component-System #ecs #game-development
+	- # Entity-Component-System #[[Entity Component System]] #game-development
 	  heading:: 1
 		- An **Entity** is an ID.
 		- A **Component** is a struct of data.
