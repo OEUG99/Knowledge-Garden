@@ -1,6 +1,6 @@
 # Namespaces
 	- Namespaces should only be used when you are writing for a topic and its tangentally related to  a broad theme AND it is very unlikely that you will be linking to it from other notes. You can think of namespaces as a filling cabinet for related ideas. In the example below, the `[[Film Review]]` namespace acts as a filing cabinet holding all the reviews:
-		- **Example:
+		- **Examples:
 			- ```
 			  # Correct:
 			  [[Film Review]]
