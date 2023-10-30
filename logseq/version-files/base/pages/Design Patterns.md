@@ -1,5 +1,5 @@
 title:: Design Patterns
-category:: [[Programming]]
+tags:: [[Programming]]
 
 - # How to select a design pattern
   heading:: 1

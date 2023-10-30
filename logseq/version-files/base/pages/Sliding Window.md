@@ -1,4 +1,3 @@
-category:: [[Data Structures and Algorithms]]
 tags:: [[Programming]] [[Data Structures and Algorithms]] [[Two Pointers]] [[Leetcode]]
 
 	- Sliding window is actually implemented using two pointers.
