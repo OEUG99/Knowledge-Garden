@@ -15,7 +15,7 @@
 		- **[[Resumé]]**  — A link to my personal resumé.
 		- **[[Blog]]** — My personal blog for development and life.
 		- **[[Projects]]** — A directory for the various code related projects that I have worked on.
-		- **[[Navigation]]** — A directory that contains a curated list of ‘master nodes’ on various topics.
+		- **[[Master Nodes]]** — A directory that contains a curated list of ‘master nodes’ on various topics.
 - # 📬 Contact Info
   id:: 65369905-c5a9-414c-9841-2c5f005ff7f1
 	- **Email:** [oli@eugenio.software](email:oli@eugenio.software)
