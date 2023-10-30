@@ -3,7 +3,7 @@
 	  query-sort-by:: block
 	  query-table:: true
 	  query-sort-desc:: true
-	  query-properties:: [:block :title :tags :page]
+	  query-properties:: [:page]
 -
 -
 -
