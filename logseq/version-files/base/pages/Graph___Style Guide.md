@@ -2,8 +2,9 @@
 	- ## Namespaces:
 		- ###  Functional Namespaces:
 		- **[[Graph]]**
-			- This name space refers
-		- ### Data Types:
+			- This namespace refers to this graph itself. Its purpose is to
+		- ### Data Type Namespace:
+		  collapsed:: true
 			- **[[Document]]**
 				- {{embed ((65402583-680b-4999-9244-b8550f5ed47b))}}
 				- **Formating:**

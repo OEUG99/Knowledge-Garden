@@ -2,7 +2,7 @@
 	- ## Namespaces:
 		- ###  Functional Namespaces:
 		- **[[Graph]]**
-			- This name space refers
+			- This namespace refers to this graph itself. Its purpose is to serve
 		- ### Data Type Namespace:
 		  collapsed:: true
 			- **[[Document]]**
