@@ -1,4 +1,4 @@
-category:: [[Programming]]
+tags:: [[Programming]] [[Programming Language]]
 
 - # What is a handle in C++
   heading:: 1
