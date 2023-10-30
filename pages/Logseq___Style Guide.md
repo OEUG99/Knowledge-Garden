@@ -8,9 +8,9 @@
 			  full-title:: Document's Full Title
 			  abbreviated-title:: Shortened Version of the Document's Title.
 			  cover:: ![Image](https://m.media-amazon.com/images/I/814wrSxBBwL._SY160.jpg)
-			  start:: [[Link to Journal]]
-			  end:: Unfinished
-			  status:: Reading
+			  start:: [[Link to Journal Date of Creation]]
+			  end:: [[Link to Journal Date when Finished Reading]]
+			  status:: (either Reading, Finished, or Unread)
 			  document_type::
 			  ```
 		-
