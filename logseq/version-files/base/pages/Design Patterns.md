@@ -1,10 +1,6 @@
 title:: Design Patterns
 category:: [[Programming]]
 
-- # Table of Contents:
-	- **[[Design Patterns/Entity Component System]]** -
-	- **[[Design Patterns/Model View Controller]]** -
-	  id:: 63484d07-5ec4-4cf3-ba9b-543f737a6909
 - # How to select a design pattern
   heading:: 1
   collapsed:: true
@@ -25,3 +21,6 @@ category:: [[Programming]]
 	- define application specigic names for operations in the patterm.
 		- you might use the "Create-" prefix to consistently denote a factory method.
 	- Implement the operations to carry out the responsibility and collaborations in the pattern.
+- # Directory of Design Patterns
+	- **[[Design Patterns/Entity Component System]]** -
+	- **[[Design Patterns/Model View Controller]]** -
