@@ -1,5 +1,6 @@
-# Summary
-heading:: 1
+-
+- # Summary
+  heading:: 1
 	- A binary search tree is a tree that has zero, one, or tow children.
 	- A binary search tree must also abide by the following rules:
 		- each node can have *at most* one "left" and one "right" child.
