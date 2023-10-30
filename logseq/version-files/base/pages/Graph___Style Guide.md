@@ -1,5 +1,5 @@
 # Namespaces
-	- Namespaces should only be used to
+	- Namespaces should only be used when you are writing about a topic that is strongly interconnected with another. For example,
 	- ## Special Namespaces:
 		- ###  Functional Namespaces:
 			- **[[Graph]]**
