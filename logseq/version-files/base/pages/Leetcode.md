@@ -1,4 +1,1 @@
-- Leetcode questions are [[Programming]] challenges.
--
--
--
+- {{query }}
