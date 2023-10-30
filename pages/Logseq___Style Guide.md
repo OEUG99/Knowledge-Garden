@@ -1,7 +1,7 @@
 # Definitions
 	- ## Namespaces:
+	  collapsed:: true
 		- **[[Document]]**
-		  collapsed:: true
 			- {{embed ((65402583-680b-4999-9244-b8550f5ed47b))}}
 			- **Formating:**
 				- title::
@@ -12,9 +12,9 @@
 				  end::
 				  status::
 				  document-type::
+				  tags::
 				  template:: namespace/document
 				- Example:
-				  collapsed:: true
 					- ```
 					  title:: The Document's Logseq page title
 					  full-title:: Document's Full Title
@@ -24,6 +24,7 @@
 					  end:: [[Link to Journal Date when Finished Reading]]
 					  status:: (either Reading, Finished, or Unread)
 					  document_type:: the type of doccument, eg. Book, Article, etc.
+					  tags:: #[[Your tag here]]
 					  ```
 		-
 		-
