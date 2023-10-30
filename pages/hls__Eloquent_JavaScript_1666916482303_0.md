@@ -1,5 +1,5 @@
-- /template
-  file-path:: ../assets/Eloquent_JavaScript_1666916482303_0.pdf
+file-path:: ../assets/Eloquent_JavaScript_1666916482303_0.pdf
+
 - ![Eloquent_JavaScript.pdf](../assets/Eloquent_JavaScript_1666916482303_0.pdf)
 - # Chapter 1
   heading:: 1
