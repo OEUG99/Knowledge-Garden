@@ -11,6 +11,6 @@
 			  start:: [[Link to Journal Date of Creation]]
 			  end:: [[Link to Journal Date when Finished Reading]]
 			  status:: (either Reading, Finished, or Unread)
-			  document_type::
+			  document_type:: (
 			  ```
 		-
