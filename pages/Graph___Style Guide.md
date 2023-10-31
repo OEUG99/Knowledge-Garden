@@ -68,7 +68,7 @@
 			- Data Type namespaces is the name applied to certain namespaces on this graph. Typically, they share the following properties:
 				- Each page apart of this namespace use identical formatting.
 				  logseq.order-list-type:: number
-				- The root node of the name space is disabled in the graph view, as displaying this provides no meaningful information. For example, don't want the root node for Document to display, because having the root
+				- The root node of the name space is disabled in the graph view, as displaying this provides no meaningful information. For example, don't want the root node for Document to display, because having our graph connecting every document together tells us nothing.
 				  logseq.order-list-type:: number
 			- **[[Document]]**
 				- {{embed ((65402583-680b-4999-9244-b8550f5ed47b))}}
