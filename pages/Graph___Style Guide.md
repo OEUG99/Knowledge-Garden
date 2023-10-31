@@ -34,7 +34,7 @@
 				  [[cat]]
 				  [[Cat (Linux Command)]]
 				  ```
-			- Why is the wikipedia style preferred? W
+			- Why is the wikipedia style preferred? When you are writing and creating a new link, the suggested names will correctly appear as you type, as it more better mirrors
 	- ## Special Namespaces:
 		- ###  Functional Namespaces:
 			- **[[Graph]]**
