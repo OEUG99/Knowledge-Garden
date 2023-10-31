@@ -10,3 +10,4 @@ title:: Graph/Secret
 - # How to get the secrets manager?
 	- The secret manager is freely available on its GitHub repo, which can be found in [[Projects/Secrets Manager]]. If you would like to host your own instance, feel free to do so.
 		- Alternatively, you could use [pastebin](pastebin.com) and create password protected pastes or private pastes and link those instead if you are not able to host your own instance.
+	- <div class="_hidden"></div> {{renderer privacymode, show}}  #_hidden
