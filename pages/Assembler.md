@@ -10,6 +10,6 @@
 		  
 		  An intermediate File is then created, each line read from the source program is converted into an intermediate form and written to the intermediate file. The intermediate form is as follows... each line consists of the location counter value, the opcode, and the operand (if any exists).
 		  
-		  Every time a label is found in the source code, it is added to the SYMTAB (Symbol Table)
+		  Every time a label is found in the source code, it is added to the SYMTAB (Symbol Table), along with its value or address.
 	-
 	-
