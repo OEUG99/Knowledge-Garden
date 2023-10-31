@@ -1,3 +1,0 @@
-- This Logseq graph uses a custom secret management service designed by [[@Oli Eugenio]].
-- Next to every #secret tag will have an external link to the secrets manager. All the secrets are hidden by a global password, once entered the secrets manager website will display the contents.
--
