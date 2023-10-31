@@ -20,6 +20,7 @@
 			  This namespaces theme is not specific enough. Additionally, using it
 			  makes using links hard to read.
 			  ```
+		- In general, in this graph, the usage of
 	- ## Special Namespaces:
 		- Special Namespaces:
 		- ###  Functional Namespaces:
