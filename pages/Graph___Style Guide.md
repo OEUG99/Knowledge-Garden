@@ -1,59 +1,60 @@
 # Namespaces
 	- In general, namespaces can and should typically be avoided due to them making linking less readable. In most cases, tags inside a page are often sufficient enough to model the relationships between ideas. However, there are a few use-cases when namespaces can serve to be useful.
 	- ## When are name spaces okay?
-	- So then, when should you use a namespace? Namespaces should only be used when you are writing for a topic and its tangentially related to specific theme/goal AND it is very unlikely that you will be linking to it from other notes. Additionally, you need these notes easily findable.
-	- One way you can think of namespaces is like a filling cabinet for related ideas. In the example below, the `[[Film Review]]` namespace acts as a filing cabinet holding all the reviews:
-		- **Examples:
-			- ```
-			  # Correct:
-			  [[Film Review]]
-			  [[Film Review/Inception]]
-			  [[Film Review/Toy Story 3]]
-			  
-			  You are unlikely to ever link to this page from another page
-			  AND your notes are tangentally related.
-			  ```
-			- ```
-			  # Incorrect
-			  [[Animals]]
-			  [[Animals/Cats]]
-			  [[Animals/Dogs/Poodle]]
-			  
-			  This namespaces theme is not specific enough. Additionally, using it
-			  makes using links hard to read.
-			  ```
-		- ## When are name spaces okay?
-		- Namespaces are also acceptable if you are trying to avoid naming conflicts; however, there are better ways to handle name conflicts. Take for instance, how wikipedia resolves name conflicts. See below:
-			- ```
-			  If you have a page for the linux command "cat"
-			  and a page for the animal cat, both can't use the same page name.
-			  Thus using a namespace is a way to differentiate the two.
-			  [[cat]]
-			  [[command/cat]]
-			  
-			  However, the Wikipedia style naming is the better choice, see below:
-			  [[cat]]
-			  [[Cat (Linux Command)]]
-			  ```
-			- Why is the wikipedia style better? When you are writing and creating a new link, the suggested names will correctly appear as you type, unlike with namespaces.
-			- ### The preferred way  to resolve name conflicts
-			- We can take this approach and make it better with the use of nested loops, see below:
+		- So then, when should you use a namespace? Namespaces should only be used when you are writing for a topic and its tangentially related to specific theme/goal AND it is very unlikely that you will be linking to it from other notes. Additionally, you need these notes easily findable.
+		- One way you can think of namespaces is like a filling cabinet for related ideas. In the example below, the `[[Film Review]]` namespace acts as a filing cabinet holding all the reviews:
+			- **Examples:
 				- ```
-				  [[Cat]]
-				  [[Cat [[Linux]]]]
+				  # Correct:
+				  [[Film Review]]
+				  [[Film Review/Inception]]
+				  [[Film Review/Toy Story 3]]
+				  
+				  You are unlikely to ever link to this page from another page
+				  AND your notes are tangentally related.
 				  ```
-					- ![image.png](../assets/image_1698715103386_0.png)
-			- All though this method is arguably uglier then the wikipedia approach, it has one major benefit, It can help make you notes more uniformed due to it  again suggesting  page names. For instance, if you were to write in parentheses like with the wikipedia approach, there is no suggested names to use when creating new pages, this can lead to sloppy page naming such as follows:
 				- ```
+				  # Incorrect
+				  [[Animals]]
+				  [[Animals/Cats]]
+				  [[Animals/Dogs/Poodle]]
+				  
+				  This namespaces theme is not specific enough. Additionally, using it
+				  makes using links hard to read.
+				  ```
+			- ## Naming Conflicts
+			- Namespaces are also acceptable if you are trying to avoid naming conflicts; however, there are better ways to handle name conflicts. Take for instance, how wikipedia resolves name conflicts. See below:
+				- ```
+				  If you have a page for the linux command "cat"
+				  and a page for the animal cat, both can't use the same page name.
+				  Thus using a namespace is a way to differentiate the two.
+				  [[cat]]
+				  [[command/cat]]
+				  
+				  However, the Wikipedia style naming is the better choice, see below:
+				  [[cat]]
 				  [[Cat (Linux Command)]]
-				  
-				  [[touch (Command)]]
-				  
-				  [[ls (Unix Command)]]
-				  
-				  One could easily see how different naming schemes could accidentally
-				  be created.
 				  ```
+				- Why is the wikipedia style better? When you are writing and creating a new link, the suggested names will correctly appear as you type, unlike with namespaces.
+				- ### The preferred way  to resolve name conflicts
+				- We can take this approach and make it better with the use of nested loops, see below:
+					- ```
+					  [[Cat]]
+					  [[Cat [[Linux]]]]
+					  ```
+						- ![image.png](../assets/image_1698715103386_0.png)
+				- All though this method is arguably uglier then the wikipedia approach, it has one major benefit, It can help make you notes more uniformed due to it  again suggesting  page names. For instance, if you were to write in parentheses like with the wikipedia approach, there is no suggested names to use when creating new pages, this can lead to sloppy page naming such as follows:
+					- ```
+					  [[Cat (Linux Command)]]
+					  
+					  [[touch (Command)]]
+					  
+					  [[ls (Unix Command)]]
+					  
+					  One could easily see how different naming schemes could accidentally
+					  be created.
+					  ```
+					-
 	- ## Special Namespaces:
 		- ###  Functional Namespaces:
 			- **[[Graph]]**
