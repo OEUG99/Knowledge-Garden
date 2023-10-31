@@ -39,7 +39,12 @@
 				  [[Cat]]
 				  [[Cat [[Linux]]]]
 				  ```
-			- All though this method is arguably uglier then the wikipedia approach, it has one major benefit, It can help make you notes more uniformed due to it  again suggesting  page names. For instance, if you were to write in parentheses like with
+			- All though this method is arguably uglier then the wikipedia approach, it has one major benefit, It can help make you notes more uniformed due to it  again suggesting  page names. For instance, if you were to write in parentheses like with the wikipedia approach, there is no suggested names to use when creating new pages, this can lead to sloppy page naming such as follows:
+				- ```
+				  [[Cat (Linux Command)]]
+				  
+				  [[T]]
+				  ```
 	- ## Special Namespaces:
 		- ###  Functional Namespaces:
 			- **[[Graph]]**
