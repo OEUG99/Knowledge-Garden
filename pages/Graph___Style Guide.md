@@ -25,9 +25,11 @@
 		- ###  Functional Namespaces:
 			- **[[Graph]]**
 				- This namespace refers to this graph itself. Its functional purpose is aid in the upkeep and maintenance of the graph by establishing standards and creating utility tags.
-					- `[[Graph/ISSUE]]` should be written when you notice a page is not adhering to the style guide. By flagging it, you can quic
+					- `[[Graph/ISSUE]]` should be written when you notice a page is not adhering to the style guide. By flagging it, you can quickly find it in the reference section and fix later.
 			- **[[Logseq]]**
 				- If you are in need of Logseq documentation or tutorials, this namespace houses all related pages.
+			- **[[Archive]]**
+				-
 		- ### Data Type Namespace:
 			- **[[Document]]**
 				- {{embed ((65402583-680b-4999-9244-b8550f5ed47b))}}
