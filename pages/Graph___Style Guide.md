@@ -5,7 +5,13 @@
 			- Create a list of tags inside the `tags::` page prop, start with something broad, then narrow it down and refine it.
 				- **Example:**
 					- ```
+					  # lets assume our page is on World War 2 weapons.
+					  tags:: [[History]], [[World War 2]], [[War]], [[Weapons]]
+					  
+					  # Now lets assume we are making a page for web development.
+					  tags:: [[Programming]] [[Website Development]] [[HTML]]
 					  ```
+					- Notice how in the above examples, the scope of each tag
 - # Namespaces
   collapsed:: true
 	- In general, namespaces can and should typically be avoided due to them making linking less readable. In most cases, tags inside a page are often sufficient enough to model the relationships between ideas. However, there are a few use-cases when namespaces can serve to be useful.
