@@ -24,6 +24,7 @@
 		- Namespaces are also acceptable if you are trying to avoid naming conflicts; however, wikipedia style page name are the preferred method of resolving naming conflicts.
 			- **Examples:**
 				- ```
+				  [[Cat]] # BAD
 				  ```
 	- ## Special Namespaces:
 		- ###  Functional Namespaces:
