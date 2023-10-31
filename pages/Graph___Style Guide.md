@@ -65,7 +65,7 @@
 			- **[[Archive]]**
 				- The purpose of this namespace is to archive unneeded pages and namespaces. Instead of deleting pages, make them a child of this name space, and disable
 		- ### Data Type Namespace:
-			-
+			- Data Type namespaces are a type of namespace that represent real world things
 			- **[[Document]]**
 				- {{embed ((65402583-680b-4999-9244-b8550f5ed47b))}}
 				- **Formating:**
