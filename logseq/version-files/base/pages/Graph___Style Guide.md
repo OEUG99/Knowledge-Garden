@@ -39,6 +39,7 @@
 				  [[Cat]]
 				  [[Cat [[Linux]]]]
 				  ```
+					- ![image.png](../assets/image_1698715103386_0.png)
 			- All though this method is arguably uglier then the wikipedia approach, it has one major benefit, It can help make you notes more uniformed due to it  again suggesting  page names. For instance, if you were to write in parentheses like with the wikipedia approach, there is no suggested names to use when creating new pages, this can lead to sloppy page naming such as follows:
 				- ```
 				  [[Cat (Linux Command)]]
@@ -47,7 +48,7 @@
 				  
 				  [[ls (Unix Command)]]
 				  
-				  One coudl easily see how different naming schemes could accidentally
+				  One could easily see how different naming schemes could accidentally
 				  be created.
 				  ```
 	- ## Special Namespaces:
