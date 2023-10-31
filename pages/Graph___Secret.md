@@ -5,6 +5,6 @@ title:: Graph/Secret
 - This secret manager is not intended to store critical information, and is mainly used to store minor information you do not want public.
 - # Why have a secret manager?
 	- This graph employs the use of secrets in such a manner, due to all the notes being publicly available.
-	- By having a secret manager system on a public graph, we can
+	- By having a secret manager system on a public graph, we can use Logseq as a way to act as a contact manager, hiding information like phone numbers from the public, but still allowing that information to be easily retr
 	- The secret manager is freely available on its GitHub repo, which can be found in [[Projects/Secrets Manager]]. If you would like to host your own instance, feel free to do so.
 		- Alternatively, you could use [pastebin](pastebin.com) and create password protected pastes or private pastes and link those instead if you are not able to host your own instance.
