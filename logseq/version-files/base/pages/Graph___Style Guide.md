@@ -29,7 +29,7 @@
 			- **[[Logseq]]**
 				- If you are in need of Logseq documentation or tutorials, this namespace houses all related pages.
 			- **[[Archive]]**
-				- If
+				- This namespace acts as sort of a trashcan
 		- ### Data Type Namespace:
 			- **[[Document]]**
 				- {{embed ((65402583-680b-4999-9244-b8550f5ed47b))}}
