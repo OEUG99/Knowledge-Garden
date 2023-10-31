@@ -26,7 +26,7 @@
 			- **[[Graph]]**
 				- This namespace refers to this graph itself. Its functional purpose is aid in the upkeep and maintenance of the graph by establishing standards and creating utility tags.
 					- `[[Graph/ISSUE]]` should be written when you notice a page is not adhering to the style guide. By flagging it, you can quickly find it in the reference section and fix later.
-					- ``
+					- ` [[Graph/Style Guide]] ` (this page) contains the style guide used across this logseq graph. Each
 			- **[[Logseq]]**
 				- If you are in need of Logseq documentation or tutorials, this namespace houses all related pages.
 			- **[[Archive]]**
