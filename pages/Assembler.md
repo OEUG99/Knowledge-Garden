@@ -29,5 +29,7 @@
 			  
 			  If the source program is meant to produce relocatable code, the assembler will also generate a relocation bit for each word of the object program. The relocation bit indicated whether the word should be modified when the program is loaded into memory.
 			  
-			  Any literals used in the program
+			  Any literals used in the program are added to the literal table (if one exists) and the necessary machine instructions are added to the object code.
+			  
+			  During phase 2, checks for errors that were not
 	-
