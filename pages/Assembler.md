@@ -5,6 +5,7 @@
 	- **One-pass Assembler** – This type of assembler process the assembly code into machine code all within 1 go.
 	- **Multi-Pass Assembler** –  This type of assembler processes assembly code in multiple passes.
 		- During the first pass the following occurs:
+			- Symbol tables and opcode tables are defined
 			-
 	-
 	-
