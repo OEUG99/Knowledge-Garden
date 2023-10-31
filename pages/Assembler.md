@@ -31,5 +31,7 @@
 			  
 			  Any literals used in the program are added to the literal table (if one exists) and the necessary machine instructions are added to the object code.
 			  
-			  During phase 2, checks for errors that were not
+			  During phase 2, checks for errors that were not detectable in Phase 1, such as undefined symbols, are also done. If the assembler detects an error, it generates an error message.
+			  
+			  At the end of phase 2, the assembler produces the final machine language program (also known as the OBject Program), which is written out to the Object program file. Additionally, if the assembler is meant to p
 	-
