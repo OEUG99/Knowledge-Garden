@@ -1,5 +1,8 @@
-tittle:: Oli Eugenio
+title::  Oli Eugenio
 Full-Name:: Oli Eugenio
-Phone:: encrypted()
-Email:: encrypted()
-Company::
+picture::
+Phone:: #Secret hash-here
+Email:: #Secret hash-here
+Company:: None
+Relation:: 
+Info::
