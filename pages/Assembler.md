@@ -14,6 +14,6 @@
 		  
 		  Every time a label is found in the source code, it is added to the SYMTAB (Symbol Table), along with its value or address.
 		  
-		  If the source code contains constants or literals, the assembler handles them during this phase. Constants get converted
+		  If the source code contains constants or literals, the assembler handles them during this phase. Constants get converted into their respective binary values or hexadecimal values, while literals get stored separately and are processed at the end of the source code.
 	-
 	-
