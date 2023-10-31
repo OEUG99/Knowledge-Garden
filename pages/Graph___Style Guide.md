@@ -35,6 +35,10 @@
 			  ```
 			- Why is the wikipedia style better? When you are writing and creating a new link, the suggested names will correctly appear as you type, unlike with namespaces.
 			- We can take this approach and make it better with the use of nested loops, see below:
+				- ```
+				  [[Cat]]
+				  [[Cat [[Linux]]]]
+				  ```
 				-
 	- ## Special Namespaces:
 		- ###  Functional Namespaces:
