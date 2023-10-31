@@ -1,1 +1,1 @@
-- All secrets are encrytped in
+- All secrets are encrypted in Argon2.
