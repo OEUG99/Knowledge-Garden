@@ -38,38 +38,37 @@
 				  makes using links hard to read.
 				  ```
 			- ## Naming Conflicts
-			- Namespaces are also acceptable if you are trying to avoid naming conflicts; however, there are better ways to handle name conflicts. Take for instance, how wikipedia resolves name conflicts. See below:
-				- ```
-				  If you have a page for the linux command "cat"
-				  and a page for the animal cat, both can't use the same page name.
-				  Thus using a namespace is a way to differentiate the two.
-				  [[cat]]
-				  [[command/cat]]
-				  
-				  However, the Wikipedia style naming is the better choice, see below:
-				  [[cat]]
-				  [[Cat (Linux Command)]]
-				  ```
-				- Why is the wikipedia style better? When you are writing and creating a new link, the suggested names will correctly appear as you type, unlike with namespaces.
-				- ### The preferred way  to resolve name conflicts
-				- We can take this approach and make it better with the use of nested loops, see below:
+				- Namespaces are also acceptable if you are trying to avoid naming conflicts; however, there are better ways to handle name conflicts. Take for instance, how wikipedia resolves name conflicts. See below:
 					- ```
-					  [[Cat]]
-					  [[Cat [[Linux]]]]
-					  ```
-						- ![image.png](../assets/image_1698715103386_0.png)
-				- All though this method is arguably uglier then the wikipedia approach, it has one major benefit, It can help make you notes more uniformed due to it  again suggesting  page names. For instance, if you were to write in parentheses like with the wikipedia approach, there is no suggested names to use when creating new pages, this can lead to sloppy page naming such as follows:
-					- ```
+					  If you have a page for the linux command "cat"
+					  and a page for the animal cat, both can't use the same page name.
+					  Thus using a namespace is a way to differentiate the two.
+					  [[cat]]
+					  [[command/cat]]
+					  
+					  However, the Wikipedia style naming is the better choice, see below:
+					  [[cat]]
 					  [[Cat (Linux Command)]]
-					  
-					  [[touch (Command)]]
-					  
-					  [[ls (Unix Command)]]
-					  
-					  One could easily see how different naming schemes could accidentally
-					  be created.
 					  ```
-					-
+					- Why is the wikipedia style better? When you are writing and creating a new link, the suggested names will correctly appear as you type, unlike with namespaces.
+					- ### The preferred way  to resolve name conflicts
+					- We can take this approach and make it better with the use of nested loops, see below:
+						- ```
+						  [[Cat]]
+						  [[Cat [[Linux]]]]
+						  ```
+							- ![image.png](../assets/image_1698715103386_0.png)
+					- All though this method is arguably uglier then the wikipedia approach, it has one major benefit, It can help make you notes more uniformed due to it  again suggesting  page names. For instance, if you were to write in parentheses like with the wikipedia approach, there is no suggested names to use when creating new pages, this can lead to sloppy page naming such as follows:
+						- ```
+						  [[Cat (Linux Command)]]
+						  
+						  [[touch (Command)]]
+						  
+						  [[ls (Unix Command)]]
+						  
+						  One could easily see how different naming schemes could accidentally
+						  be created.
+						  ```
 	- ## Special Namespaces:
 		- ###  Functional Namespaces:
 			- **[[Graph]]**
@@ -81,7 +80,6 @@
 			- **[[Archive]]**
 				- The purpose of this namespace is to archive unneeded pages and namespaces. Instead of deleting pages, make them a child of this name space, and disable
 		- ### Data Type Namespace:
-		  collapsed:: true
 			- Data Type namespaces is the name applied to certain namespaces on this graph. Typically, they share the following properties:
 				- Each page apart of this namespace use identical formatting and page props.
 				  logseq.order-list-type:: number
