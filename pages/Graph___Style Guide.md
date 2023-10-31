@@ -20,7 +20,11 @@
 			  This namespaces theme is not specific enough. Additionally, using it
 			  makes using links hard to read.
 			  ```
+			- ```
+			  
+			  ```
 	- ## Special Namespaces:
+		- Special Namespaces:
 		- ###  Functional Namespaces:
 			- **[[Graph]]**
 				- This namespace refers to this graph itself. Its functional purpose is aid in the upkeep and maintenance of the graph by establishing standards and creating utility tags.
