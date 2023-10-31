@@ -8,7 +8,9 @@
 		  
 		  This is the initial phase where the source code is read line by line from an input file, analyzing the structure of each instruction.
 		  
-		  An intermediate File is then created, each line read from the source program is converted into an intermediate form and written to the intermediate file. The intermediate form is as follows... each line consists of the location counter value, the opcode , and the operand (if any exists).
+		  An intermediate File is then created, each line read from the source program is converted into an intermediate form and written to the intermediate file. The intermediate form is as follows... each line consists of the location counter value, the opcode mnemonics, and the operand (if any exists).
+		  
+		  The opcode mnemonics can be found with the assemblers predefined table that contains all the opcode mnemonics and their equivalent machine codes. This 
 		  
 		  Every time a label is found in the source code, it is added to the SYMTAB (Symbol Table), along with its value or address.
 	-
