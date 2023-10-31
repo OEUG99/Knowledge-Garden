@@ -10,4 +10,4 @@ title:: Graph/Secret
 - # How to get the secrets manager?
 	- The secret manager is freely available on its GitHub repo, which can be found in [[Projects/Secrets Manager]]. If you would like to host your own instance, feel free to do so.
 		- Alternatively, you could use [pastebin](pastebin.com) and create password protected pastes or private pastes and link those instead if you are not able to host your own instance.
-		-
+		- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Someone tell the e-lister DDG to put on the gloves and let’s run it, I’ll show him why trans women are banned from sports. 🥊😭 <a href="https://t.co/piT3io9cfA">pic.twitter.com/piT3io9cfA</a></p>&mdash; Olivia (@OliviaGenoGG) <a href="https://twitter.com/OliviaGenoGG/status/1708552513870270881?ref_src=twsrc%5Etfw">October 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
