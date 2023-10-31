@@ -17,5 +17,5 @@
 			  
 			  The assembler also evaluated assembler directives during this phases. directives are instructions that guide the assembly process (like specifying the start address or defining data elements, etc.)
 		- **Synthesis Phase (Phase 2):**
-			-
+			- During this phase, the assembler uses the intermediate file to produce the actual machine language code.
 	-
