@@ -21,5 +21,7 @@
 			  
 			  The assembler reads instructions from the Intermediate file, translates each opcode mnemonic into its corresponding machine language opcode (using OPTAB), and writes the resulting machine instructions to the object code file.
 			  
-			  The assembler replaces the symbolic operands with their actual addresses. The addresses of the symbolic operands are found in SYMTAB that was generated during Phase 1.
+			  The assembler replaces the symbolic operands with their actual addresses. The addresses of the symbolic operands are found in SYMTAB that was generated during Phase 1. 
+			  
+			  The assembler calculates the relative addresses for branch instructions or jumps. The relative  address is calculated by subtracting the address of the next instruction (location counter value after the instruction is stored) from the target address.
 	-
