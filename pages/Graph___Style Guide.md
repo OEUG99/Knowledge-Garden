@@ -1,5 +1,6 @@
 # Pages
 	- Page name should avoid abbreviation, i.e. `math` should be `mathematics.` This helps with avoiding name conflicts.
+		- For incredibly long names, it is acceptable to abbreviate.
 	- All pages should implement the `tags::` page prop. Each page should be tagged using the following method.
 		- ## Tagging Pages
 			- Create a list of tags inside the `tags::` page prop, start with something broad, then narrow it down and refine it.
@@ -12,9 +13,7 @@
 					  tags:: [[Programming]] [[Website Development]] [[HTML]]
 					  ```
 					- Notice how in the above examples, the scope of each tag shrinks as we write. Make sure not to overly spam tags, this approach should help reducing spam while also boosting connections.
-					- As your
 - # Namespaces
-  collapsed:: true
 	- In general, namespaces can and should typically be avoided due to them making linking less readable. In most cases, tags inside a page are often sufficient enough to model the relationships between ideas. However, there are a few use-cases when namespaces can serve to be useful.
 	- ## When are name spaces okay?
 		- So then, when should you use a namespace? Namespaces should only be used when you are writing for a topic and its tangentially related to specific theme/goal AND it is very unlikely that you will be linking to it from other notes. Additionally, you need these notes easily findable.
@@ -71,7 +70,6 @@
 					  be created.
 					  ```
 	- ## Special Namespaces:
-	  collapsed:: true
 		- ###  Functional Namespaces:
 			- **[[Graph]]**
 				- This namespace refers to this graph itself. Its functional purpose is aid in the upkeep and maintenance of the graph by establishing standards and creating utility tags.
@@ -119,4 +117,3 @@
 						  ```
 		-
 		-
--
