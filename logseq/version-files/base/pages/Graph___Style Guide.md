@@ -40,8 +40,6 @@
 				  [[Cat [[Linux]]]]
 				  ```
 			- All though this method is arguably uglier then the wikipedia approach, it has one major benefit, It can help make you notes more uniformed due to it suggesting
-			- [[cat]]
-			-
 	- ## Special Namespaces:
 		- ###  Functional Namespaces:
 			- **[[Graph]]**
