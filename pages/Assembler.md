@@ -2,5 +2,5 @@
 - An assembler program creates object code by translating combinations of mnemonics and syntax for operations and addressing modes into their numerical equivalents.  This representation typically includes an operation code (opcode) as well as other control bits and data. [(via Wikipedia)](https://en.wikipedia.org/wiki/Assembly_language#Assembler)
 - Assemblers are essentially a [Compiler]([]) that translates assembly code into machine code.
 - # Types of Assemblers
-	- **One-pass Assembler** – This type of assembler process the source code once.
-	- **Multi-Pass Assembler**
+	- **One-pass Assembler** – This type of assembler process the assembly code into machine code all within 1 go.
+	- **Multi-Pass Assembler** –
