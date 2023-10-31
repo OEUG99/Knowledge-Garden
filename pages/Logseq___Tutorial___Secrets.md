@@ -1,0 +1,1 @@
+- To create secret section in Logseq that does not appear in your git repo
