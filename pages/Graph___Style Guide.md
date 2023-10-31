@@ -66,7 +66,10 @@
 				- The purpose of this namespace is to archive unneeded pages and namespaces. Instead of deleting pages, make them a child of this name space, and disable
 		- ### Data Type Namespace:
 			- Data Type namespaces is the name applied to certain namespaces on this graph. Typically, they share the following properties:
-				- logseq.order-list-type:: number
+				- Each page apart of this namespace use identical formatting.
+				  logseq.order-list-type:: number
+				- The root node of the name space is disabled in the graph view, as it
+				  logseq.order-list-type:: number
 			- **[[Document]]**
 				- {{embed ((65402583-680b-4999-9244-b8550f5ed47b))}}
 				- **Formating:**
