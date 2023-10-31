@@ -1,5 +1,5 @@
 # Namespaces
-	- In general, namespaces can and should typically be avoided due to them making linking less readable
+	- In general, namespaces can and should typically be avoided due to them making linking less readable. In most cases, tags inside a page are often sufficient enough to model the relationships
 	- Namespaces should only be used when you are writing for a topic and its tangentially related to specific theme/goal AND it is very unlikely that you will be linking to it from other notes. Additionally, you need these notes easily findable.
 	- One way you can think of namespaces is like a filling cabinet for related ideas. In the example below, the `[[Film Review]]` namespace acts as a filing cabinet holding all the reviews:
 		- **Examples:
