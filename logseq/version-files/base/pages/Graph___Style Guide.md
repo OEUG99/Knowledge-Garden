@@ -21,6 +21,7 @@
 			  This namespaces theme is not specific enough. Additionally, using it
 			  makes using links hard to read.
 			  ```
+		- ## When are name spaces okay?
 		- Namespaces are also acceptable if you are trying to avoid naming conflicts; however, there are better ways to handle name conflicts. Take for instance, how wikipedia resolves name conflicts. See below:
 			- ```
 			  If you have a page for the linux command "cat"
@@ -34,6 +35,7 @@
 			  [[Cat (Linux Command)]]
 			  ```
 			- Why is the wikipedia style better? When you are writing and creating a new link, the suggested names will correctly appear as you type, unlike with namespaces.
+			- ### The preferred way  to resolve name conflicts
 			- We can take this approach and make it better with the use of nested loops, see below:
 				- ```
 				  [[Cat]]
