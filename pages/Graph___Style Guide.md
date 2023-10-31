@@ -1,5 +1,5 @@
 # Namespaces
-	- In general, n
+	- In general, namespaces can and should typically be avoided.
 	- Namespaces should only be used when you are writing for a topic and its tangentially related to specific theme/goal AND it is very unlikely that you will be linking to it from other notes. Additionally, you need these notes easily findable.
 	- One way you can think of namespaces is like a filling cabinet for related ideas. In the example below, the `[[Film Review]]` namespace acts as a filing cabinet holding all the reviews:
 		- **Examples:
@@ -22,7 +22,6 @@
 			  makes using links hard to read.
 			  ```
 	- ## Special Namespaces:
-		- Special Namespaces:
 		- ###  Functional Namespaces:
 			- **[[Graph]]**
 				- This namespace refers to this graph itself. Its functional purpose is aid in the upkeep and maintenance of the graph by establishing standards and creating utility tags.
