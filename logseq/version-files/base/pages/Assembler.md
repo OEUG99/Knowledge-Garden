@@ -3,6 +3,6 @@
 - Assemblers are essentially a [Compiler]([]) that translates assembly code into machine code.
 - # Types of Assemblers
 	- **One-pass Assembler** – This type of assembler process the assembly code into machine code all within 1 go.
-	- **Multi-Pass Assembler** –  This type of assembler processes assembly code in multiple phases, ///////../
+	- **Multi-Pass Assembler** –  This type of assembler processes assembly code in multiple phases,
 	-
 	-
