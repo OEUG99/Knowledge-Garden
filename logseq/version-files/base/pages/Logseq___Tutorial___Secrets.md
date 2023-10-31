@@ -4,5 +4,4 @@ tags:: #GIT
   ```
   pages/secret*
   ```
-- Then you want to create a namespace called [[Secret]], this namespace will store all your secrets.
-- NOTE: Secrets should only remain as plain text
+-
