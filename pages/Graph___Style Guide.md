@@ -20,7 +20,6 @@
 			  This namespaces theme is not specific enough. Additionally, using it
 			  makes using links hard to read.
 			  ```
-		- Name spaces c
 	- ## Special Namespaces:
 		- Special Namespaces:
 		- ###  Functional Namespaces:
