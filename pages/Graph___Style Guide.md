@@ -21,7 +21,7 @@
 			  This namespaces theme is not specific enough. Additionally, using it
 			  makes using links hard to read.
 			  ```
-		- Namespaces are also acceptable if you are trying to avoid naming conflicts; however, wikipedia style page name are the preferred method of resolving naming conflicts. The wikipedia approach is to add a set of paranthesis to its title.
+		- Namespaces are also acceptable if you are trying to avoid naming conflicts; however, there are better ways to handle name conflicts. Take for instance, how wikipedia resolves name conflicts.
 			- **Examples:**
 				- ```
 				  If you have a page for the linux command "cat"
