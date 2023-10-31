@@ -8,6 +8,6 @@
 		  
 		  This is the initial phase where the source code is read line by line from an input file, analyzing the structure of each instruction.
 		  
-		  An intermediate File is then created, each line read from the source program is converted into an intermediate form
+		  An intermediate File is then created, each line read from the source program is converted into an intermediate form and written to the intermediate file. The intermediate form is as follows... each line consists of the location counter value
 	-
 	-
