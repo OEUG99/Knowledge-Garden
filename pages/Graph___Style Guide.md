@@ -54,7 +54,6 @@
 					  One could easily see how different naming schemes could accidentally
 					  be created.
 					  ```
-					-
 	- ## Special Namespaces:
 		- ###  Functional Namespaces:
 			- **[[Graph]]**
