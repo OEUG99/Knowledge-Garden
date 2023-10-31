@@ -19,5 +19,5 @@
 		- **Synthesis Phase (Phase 2):**
 			- During this phase, the assembler uses the intermediate file to produce the actual machine language code.
 			  
-			  The assembler reads instructions from the Intermediate file, translates each opcode mnemonic into its corresponding machine language opcode (using OPTAB)
+			  The assembler reads instructions from the Intermediate file, translates each opcode mnemonic into its corresponding machine language opcode (using OPTAB), and writes the resulting machine instructions to the object code file.
 	-
