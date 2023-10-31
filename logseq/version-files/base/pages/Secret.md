@@ -1,1 +1,2 @@
-- All secrets are encrypted in Argon2.
+- All secrets are encrypted in Argon2, and they will appear next to every time the #secret tag is used.
+- To encrypt, you
