@@ -1,4 +1,7 @@
-# Namespaces
+# Pages
+	- Page name should avoid abrivation, i.e. `math`
+- # Namespaces
+  collapsed:: true
 	- In general, namespaces can and should typically be avoided due to them making linking less readable. In most cases, tags inside a page are often sufficient enough to model the relationships between ideas. However, there are a few use-cases when namespaces can serve to be useful.
 	- ## When are name spaces okay?
 		- So then, when should you use a namespace? Namespaces should only be used when you are writing for a topic and its tangentially related to specific theme/goal AND it is very unlikely that you will be linking to it from other notes. Additionally, you need these notes easily findable.
@@ -55,6 +58,7 @@
 					  be created.
 					  ```
 	- ## Special Namespaces:
+	  collapsed:: true
 		- ###  Functional Namespaces:
 			- **[[Graph]]**
 				- This namespace refers to this graph itself. Its functional purpose is aid in the upkeep and maintenance of the graph by establishing standards and creating utility tags.
@@ -65,6 +69,7 @@
 			- **[[Archive]]**
 				- The purpose of this namespace is to archive unneeded pages and namespaces. Instead of deleting pages, make them a child of this name space, and disable
 		- ### Data Type Namespace:
+		  collapsed:: true
 			- Data Type namespaces is the name applied to certain namespaces on this graph. Typically, they share the following properties:
 				- Each page apart of this namespace use identical formatting and page props.
 				  logseq.order-list-type:: number
@@ -75,7 +80,6 @@
 				  
 				  This allows us to automatically import in notes from services like Readwise and to quickly find them, with out having to search for names.
 			- **[[Document]]**
-			  collapsed:: true
 				- {{embed ((65402583-680b-4999-9244-b8550f5ed47b))}}
 				- **Formating:**
 					- title::
