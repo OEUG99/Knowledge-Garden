@@ -71,7 +71,7 @@
 				- The root node of the name space is disabled in the graph view, as displaying this provides no meaningful information. For example, don't want the root node for Document to display, because having our graph connecting every document together tells us nothing. 
 				  logseq.order-list-type:: number
 				  
-				  By doing so, we can leverage the power of namespaces for organizing, while also not having  it affect the graph view.
+				  By doing so, we can leverage the power of namespaces for organizing, while also not having  it affect the graph view.  i.e, we can quickly see a list of all documents we have by viewing the hierarchy section in the root node.
 			- **[[Document]]**
 				- {{embed ((65402583-680b-4999-9244-b8550f5ed47b))}}
 				- **Formating:**
