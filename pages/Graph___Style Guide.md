@@ -21,11 +21,20 @@
 			  This namespaces theme is not specific enough. Additionally, using it
 			  makes using links hard to read.
 			  ```
-		- Namespaces are also acceptable if you are trying to avoid naming conflicts; however, wikipedia style page name are the preferred method of resolving naming conflicts.
+		- Namespaces are also acceptable if you are trying to avoid naming conflicts; however, wikipedia style page name are the preferred method of resolving naming conflicts. The wikipedia approach is to add a set of paranthesis to its title.
 			- **Examples:**
 				- ```
-				  [[Cat]] # BAD
+				  If you have a page for the linux command "cat"
+				  and a page for the animal cat, both can't use the same page name.
+				  Thus using a namespace is a way to differentiate the two.
+				  [[cat]]
+				  [[command/cat]]
+				  
+				  However, the Wikipedia style naming is the better choice, see below:
+				  [[cat]]
+				  [[Cat (Linux Command)]]
 				  ```
+			- Why is the wikipedia style preferred? W
 	- ## Special Namespaces:
 		- ###  Functional Namespaces:
 			- **[[Graph]]**
