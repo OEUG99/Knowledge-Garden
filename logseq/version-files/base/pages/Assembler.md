@@ -29,5 +29,9 @@
 			  
 			  If the source program is meant to produce relocatable code, the assembler will also generate a relocation bit for each word of the object program. The relocation bit indicated whether the word should be modified when the program is loaded into memory.
 			  
-			  Any literals used in the program
+			  Any literals used in the program are added to the literal table (if one exists) and the necessary machine instructions are added to the object code.
+			  
+			  During phase 2, checks for errors that were not detectable in Phase 1, such as undefined symbols, are also done. If the assembler detects an error, it generates an error message.
+			  
+			  At the end of phase 2, the assembler produces the final machine language program (also known as the Object Program), which is written out to the Object program file. Additionally, if the assembler is meant to produce a list file, it generates an Assembly Listing that includes machine instructions, addresses, and other relevant information.
 	-
