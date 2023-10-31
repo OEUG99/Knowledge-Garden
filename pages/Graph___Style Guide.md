@@ -12,7 +12,7 @@
 					  tags:: [[Programming]] [[Website Development]] [[HTML]]
 					  ```
 					- Notice how in the above examples, the scope of each tag shrinks as we write. Make sure not to overly spam tags, this approach should help reducing spam while also boosting connections.
-			-
+					- As your
 - # Namespaces
   collapsed:: true
 	- In general, namespaces can and should typically be avoided due to them making linking less readable. In most cases, tags inside a page are often sufficient enough to model the relationships between ideas. However, there are a few use-cases when namespaces can serve to be useful.
