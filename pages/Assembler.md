@@ -27,5 +27,7 @@
 			  
 			  The assembler encodes each instruction into machine-readable form. For example, a "LOAD" instruction  will be encoded into a specific number that represents "LOAD in the machine language.
 			  
-			  If the source program is meant to produce relocatable code, the assembler will also generate a relocation bit for each word of the object program. The
+			  If the source program is meant to produce relocatable code, the assembler will also generate a relocation bit for each word of the object program. The relocation bit indicated whether the word should be modified when the program is loaded into memory.
+			  
+			  Any literals used in the program
 	-
