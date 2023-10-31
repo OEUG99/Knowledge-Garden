@@ -1,1 +1,2 @@
-- This Logseq graph uses a custom
+- This Logseq graph uses a custom secret management service designed by [[@Oli Eugenio]].
+- Next to every #secret tag will have an external link to the secrets manager
