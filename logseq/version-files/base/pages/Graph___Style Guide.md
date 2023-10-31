@@ -1,4 +1,5 @@
 # Pages
+	- Page name should avoid abbreviation, i.e. `math` should be `mathematics.` This helps with avoiding name conflicts.
 	-
 - # Namespaces
   collapsed:: true
