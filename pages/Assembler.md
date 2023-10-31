@@ -24,4 +24,6 @@
 			  The assembler replaces the symbolic operands with their actual addresses. The addresses of the symbolic operands are found in SYMTAB that was generated during Phase 1. 
 			  
 			  The assembler calculates the relative addresses for branch instructions or jumps. The relative  address is calculated by subtracting the address of the next instruction (location counter value after the instruction is stored) from the target address.
+			  
+			  The
 	-
