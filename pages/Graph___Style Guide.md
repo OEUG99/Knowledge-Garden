@@ -35,7 +35,7 @@
 				  [[Cat (Linux Command)]]
 				  ```
 			- Why is the wikipedia style preferred? When you are writing and creating a new link, the suggested names will correctly appear as you type, unlike with namespaces.
-			- Very similar to the Wikipedia style naming, you can use nested
+			- Very similar to the Wikipedia style naming, you can use nested links instead of the added parenthesis.
 	- ## Special Namespaces:
 		- ###  Functional Namespaces:
 			- **[[Graph]]**
