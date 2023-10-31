@@ -21,6 +21,7 @@
 			  This namespaces theme is not specific enough. Additionally, using it
 			  makes using links hard to read.
 			  ```
+		- Namespaces are also acce
 	- ## Special Namespaces:
 		- ###  Functional Namespaces:
 			- **[[Graph]]**
