@@ -4,6 +4,7 @@
 - # Types of Assemblers
 	- **One-pass Assembler** – This type of assembler process the assembly code into machine code all within 1 go.
 	- **Multi-Pass Assembler** –  This type of assembler processes assembly code in multiple passes/phases.
-		- **Analysis Phase (Phase 1):** This is the initial phase where the source code is read line by line from an input file.  The
+		- **Analysis Phase (Phase 1):** This is the initial phase where the source code is read line by line from an input file, analyzing the structure of each instruction.
+		- **Creationof**
 	-
 	-
