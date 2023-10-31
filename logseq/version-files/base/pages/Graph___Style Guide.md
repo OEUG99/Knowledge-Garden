@@ -52,23 +52,23 @@
 					  ```
 					- Why is the wikipedia style better? When you are writing and creating a new link, the suggested names will correctly appear as you type, unlike with namespaces.
 					- ### The preferred way  to resolve name conflicts
-					- We can take this approach and make it better with the use of nested loops, see below:
-						- ```
-						  [[Cat]]
-						  [[Cat [[Linux]]]]
-						  ```
-							- ![image.png](../assets/image_1698715103386_0.png)
-					- All though this method is arguably uglier then the wikipedia approach, it has one major benefit, It can help make you notes more uniformed due to it  again suggesting  page names. For instance, if you were to write in parentheses like with the wikipedia approach, there is no suggested names to use when creating new pages, this can lead to sloppy page naming such as follows:
-						- ```
-						  [[Cat (Linux Command)]]
-						  
-						  [[touch (Command)]]
-						  
-						  [[ls (Unix Command)]]
-						  
-						  One could easily see how different naming schemes could accidentally
-						  be created.
-						  ```
+						- We can take this approach and make it better with the use of nested loops, see below:
+							- ```
+							  [[Cat]]
+							  [[Cat [[Linux]]]]
+							  ```
+								- ![image.png](../assets/image_1698715103386_0.png)
+						- All though this method is arguably uglier then the wikipedia approach, it has one major benefit, It can help make you notes more uniformed due to it  again suggesting  page names. For instance, if you were to write in parentheses like with the wikipedia approach, there is no suggested names to use when creating new pages, this can lead to sloppy page naming such as follows:
+							- ```
+							  [[Cat (Linux Command)]]
+							  
+							  [[touch (Command)]]
+							  
+							  [[ls (Unix Command)]]
+							  
+							  One could easily see how different naming schemes could accidentally
+							  be created.
+							  ```
 	- ## Special Namespaces:
 		- ###  Functional Namespaces:
 			- **[[Graph]]**
