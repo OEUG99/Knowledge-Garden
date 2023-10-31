@@ -1,2 +1,4 @@
 tittle:: Oli Eugenio
-full-name::
+Full-Name:: Oli Eugenio
+Phone:: encrypted()
+Email:: encrypted()
