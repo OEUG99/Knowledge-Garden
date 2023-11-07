@@ -15,7 +15,7 @@
 			  
 			  If the source code contains constants or literals, the assembler handles them during this phase. Constants get converted into their respective binary values or hexadecimal values, while literals get stored separately and are processed at the end of the source code. 
 			  
-			  The assembler also evaluated assembler directives during this phases. directives are instructions that guide the assembly process (like specifying the start address or defining data elements, etc.)
+			  The assembler also evaluated [[Assembler/Directives]] during this phases. directives are instructions that guide the assembly process (like specifying the start address or defining data elements, etc.)
 		- **Synthesis Phase (Phase 2):**
 			- During this phase, the assembler uses the intermediate file to produce the actual machine language code.
 			  
