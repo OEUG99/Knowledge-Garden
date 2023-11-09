@@ -1,0 +1,1 @@
+- Recursive Descent parsing is a type of parsing technique which belongs to the top-down parsing category. It uses a set of recursive procedures to process the input, once procedure for every non-terminal in the grammar it represents
