@@ -1,0 +1,1 @@
+- Within the context of Formal Grammar, such as the ones used in programming languages, a terminal is a symbol that doesn't need to be furthered transformed or broken down, and can't be replaced by anything else.
