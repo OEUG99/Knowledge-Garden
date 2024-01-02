@@ -16,7 +16,7 @@ tags:: #[[Computer Science]] #[[Software Engineering]] #Containerization #[[Virt
 			- A Kubernetes cluster consists of two types of resources:
 				- **Control Plane**: coordinates the cluster. This is responsible for scheduling applications. maintaining applications' desired state, scaling applications, and rolling out updates.
 				  logseq.order-list-type:: number
-				- **Nodes**: the workers that run applications.
+				- **Nodes**: the workers that run applications. A node is a
 				  logseq.order-list-type:: number
 				- A diagram of a cluster can be found below:
 					- ![image.png](../assets/image_1704183301372_0.png)
