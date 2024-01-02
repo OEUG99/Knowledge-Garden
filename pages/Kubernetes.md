@@ -13,4 +13,6 @@ tags:: #[[Computer Science]] #[[Software Engineering]] #Containerization #[[Virt
 	  id:: 6593c388-608f-477b-a814-81a0830cfe4d
 		- ### Kubernetes Clusters.
 		  id:: 6593c47c-1df3-42a0-9a1b-d7a4dabb6d2e
-			-
+			- A Kubernetes cluster consists of two types of resources:
+				- The **Control Plane**:
+				  logseq.order-list-type:: number
