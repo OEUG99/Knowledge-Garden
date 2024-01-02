@@ -8,6 +8,9 @@ tags:: #[[Computer Science]] #[[Software Engineering]] #Containerization #[[Virt
 	- The following notes are a guide to Kubernetes, with instructions on how to preform the most essential operations. These notes are heavily based on the official Kubernetes documentation.
 	- ## Table of contents
 		- ((6593c388-608f-477b-a814-81a0830cfe4d))
+		- ((6593c47c-1df3-42a0-9a1b-d7a4dabb6d2e))
 	- ## Using Minikube to create a cluster.
 	  id:: 6593c388-608f-477b-a814-81a0830cfe4d
-		-
+		- ### Kubernetes Clusters.
+		  id:: 6593c47c-1df3-42a0-9a1b-d7a4dabb6d2e
+			-
