@@ -48,6 +48,7 @@
 			- ### Avaliability
 				- What is **Avaliability?** #card
 					- {{cloze Avalibility ensures that the information and systems are ready to meet the needs of legitmate users at the time those users request them.}}
-				-
-				-
+				- **Availability** is commonly seen through the use of fault tolerances , clustering, backups, etc.
+				- Avaliability threads may come from either attackers seeking the distruption of access or
+					-
 -
