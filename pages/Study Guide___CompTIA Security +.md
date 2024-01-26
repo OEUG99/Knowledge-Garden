@@ -33,4 +33,5 @@
 		  card-last-interval:: 4
 		  card-ease-factor:: 2.6
 		  card-last-reviewed:: 2024-01-26T18:20:02.677Z
+		- ![image.png](../assets/image_1706293364692_0.png)
 		-
