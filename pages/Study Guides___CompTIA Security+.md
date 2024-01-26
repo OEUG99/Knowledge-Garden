@@ -9,7 +9,8 @@
 		- Network Adminstrator.
 		- Junior IT Auditor/Penetration tester
 		- Security consultant.
-	- The exam is a "performance -based assessment" , thefore it
+	- The exam is a "performance -based assessment" , therefore it questions vary from multiple-choice, fill in the blank, multiple response, and interactive question formats, including image based questions.
+	- The exam is timed, wit
 	- ## 🧭 Key Topics / Table of Contents.
 		- The exam is structured around 5 key domains:
 			- Threats, Attacks, and Vulernabilities.
