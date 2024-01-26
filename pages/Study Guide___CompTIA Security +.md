@@ -51,6 +51,6 @@
 				- **Availability** is commonly seen through the use of fault tolerances , clustering, backups, etc.
 				- Availability threads may come from either attackers seeking the disruption of access or non-malicious sources, such as natural disasters like fires, destroying datacenter that contain valuable information/services.
 					-
-			- Security incidents occur when an organization experiences a breach of the confi
+			- Security incidents occur when an organization experiences a breach of the confidentiality, integrity, and/or availability of information.
 				-
 -
