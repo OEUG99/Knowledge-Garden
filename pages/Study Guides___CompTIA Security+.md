@@ -1,7 +1,5 @@
 - ![image.png](../assets/image_1706291352474_0.png){:height 324, :width 683}
 - # CompTIA Security+ Exam
 	- ## Exam Structure
-	-
-	- ## 🧭 Security+ Table of Contents
-		- placeholder
+		- The CompTIA Security+ Exam is created to be vendor-neutral for all cyber-security professionals. It is a good certificate for entering into the field.
 - #
