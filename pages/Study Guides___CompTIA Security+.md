@@ -2,9 +2,15 @@
 - # CompTIA Security+ Exam
 	- The CompTIA Security+ Exam is created to be vendor-neutral for all cyber-security professionals. It is a good certificate for entering into the field.
 	- The exam is recommended for those wishing to work as:
-		- Systems administrators
-		- Security Administrators
-		-
+		- Systems administrators.
+		- Security Administrators.
+		- Security specialist.
+		- Security Engineers.
+		- Network Adminstrator.
+		- Junior IT Auditor/Penetration tester
+		- Security consultant.
 	- ## Exam Structure
-		-
+		- The exam is structured around 5 key domains:
+		- 1.
+		- Threats, attacks, and Vulnerabilities.**
 - #
