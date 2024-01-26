@@ -1,5 +1,6 @@
 - ![image.png](../assets/image_1706291352474_0.png){:height 324, :width 683}
 - # CompTIA Security+ Exam
+	-
 	- The CompTIA Security+ Exam is created to be vendor-neutral for all cyber-security professionals. It is a good certificate for entering into the field.
 	- The exam is recommended for those wishing to work as:
 		- Systems administrators.
