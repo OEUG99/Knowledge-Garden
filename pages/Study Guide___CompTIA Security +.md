@@ -41,11 +41,12 @@
 					- {{cloze Confidentiality ensures that unauthorized individuals are not able to gain access to sensitive information.}}
 			- Hackers may try to undermine **confidentiality** controls to achieve one of their goals, the unauthorized disclosure of information, like with database breaches.
 			- ### Integrity
-				- What is Integrity? #card
+				- What is **Integrity**? #card
 					- {{cloze Integrity ensures that there are no unauthorized modifications to information or systems, either intentionally or unintentionally.}}
 				- **Integrity** is usually implemented through various tools, like the use of hashes to verify if files are the same.
 				- **Integrity** threats may come from attackers seeking the alteration of information without authorization or non-malicious sources, such as a power spike causing the corruption of information.
 			- ### Avaliability
-				-
+				- What is **Avaliability?** #card
+					- {{cloze }}
 				-
 -
