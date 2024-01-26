@@ -9,7 +9,7 @@
 		- Network Adminstrator.
 		- Junior IT Auditor/Penetration tester
 		- Security consultant.
-	- ## Exam Structure
+	- ## 🧭 Key Topics / Table of Contents.
 		- The exam is structured around 5 key domains:
 			- Threats, Attacks, and Vulernabilities.
 			  logseq.order-list-type:: number
@@ -21,5 +21,5 @@
 			  logseq.order-list-type:: number
 			- Governance, Risk, and Compliance.
 			  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+	-
 - #
