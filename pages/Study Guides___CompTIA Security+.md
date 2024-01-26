@@ -10,7 +10,7 @@
 		- Junior IT Auditor/Penetration tester
 		- Security consultant.
 	- The exam is a "performance -based assessment" , therefore it questions vary from multiple-choice, fill in the blank, multiple response, and interactive question formats, including image based questions.
-	- The exam is timed, wit
+	- The exam is timed, and you will be provided with 90 minutes to complete it. It features up to 90 questions, and is scored on a scale ranging from 100 to 900, with the passing score of 750.
 	- ## 🧭 Key Topics / Table of Contents.
 		- The exam is structured around 5 key domains:
 			- Threats, Attacks, and Vulernabilities.
