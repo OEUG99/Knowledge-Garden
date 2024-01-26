@@ -36,4 +36,5 @@
 		- ![image.png](../assets/image_1706293364692_0.png)
 		- What is **Confidenitality?** #card
 			- {{cloze Confidentiality ensures that unauthorized individuals are not able to gain access to sensitive information.}}
+		-
 -

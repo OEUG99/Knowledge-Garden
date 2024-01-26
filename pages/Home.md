@@ -13,7 +13,8 @@
 	- Navigating this knowledge garden is simple yet versatile. You can use the links below for guided access to key areas, explore interconnected ideas through the 'Graph View,' or pinpoint specific topics using the search bar. Each option offers a unique way to engage with the content, catering to your preferred style of exploration.
 		- **[[About Me]]** — A section dedicated to learning more about me.
 		- **[[Resumé]]**  — A link to my personal resumé.
-		- **[[Blog]]** — My personal blog for development and life.
+		- **[[Blog]]** — My personal blog for development and life. (Coming Soon
+		- )
 		- **[[Projects]]** — A directory for the various code related projects that I have worked on.
 		- **[[Master Nodes]]** — A directory that contains a curated list of ‘master nodes’ on various topics.
 - # 📬 Contact Info
