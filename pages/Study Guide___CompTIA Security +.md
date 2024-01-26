@@ -26,17 +26,20 @@
 			- Governance, Risk, and Compliance.
 			  logseq.order-list-type:: number
 	- # Modern Security Professionals
-		- Modern security professionals are responsible for protecting {{cloze confidentiality, integrity, and availability of information, commonly abbreviated to C.I.A} #card
-		  card-last-score:: 5
-		  card-repeats:: 1
-		  card-next-schedule:: 2024-01-30T18:20:02.676Z
-		  card-last-interval:: 4
-		  card-ease-factor:: 2.6
-		  card-last-reviewed:: 2024-01-26T18:20:02.677Z
-		- ![image.png](../assets/image_1706293364692_0.png)
-		- ## Confidenitality
-			- What is **Confidenitality?** #card
-				- {{cloze Confidentiality ensures that unauthorized individuals are not able to gain access to sensitive information.}}
-		- Hackers may try to undermine **confidentiality** controls to achieve one of their goals, the unauthorized disclosure of information, like with database breaches.
-		-
+		- ## The Three Pillars of Modern Security.
+			- Modern security professionals are responsible for protecting {{cloze confidentiality, integrity, and availability of information, commonly abbreviated to C.I.A} #card
+			  card-last-score:: 5
+			  card-repeats:: 1
+			  card-next-schedule:: 2024-01-30T18:20:02.676Z
+			  card-last-interval:: 4
+			  card-ease-factor:: 2.6
+			  card-last-reviewed:: 2024-01-26T18:20:02.677Z
+			- ![image.png](../assets/image_1706293364692_0.png)
+			-
+			- ### Confidenitality
+				- What is **Confidenitality?** #card
+					- {{cloze Confidentiality ensures that unauthorized individuals are not able to gain access to sensitive information.}}
+			- Hackers may try to undermine **confidentiality** controls to achieve one of their goals, the unauthorized disclosure of information, like with database breaches.
+			- ### Integrity
+				-
 -
