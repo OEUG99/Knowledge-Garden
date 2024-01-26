@@ -27,4 +27,9 @@
 			  logseq.order-list-type:: number
 	- # Modern Security Professionals
 		- Modern security professionals are responsible for protecting {{cloze confidentiality, integrity, and availability of information, commonly abbreviated to C.I.A} #card #[[Study Guide/CompTIA Security +]]
-		- {{cards }}
+		  card-last-interval:: 4
+		  card-repeats:: 1
+		  card-ease-factor:: 2.6
+		  card-next-schedule:: 2024-01-30T18:20:02.676Z
+		  card-last-reviewed:: 2024-01-26T18:20:02.677Z
+		  card-last-score:: 5
