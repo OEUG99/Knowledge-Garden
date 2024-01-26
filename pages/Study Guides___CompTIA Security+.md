@@ -9,6 +9,7 @@
 		- Network Adminstrator.
 		- Junior IT Auditor/Penetration tester
 		- Security consultant.
+	- The exam is a "performance -based assessment" , thefore it
 	- ## 🧭 Key Topics / Table of Contents.
 		- The exam is structured around 5 key domains:
 			- Threats, Attacks, and Vulernabilities.
