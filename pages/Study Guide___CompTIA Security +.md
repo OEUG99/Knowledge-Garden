@@ -43,5 +43,6 @@
 			- ### Integrity
 				- What is Integrity? #card
 					- {{cloze Integrity ensures that there are no unauthorized modifications to information or systems, either intentionally or unintentionally.}}
-				- Integrity is usually implemented through v
+				- Integrity is usually implemented through various tools, like the use of hashes to verify if files are the same.
+				- Integrity threats may come from attackers seeking the alteration of information without authorization or nonmalicious sources, such as a power spike causing the corruption of information.
 -
