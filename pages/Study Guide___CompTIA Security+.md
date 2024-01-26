@@ -26,5 +26,6 @@
 			- Governance, Risk, and Compliance.
 			  logseq.order-list-type:: number
 	- # Modern Security Professionals
-		- Modern security professionals are responsible for protecting {{cloze confidentiality, integrity, and availability of information, commonly abbreviated to C.I.A} #card
+		- Modern security professionals are responsible for protecting {{cloze confidentiality, integrity, and availability of information, commonly abbreviated to C.I.A} #card #[[Study Guide/CompTIA Security +]]
+		-
 - #
