@@ -25,5 +25,6 @@
 			  logseq.order-list-type:: number
 			- Governance, Risk, and Compliance.
 			  logseq.order-list-type:: number
-	-
+	- # Modern Security Professionals
+		- Modern security professionals are responsible for protecting **confidentiality, integ**
 - #
