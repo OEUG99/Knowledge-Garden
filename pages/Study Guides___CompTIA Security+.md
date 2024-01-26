@@ -11,6 +11,15 @@
 		- Security consultant.
 	- ## Exam Structure
 		- The exam is structured around 5 key domains:
-		- 1.
-		- Threats, attacks, and Vulnerabilities.**
+			- Threats, Attacks, and Vulernabilities.
+			  logseq.order-list-type:: number
+			- Architecture and Design.
+			  logseq.order-list-type:: number
+			- Implementation.
+			  logseq.order-list-type:: number
+			- Operations and Incident Response.
+			  logseq.order-list-type:: number
+			- Governance, Risk, and Compliance.
+			  logseq.order-list-type:: number
+			- logseq.order-list-type:: number
 - #
