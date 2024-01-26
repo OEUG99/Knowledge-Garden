@@ -47,6 +47,7 @@
 				- **Integrity** threats may come from attackers seeking the alteration of information without authorization or non-malicious sources, such as a power spike causing the corruption of information.
 			- ### Avaliability
 				- What is **Avaliability?** #card
-					- {{cloze }}
+					- {{cloze Avalibility ensures that the information and systems are ready to meet the needs of legitmate users at the time those users request them.}}
+				-
 				-
 -
