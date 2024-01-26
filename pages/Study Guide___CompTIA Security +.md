@@ -26,7 +26,7 @@
 			- Governance, Risk, and Compliance.
 			  logseq.order-list-type:: number
 	- # Modern Security Professionals
-		- ## The Three Pillars of Modern Security.
+		- ## The Three Pillars of Modern Security - The CIA Triad.
 			- Modern security professionals are responsible for protecting {{cloze confidentiality, integrity, and availability of information, commonly abbreviated to C.I.A} #card
 			  card-last-score:: 5
 			  card-repeats:: 1
@@ -51,4 +51,6 @@
 				- **Availability** is commonly seen through the use of fault tolerances , clustering, backups, etc.
 				- Availability threads may come from either attackers seeking the disruption of access or non-malicious sources, such as natural disasters like fires, destroying datacenter that contain valuable information/services.
 					-
+			- Security incidents occur when an organization experiences a breach of the confi
+				-
 -
