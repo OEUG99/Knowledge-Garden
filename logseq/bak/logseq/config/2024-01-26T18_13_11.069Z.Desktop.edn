@@ -116,7 +116,7 @@
  ;; Publish all pages within the Graph
  ;; Regardless of whether individual pages have been marked as public.
  ;; Default value: false
- ;; :publishing/all-pages-public? false
+ :publishing/all-pages-public? true
 
  ;; Define the default home page and sidebar status.
  ;; If unspecified, the journal page will be loaded on startup and the right sidebar will stay hidden.
@@ -132,7 +132,9 @@
  ;; 2. Set "Jun 3rd, 2021" as the home page without the right sidebar:
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Set "home" as the home page and display multiple pages in the right sidebar:
- ;; :default-home {:page "home", :sidebar ["Page A" "Page B"]}
+ ;; :default-home {:page "Home", :sidebar ["Blog", "Projects"]}
+ :default-home {:page "Home" }
+
 
  ;; Set the default location for storing notes.
  ;; Default value: "pages"
@@ -292,7 +294,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["Home"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -370,8 +372,10 @@
  ;; You can also reorder them or use only one or two of them in the template.
  ;; You can also insert or format any text in the template, as shown in the following examples.
  :quick-capture-templates
- {:text "{time}: #[[Quick Capture]] | {text} from {url}"
- :media "{time}: #[[Quick Capture]] | {url}"}
+ {:text "{time}: #[[Read Later]] 
+{text} from {url}"
+ :media "{time}: #[[Read Later]] 
+{url}"}
 
  ;; Quick capture options.
  ;; - insert-today?   Insert the capture at the end of today's journal page (boolean).
@@ -380,7 +384,7 @@
  :quick-capture-options
  {:insert-today? true           ;; Default value: true
  :redirect-page? false          ;; Default value: false
- :default-page "Quick Capture"} ;; Default page: "quick capture"
+ :default-page "Read Later"} ;; Default page: "quick capture"
 
  ;; File sync options
  ;; Ignore these files when syncing, regexp is supported.
@@ -416,4 +420,6 @@
  :graph/settings {:orphan-pages? true
  :excluded-pages? false}
  :zotero/settings-v2 {"default" {:type-id "Logseq"}
- "Zoro" {}}}
+ "Zoro" {}}
+ :feature/enable-flashcards? true
+ :feature/enable-whiteboards? false}

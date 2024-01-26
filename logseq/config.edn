@@ -420,4 +420,6 @@
  :graph/settings {:orphan-pages? true
  :excluded-pages? false}
  :zotero/settings-v2 {"default" {:type-id "Logseq"}
- "Zoro" {}}}
+ "Zoro" {}}
+ :feature/enable-flashcards? true
+ :feature/enable-whiteboards? false}
