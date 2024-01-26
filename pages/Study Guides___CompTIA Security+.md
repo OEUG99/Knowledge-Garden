@@ -1,4 +1,7 @@
 - ![image.png](../assets/image_1706291352474_0.png){:height 324, :width 683}
-- # 🧭 Security+ Table of Contents
-	- placeholder
--
+- # CompTIA Security+ Exam
+	- ## Exam Structure
+	-
+	- ## 🧭 Security+ Table of Contents
+		- placeholder
+- #
