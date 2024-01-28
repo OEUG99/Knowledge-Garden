@@ -31,14 +31,15 @@
 			- ### The CIA Triad
 			  id:: 65b5c362-a65b-4496-a9ed-e4e947d8d6e1
 				- What does the **CIA Triad** stand for? #card
-					- Confidentiality, Integrity, availability of information.
-				- Modern security professionals are responsible for protecting {{cloze confidentiality, integrity, and availability of information, commonly abbreviated to C.I.A} #card
+					- {{cloze Confidentiality, Integrity, availability of information.}}
+				- Modern security professionals are responsible for protecting... #card
 				  card-last-score:: 5
 				  card-repeats:: 1
 				  card-next-schedule:: 2024-01-30T18:20:02.676Z
 				  card-last-interval:: 4
 				  card-ease-factor:: 2.6
 				  card-last-reviewed:: 2024-01-26T18:20:02.677Z
+					- {{cloze confidentiality, integrity, and availability of information, commonly abbreviated to C.I.A}}
 				- ![image.png](../assets/image_1706293364692_0.png)
 				-
 				- #### Confidenitality
