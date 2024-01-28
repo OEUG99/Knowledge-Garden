@@ -63,5 +63,6 @@
 				- The DAD triad is closely related to the ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)).
 				- The main goal of the DAD triad is to... #card
 					- {{cloze describe the three key threats to cybersecurity.}}
+				- ![image.png](../assets/image_1706411579343_0.png){:height 387, :width 454}
 				-
 -
