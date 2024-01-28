@@ -30,7 +30,8 @@
 		- ## The Three Pillars of Modern Security
 			- ### The CIA Triad
 			  id:: 65b5c362-a65b-4496-a9ed-e4e947d8d6e1
-				- What does the CIA Triad st
+				- What does the **CIA Triad** stand for? #card
+					- /cloze
 				- Modern security professionals are responsible for protecting {{cloze confidentiality, integrity, and availability of information, commonly abbreviated to C.I.A} #card
 				  card-last-score:: 5
 				  card-repeats:: 1
