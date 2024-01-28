@@ -73,5 +73,5 @@
 					- What principle of the ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)) does **Disclosure** vioalte? #card
 						- {{cloze Disclosure violates the principle of confidentiality. }}
 					- Attackers who gain access to sensitive information and remove it from the organizations are said to be performing... #card
-						- {{cloze data exfilitration,}}
+						- {{cloze data exfiltration.}}
 					-
