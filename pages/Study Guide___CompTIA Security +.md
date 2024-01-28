@@ -29,6 +29,7 @@
 	- # Modern Security Professionals
 		- ## The Three Pillars of Modern Security
 			- ### The CIA Triad.
+			  collapsed:: true
 				- Modern security professionals are responsible for protecting {{cloze confidentiality, integrity, and availability of information, commonly abbreviated to C.I.A} #card
 				  card-last-score:: 5
 				  card-repeats:: 1
@@ -55,5 +56,7 @@
 						-
 			- Security incidents occur when an organization experiences a breach of the confidentiality, integrity, and/or availability of information.
 			- Security professionals are responsible for understanding such risks and implementing appropriate designed controls to mitigate risks to an acceptable level.
+			- ### The DAD Triad.
+				- The DAD triad is closely related to the
 				-
 -
