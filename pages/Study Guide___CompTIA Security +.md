@@ -27,31 +27,32 @@
 			- Governance, Risk, and Compliance.
 			  logseq.order-list-type:: number
 	- # Modern Security Professionals
-		- ## The Three Pillars of Modern Security - The CIA Triad.
-			- Modern security professionals are responsible for protecting {{cloze confidentiality, integrity, and availability of information, commonly abbreviated to C.I.A} #card
-			  card-last-score:: 5
-			  card-repeats:: 1
-			  card-next-schedule:: 2024-01-30T18:20:02.676Z
-			  card-last-interval:: 4
-			  card-ease-factor:: 2.6
-			  card-last-reviewed:: 2024-01-26T18:20:02.677Z
-			- ![image.png](../assets/image_1706293364692_0.png)
-			-
-			- ### Confidenitality
-				- What is **Confidenitality?** #card
-					- {{cloze Confidentiality ensures that unauthorized individuals are not able to gain access to sensitive information.}}
-			- Hackers may try to undermine **confidentiality** controls to achieve one of their goals, the unauthorized disclosure of information, like with database breaches.
-			- ### Integrity
-				- What is **Integrity**? #card
-					- {{cloze Integrity ensures that there are no unauthorized modifications to information or systems, either intentionally or unintentionally.}}
-				- **Integrity** is usually implemented through various tools, like the use of hashes to verify if files are the same.
-				- **Integrity** threats may come from attackers seeking the alteration of information without authorization or non-malicious sources, such as a power spike causing the corruption of information.
-			- ### Avaliability
-				- What is **Avaliability?** #card
-					- {{cloze Avalibility ensures that the information and systems are ready to meet the needs of legitmate users at the time those users request them.}}
-				- **Availability** is commonly seen through the use of fault tolerances , clustering, backups, etc.
-				- Availability threats may come from either attackers seeking the disruption of access or non-malicious sources, such as natural disasters like fires, destroying datacenter that contain valuable information/services.
-					-
+		- ## The Three Pillars of Modern Security
+			- ### The CIA Triad.
+				- Modern security professionals are responsible for protecting {{cloze confidentiality, integrity, and availability of information, commonly abbreviated to C.I.A} #card
+				  card-last-score:: 5
+				  card-repeats:: 1
+				  card-next-schedule:: 2024-01-30T18:20:02.676Z
+				  card-last-interval:: 4
+				  card-ease-factor:: 2.6
+				  card-last-reviewed:: 2024-01-26T18:20:02.677Z
+				- ![image.png](../assets/image_1706293364692_0.png)
+				-
+				- #### Confidenitality
+					- What is **Confidenitality?** #card
+						- {{cloze Confidentiality ensures that unauthorized individuals are not able to gain access to sensitive information.}}
+				- Hackers may try to undermine **confidentiality** controls to achieve one of their goals, the unauthorized disclosure of information, like with database breaches.
+				- #### Integrity
+					- What is **Integrity**? #card
+						- {{cloze Integrity ensures that there are no unauthorized modifications to information or systems, either intentionally or unintentionally.}}
+					- **Integrity** is usually implemented through various tools, like the use of hashes to verify if files are the same.
+					- **Integrity** threats may come from attackers seeking the alteration of information without authorization or non-malicious sources, such as a power spike causing the corruption of information.
+				- #### Avaliability
+					- What is **Avaliability?** #card
+						- {{cloze Avalibility ensures that the information and systems are ready to meet the needs of legitmate users at the time those users request them.}}
+					- **Availability** is commonly seen through the use of fault tolerances , clustering, backups, etc.
+					- Availability threats may come from either attackers seeking the disruption of access or non-malicious sources, such as natural disasters like fires, destroying datacenter that contain valuable information/services.
+						-
 			- Security incidents occur when an organization experiences a breach of the confidentiality, integrity, and/or availability of information.
 			- Security professionals are responsible for understanding such risks and implementing appropriate designed controls to mitigate risks to an acceptable level.
 				-
