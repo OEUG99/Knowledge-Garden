@@ -2,6 +2,7 @@
 - # CompTIA Security + Exam
   Created:: [[Jan 26th, 2024]] 
   Last-Revised:: [[Jan 26th, 2024]]
+  t
 	- The CompTIA Security+ Exam is created to be vendor-neutral for all cyber-security professionals. It is a good certificate for entering into the field.
 	- The exam is recommended for those wishing to work as:
 		- Systems administrators.
@@ -49,7 +50,7 @@
 				- What is **Avaliability?** #card
 					- {{cloze Avalibility ensures that the information and systems are ready to meet the needs of legitmate users at the time those users request them.}}
 				- **Availability** is commonly seen through the use of fault tolerances , clustering, backups, etc.
-				- Availability threads may come from either attackers seeking the disruption of access or non-malicious sources, such as natural disasters like fires, destroying datacenter that contain valuable information/services.
+				- Availability threats may come from either attackers seeking the disruption of access or non-malicious sources, such as natural disasters like fires, destroying datacenter that contain valuable information/services.
 					-
 			- Security incidents occur when an organization experiences a breach of the confidentiality, integrity, and/or availability of information.
 				-
