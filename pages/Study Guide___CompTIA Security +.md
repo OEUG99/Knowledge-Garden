@@ -43,6 +43,7 @@
 				- ![image.png](../assets/image_1706293364692_0.png)
 				-
 				- #### Confidenitality
+				  id:: 65b3fb5a-d2a5-44c3-831d-30c17a78d6b6
 					- What is **Confidenitality?** #card
 						- {{cloze Confidentiality ensures that unauthorized individuals are not able to gain access to sensitive information.}}
 				- Hackers may try to undermine **confidentiality** controls to achieve one of their goals, the unauthorized disclosure of information, like with database breaches.
@@ -70,4 +71,4 @@
 					- What is **Disclosure**? #card
 						- {{cloze disclosure is the exposure of sensitive information to unauthorized individuals, otherwise known as data loss.}}
 				- What principle of the ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)) does **Disclosure** vioalte? #card
-					- {{cloze Disclosure violates the principle of }}
+					- {{cloze Disclosure violates the principle of ((65b3fb5a-d2a5-44c3-831d-30c17a78d6b6)) }}
