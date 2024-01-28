@@ -68,4 +68,5 @@
 				- ![image.png](../assets/image_1706411579343_0.png){:height 387, :width 454}
 				- #### Disclosure
 					- What is **Disclosure**? #card
--
+						- {{cloze disclosure is the exposure of sensitive information to unauthorized individuals, otherwise known as data loss.}}
+				- What principle of the
