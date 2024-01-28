@@ -64,8 +64,8 @@
 				- The main goal of the DAD triad is to... #card
 					- {{cloze describe the three key threats to cybersecurity.}}
 				- What does the **DAD Triad** stand for? #card
-					- Disclosure
+					- {{cloze Disclosure, Alteration, Denial.}}
 				- ![image.png](../assets/image_1706411579343_0.png){:height 387, :width 454}
 				- #### Disclosure
-				-
+					- What is **Disclosure**? #card
 -
