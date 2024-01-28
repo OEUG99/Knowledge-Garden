@@ -53,5 +53,6 @@
 				- Availability threats may come from either attackers seeking the disruption of access or non-malicious sources, such as natural disasters like fires, destroying datacenter that contain valuable information/services.
 					-
 			- Security incidents occur when an organization experiences a breach of the confidentiality, integrity, and/or availability of information.
+			- Security professionals are responsible for understanding such risks and implementing appropriate desigbned controlls to m
 				-
 -
