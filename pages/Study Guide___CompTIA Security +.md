@@ -117,8 +117,10 @@
 				-
 			-
 	- ## Risk Classification
+	  collapsed:: true
 		- The potential impact of a security incident is usually categories in terms of risk.
 		- What are the types of risk? #card
+		  collapsed:: true
 			- {{cloze Financial Risk}}
 			  logseq.order-list-type:: number
 			- {{cloze Reputational Risk}}
@@ -164,5 +166,6 @@
 			- **Compliance risk** arises when a security breach leads an organization to violate legal or regulatory obligations.
 				- An example of this can be seen with-in the heath care industry. The Health Insurance Portability and Accountability act (HIPAA) requires that care providers protect the confidentiality, integrity and availability of protected health information.
 				- Therefore, if an organization loses a patient's medical records, they violate HIPPA requirements and can suffer consequences like sancitons and fines from the US department of Health and Human Services.
-		- Risks can often take on multiple categorizations, and are not necessarily just one type of risk.
+		- Risks can often take on multiple classifications, and are not necessarily just one type of risk.
 		-
+	- ## Implementing Security Controls
