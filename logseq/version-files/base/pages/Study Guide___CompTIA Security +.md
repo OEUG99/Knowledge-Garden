@@ -151,5 +151,6 @@
 			- #### Operational Risk
 				- **Operational Risk** is a risk to the organization's ability to carry out its day-to-day functions.
 					- it may slow down daily operations.
-					- Operational Risk and ((65b8004b-7ae0-463c-a6e1-ba85c1db193b)) are closely related
+					- Operational Risk and ((65b8004b-7ae0-463c-a6e1-ba85c1db193b)) are closely related.
+					-
 				-
