@@ -75,4 +75,6 @@
 					- Attackers who gain access to sensitive information and remove it from the organizations are said to be performing... #card
 						- {{cloze data exfiltration.}}
 				- #### Alteration
-					- What is **Alteration**?
+					- What is **Alteration**? #card
+						- {{cloze Alteration is the unauthorized modification of information.}}
+						-
