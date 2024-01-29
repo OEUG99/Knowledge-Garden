@@ -83,11 +83,11 @@
 					- Alteration can also occur to due natural faults, such as power outages when bits flips or when information isn't fully process at the time of the fault.
 					- Accidental alteration is also a possibility, these occur via unintentional modification of information, such as with typos.
 					- What are the three types of **alteration?** #card
-					-
-					- {{cloze Malicious/Attackers}}
-					  logseq.order-list-type:: number
-					- {{cloze natural faults}}
-					  logseq.order-list-type:: number
-					- {{cloze accidental alteration, ie, typos.}
-					  logseq.order-list-type:: number
+						- {{cloze Malicious/Attackers}}
+						  logseq.order-list-type:: number
+						- {{cloze natural faults}}
+						  logseq.order-list-type:: number
+						- {{cloze accidental alteration, ie, typos.}}
+						  logseq.order-list-type:: number
 				-
+-
