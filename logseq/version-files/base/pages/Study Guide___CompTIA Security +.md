@@ -135,5 +135,5 @@
 				- The risk of monetary damages to the organization as a result of a data breach.
 					- This could be **direct financial damage**, such as when you need to rebuild a data center after a natural disaster, or the cost of contracting experts for an incident response.
 					- This could also be **indirect finical damage**. For example, when an employee loses a laptop containing future plans and there are no backup, the organization loses all the cost spent on research and development. They could be even more severe, such as when a competitor gets a hold of those plans and beats you to the market.
-					-
+					- What are the two types of financial damage?
 			-
