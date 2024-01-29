@@ -61,6 +61,7 @@
 			- Security incidents occur when an organization experiences a breach of the confidentiality, integrity, and/or availability of information.
 			- Security professionals are responsible for understanding such risks and implementing appropriate designed controls to mitigate risks to an acceptable level.
 			- ### The DAD Triad
+			  collapsed:: true
 				- The DAD triad is closely related to the ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)).
 				- The main goal of the DAD triad is to... #card
 					- {{cloze describe the three key threats to cybersecurity.}}
@@ -68,6 +69,7 @@
 					- {{cloze Disclosure, Alteration, Denial.}}
 				- ![image.png](../assets/image_1706411579343_0.png){:height 387, :width 454}
 				- #### Disclosure
+				  collapsed:: true
 					- What is **Disclosure**? #card
 						- {{cloze disclosure is the exposure of sensitive information to unauthorized individuals, otherwise known as data loss.}}
 					- What principle of the ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)) does **Disclosure** vioalte? #card
@@ -75,6 +77,7 @@
 					- Attackers who gain access to sensitive information and remove it from the organizations are said to be performing... #card
 						- {{cloze data exfiltration.}}
 				- #### Alteration
+				  collapsed:: true
 					- What is **Alteration**? #card
 						- {{cloze Alteration is the unauthorized modification of information.}}
 					- What principle of the ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)) does **Alteration** violate? #card
@@ -90,12 +93,16 @@
 						- {{cloze accidental alteration, ie, typos.}}
 						  logseq.order-list-type:: number
 				- #### Denial
+				  collapsed:: true
 					- What is **Denial**? #card
 						- {{cloze denial is the disruption of an authorized user's legitimate access to information.}}
 					- What principle of the ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)) does **denial** violate? #card
 						- {{cloze Denial events violate the principle of avaliability.}}
-				- What are some examples of **denial** events? #card
-					- distributed denial of service (DDoS).
-					  logseq.order-list-type:: number
-					- logseq.order-list-type:: number
--
+					- What are some examples of **denial** events? #card
+						- {{cloze Distributed denial-of-service (DDoS) attacks}}
+						  logseq.order-list-type:: number
+						- {{cloze The failure of a critical server}}
+						  logseq.order-list-type:: number
+						- {{cloze Natural activity, such as natural disasters that impact a communication circuit.}}
+						  logseq.order-list-type:: number
+				-

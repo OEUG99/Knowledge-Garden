@@ -30,6 +30,7 @@
 		- ## The Three Pillars of Modern Security
 			- ### The CIA Triad
 			  id:: 65b5c362-a65b-4496-a9ed-e4e947d8d6e1
+			  collapsed:: true
 				- What does the **CIA Triad** stand for? #card
 					- {{cloze Confidentiality, Integrity, availability of information.}}
 				- Modern security professionals are responsible for protecting... #card
@@ -58,9 +59,10 @@
 					- **Availability** is commonly seen through the use of fault tolerances , clustering, backups, etc.
 					- Availability threats may come from either attackers seeking the disruption of access or non-malicious sources, such as natural disasters like fires, destroying datacenter that contain valuable information/services.
 						-
-			- Security incidents occur when an organization experiences a breach of the confidentiality, integrity, and/or availability of information.
-			- Security professionals are responsible for understanding such risks and implementing appropriate designed controls to mitigate risks to an acceptable level.
+				- Security incidents occur when an organization experiences a breach of the confidentiality, integrity, and/or availability of information.
+				- Security professionals are responsible for understanding such risks and implementing appropriate designed controls to mitigate risks to an acceptable level.
 			- ### The DAD Triad
+			  collapsed:: true
 				- The DAD triad is closely related to the ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)).
 				- The main goal of the DAD triad is to... #card
 					- {{cloze describe the three key threats to cybersecurity.}}
@@ -68,6 +70,7 @@
 					- {{cloze Disclosure, Alteration, Denial.}}
 				- ![image.png](../assets/image_1706411579343_0.png){:height 387, :width 454}
 				- #### Disclosure
+				  collapsed:: true
 					- What is **Disclosure**? #card
 						- {{cloze disclosure is the exposure of sensitive information to unauthorized individuals, otherwise known as data loss.}}
 					- What principle of the ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)) does **Disclosure** vioalte? #card
@@ -75,6 +78,7 @@
 					- Attackers who gain access to sensitive information and remove it from the organizations are said to be performing... #card
 						- {{cloze data exfiltration.}}
 				- #### Alteration
+				  collapsed:: true
 					- What is **Alteration**? #card
 						- {{cloze Alteration is the unauthorized modification of information.}}
 					- What principle of the ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)) does **Alteration** violate? #card
@@ -90,6 +94,7 @@
 						- {{cloze accidental alteration, ie, typos.}}
 						  logseq.order-list-type:: number
 				- #### Denial
+				  collapsed:: true
 					- What is **Denial**? #card
 						- {{cloze denial is the disruption of an authorized user's legitimate access to information.}}
 					- What principle of the ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)) does **denial** violate? #card
@@ -102,3 +107,4 @@
 						- {{cloze Natural activity, such as natural disasters that impact a communication circuit.}}
 						  logseq.order-list-type:: number
 				-
+			-
