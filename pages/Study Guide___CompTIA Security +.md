@@ -117,4 +117,4 @@
 	- ## Breach Impact
 		- The potential impact of a security incident is usually categories in terms of risk.
 		- ### Types of Risk
-			- #### Financial Risk
+			- What are the types of risk? #card
