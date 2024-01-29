@@ -80,4 +80,5 @@
 					- What principle of the ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)) does **Alteration** violate? #card
 						- {{cloze It violates the principle of integrity.}}
 					- Attackers may try to modify records in a system to obtain finical gain, such as fraud transactions.
-					-
+					- Alteration can also occur to due natural faults, such as power outages when bits flips or when information isn't fully process at the time of the fault.
+					- Accidental alteration is also a possibility, these occur via
