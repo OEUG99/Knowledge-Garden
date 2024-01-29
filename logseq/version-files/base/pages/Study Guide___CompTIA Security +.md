@@ -89,5 +89,8 @@
 						  logseq.order-list-type:: number
 						- {{cloze accidental alteration, ie, typos.}}
 						  logseq.order-list-type:: number
-				-
+				- #### Denial
+					- What is **Denial**? #card
+						- {{cloze denial is the disruption of an authorized user's legitimate access to information.}}
+				- What principle of the ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)) does
 -
