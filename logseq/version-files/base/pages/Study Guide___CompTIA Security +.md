@@ -18,6 +18,7 @@
 		- The exam is structured around 5 key domains:
 			- Threats, Attacks, and Vulernabilities.
 			  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
 			- Architecture and Design.
 			  logseq.order-list-type:: number
 			- Implementation.
@@ -26,7 +27,7 @@
 			  logseq.order-list-type:: number
 			- Governance, Risk, and Compliance.
 			  logseq.order-list-type:: number
-	- # Modern Security Professionals
+	- # Security and Threat models
 		- ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)) and the ((65b700c9-b675-4d66-9c92-222d0e683681)) are both useful tools for cyber-security planning and risk analysis.
 			- For example, if you want to assess a risk of an organizatin, you may want to use ((65b700c9-b675-4d66-9c92-222d0e683681)).
 			- ## The CIA Triad
