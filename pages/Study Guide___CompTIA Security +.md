@@ -81,4 +81,5 @@
 						- {{cloze It violates the principle of integrity.}}
 					- Attackers may try to modify records in a system to obtain finical gain, such as fraud transactions.
 					- Alteration can also occur to due natural faults, such as power outages when bits flips or when information isn't fully process at the time of the fault.
-					- Accidental alteration is also a possibility, these occur via
+					- Accidental alteration is also a possibility, these occur via unintentional modification of information, such as with typos.
+					- Wh
