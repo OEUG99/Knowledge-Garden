@@ -145,5 +145,5 @@
 					- What is the most common impact in terms of a security breach affecting customers, employees, and other stakeholders? #card
 						- {{cloze The risk of identity theft.}}
 			- #### Strategic Risk
-				- **Strategic Risk**
+				- **Strategic Risk** is the risk that an organization will become less effective in meeting its major goals and objectives as a result of the breach.
 				-
