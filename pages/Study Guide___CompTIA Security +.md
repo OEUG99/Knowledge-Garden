@@ -118,3 +118,13 @@
 		- The potential impact of a security incident is usually categories in terms of risk.
 		- ### Types of Risk
 			- What are the types of risk? #card
+				- Financial Risk
+				  logseq.order-list-type:: number
+				- Reputational Risk
+				  logseq.order-list-type:: number
+				- Strategic Risk
+				  logseq.order-list-type:: number
+				- Operational Risk
+				  logseq.order-list-type:: number
+				- Compliance RIsk
+				  logseq.order-list-type:: number
