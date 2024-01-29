@@ -92,7 +92,8 @@
 				- #### Denial
 					- What is **Denial**? #card
 						- {{cloze denial is the disruption of an authorized user's legitimate access to information.}}
-				- What principle of the ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)) does **denial** violate? #card
-					- {{cloze Denial events violate the principle of avaliability.}}
-			-
+					- What principle of the ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)) does **denial** violate? #card
+						- {{cloze Denial events violate the principle of avaliability.}}
+				- What are some examples of **denial** events? #card
+					- {{cloze }}
 -
