@@ -158,6 +158,6 @@
 							- {{cloze If the risk only causes inefficiency and delay within the organization, then it is an operational risk.}}
 			- #### Compliance Risk
 				- **Compliance risk** arises when a security breach leads an organization to violate legal or regulatory obligations.
-				-
+					- An example of this can be seen with-in the heath care industry. The Health Insurance Portability and Accountability act (HIPAA) requires that
 				-
 				-
