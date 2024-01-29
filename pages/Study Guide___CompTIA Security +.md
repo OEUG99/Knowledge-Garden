@@ -130,4 +130,5 @@
 				- {{cloze Compliance Risk.}}
 				  logseq.order-list-type:: number
 			- #### Financial Risk
+				- The risk of monetary damages to the organization as a result of a data breach.
 				-
