@@ -147,5 +147,6 @@
 			- #### Strategic Risk
 				- **Strategic Risk** is the risk that an organization will become less effective in meeting its major goals and objectives as a result of the breach.
 					- An employee losing a laptop provides a strategic risk if that laptop contains the only copy of information, as this will delay development. It also poses a strategic risk because it gives your competitors time to make developments and get to market first.
-			-
+			- #### Operational Risk
+				- **Operational Risk** is a risk to the organization's abil;ity to cvarry out its day-to-day functions.
 				-
