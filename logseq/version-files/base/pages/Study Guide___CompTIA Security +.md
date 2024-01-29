@@ -29,6 +29,8 @@
 			  logseq.order-list-type:: number
 			- Governance, Risk, and Compliance.
 			  logseq.order-list-type:: number
+	- ## Recommended Resources
+		- TODO add all the material used to create this page here.
 	- ## Security and Threat models
 	  collapsed:: true
 		- ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)) and the ((65b700c9-b675-4d66-9c92-222d0e683681)) are both useful tools for cyber-security planning and risk analysis. They serve as helpful starting points when assessing security and threats.
@@ -133,4 +135,4 @@
 				- The risk of monetary damages to the organization as a result of a data breach.
 					- This could be **direct financial damage**, such as when you need to rebuild a data center after a natural disaster, or the cost of contracting experts for an incident response.
 					- This could also be **indirect finical damage**. For example, when an employee loses a laptop containing future plans and there are no backup, the organization loses all the cost spent on research and development. They could be even more severe, such as when a competitor gets a hold of those plans and beats you to the market.
-					-
+				-
