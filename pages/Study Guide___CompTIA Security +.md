@@ -94,9 +94,11 @@
 						- {{cloze denial is the disruption of an authorized user's legitimate access to information.}}
 					- What principle of the ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)) does **denial** violate? #card
 						- {{cloze Denial events violate the principle of avaliability.}}
-				- What are some examples of **denial** events? #card
-					- {{cloze Distributed denial-of-service (DDoS) attacks}}
-					  logseq.order-list-type:: number
-					- {{cloze The failure of critical }}
-					  logseq.order-list-type:: number
--
+					- What are some examples of **denial** events? #card
+						- {{cloze Distributed denial-of-service (DDoS) attacks}}
+						  logseq.order-list-type:: number
+						- {{cloze The failure of a critical server}}
+						  logseq.order-list-type:: number
+						- {{cloze Natural activity, such as natural disasters that impact a communication circuit.}}
+						  logseq.order-list-type:: number
+				-
