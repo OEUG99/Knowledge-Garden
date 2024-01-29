@@ -28,7 +28,8 @@
 			  logseq.order-list-type:: number
 	- # Modern Security Professionals
 		- ## The Three Pillars of Modern Security
-			- ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)) and the ((65b700c9-b675-4d66-9c92-222d0e683681)) are both useful tool
+			- ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)) and the ((65b700c9-b675-4d66-9c92-222d0e683681)) are both useful tools for cyber-security planning and risk analysis.
+				- For example, if you want to assess a risk of
 			- ### The CIA Triad
 			  id:: 65b5c362-a65b-4496-a9ed-e4e947d8d6e1
 			  collapsed:: true
