@@ -157,7 +157,6 @@
 							- {{cloze If a risk threatens the existence of an organization/ability of the organization to execute its business plan, that is a strategic risk.}}
 							- {{cloze If the risk only causes inefficiency and delay within the organization, then it is an operational risk.}}
 			- #### Compliance Risk
-				- **Compliance Risk occurs when a security breach causes an organization to run afoul of legal or regulatory requirements.**
-				-
+				- **Compliance Risk occurs when a security breach causes an organization to run afoul of legal or regulatory requirements. **
 				-
 				-
