@@ -144,5 +144,6 @@
 				- **Reputational risks** occur when the negative publicity surround a security breach causes the loss of goodwill among customers, employees, suppliers, and other stakeholders.
 					- What is the most common impact in terms of a security breach affecting customers, employees, and other stakeholders? #card
 						- {{cloze The risk of identity theft.}}
-			-
-			-
+			- #### Strategic Risk
+				- **Strategic Risk**
+				-
