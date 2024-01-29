@@ -159,6 +159,7 @@
 			- #### Compliance Risk
 				- **Compliance risk** arises when a security breach leads an organization to violate legal or regulatory obligations.
 					- An example of this can be seen with-in the heath care industry. The Health Insurance Portability and Accountability act (HIPAA) requires that care providers protect the confidentiality, integrity and availability of protected health information.
-					- Therefore, if an organization loses a patient's medical records, they violate HIPPA requirements
+					- Therefore, if an organization loses a patient's medical records, they violate HIPPA requirements and can suffer consequences like sancitons and fines from the US department of Health and Human Services.
+			- Risks can often take on multiple categorizations, and are not necessiarly justt
 				-
 				-
