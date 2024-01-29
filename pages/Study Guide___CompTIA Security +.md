@@ -27,10 +27,10 @@
 			- Governance, Risk, and Compliance.
 			  logseq.order-list-type:: number
 	- # Modern Security Professionals
-		- ## The Three Pillars of Modern Security
+		-
 			- ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)) and the ((65b700c9-b675-4d66-9c92-222d0e683681)) are both useful tools for cyber-security planning and risk analysis.
-				- For example, if you want to assess a risk of
-			- ### The CIA Triad
+				- For example, if you want to assess a risk of an organizatin, you may want to use ((65b700c9-b675-4d66-9c92-222d0e683681)).
+			- ## The CIA Triad
 			  id:: 65b5c362-a65b-4496-a9ed-e4e947d8d6e1
 			  collapsed:: true
 				- What does the **CIA Triad** stand for? #card
@@ -63,7 +63,7 @@
 						-
 				- Security incidents occur when an organization experiences a breach of the confidentiality, integrity, and/or availability of information.
 				- Security professionals are responsible for understanding such risks and implementing appropriate designed controls to mitigate risks to an acceptable level.
-			- ### The DAD Triad
+			- ## The DAD Triad
 			  id:: 65b700c9-b675-4d66-9c92-222d0e683681
 			  collapsed:: true
 				- The DAD triad is closely related to the ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)).
