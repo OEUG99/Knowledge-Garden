@@ -142,5 +142,5 @@
 						  logseq.order-list-type:: number
 			- #### Reputational Risk
 				- **Reputational risks** occur when the negative publicity surround a security breach causes the loss of goodwill among customers, employees, suppliers, and other stakeholders.
-				-
+					- What is the most common impact in terms of
 			-
