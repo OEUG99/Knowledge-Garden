@@ -30,7 +30,7 @@
 			- Governance, Risk, and Compliance.
 			  logseq.order-list-type:: number
 	- # Security and Threat models
-		- ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)) and the ((65b700c9-b675-4d66-9c92-222d0e683681)) are both useful tools for cyber-security planning and risk analysis.
+		- ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)) and the ((65b700c9-b675-4d66-9c92-222d0e683681)) are both useful tools for cyber-security planning and risk analysis. They serve as helpful starting points when assessing security and threats.
 			- For example, if you want to assess a risk of an organizatin, you may want to use ((65b700c9-b675-4d66-9c92-222d0e683681)).
 			- ## The CIA Triad
 			  id:: 65b5c362-a65b-4496-a9ed-e4e947d8d6e1
