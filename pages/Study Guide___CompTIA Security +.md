@@ -156,6 +156,8 @@
 						- How do you tell the difference between ((65b8094a-697c-467a-ad8e-4ff6dd04c087)) and ((65b8004b-7ae0-463c-a6e1-ba85c1db193b))? #card
 							- {{cloze If a risk threatens the existence of an organization/ability of the organization to execute its business plan, that is a strategic risk.}}
 							- {{cloze If the risk only causes inefficiency and delay within the organization, then it is an operational risk.}}
-			-
+			- #### Compliance Risk
+				- **Compliance Risk occurs when a security breach causes an organization to run afoul of legal or regulatory requirements.**
+				-
 				-
 				-
