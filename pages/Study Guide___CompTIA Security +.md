@@ -95,7 +95,8 @@
 					- What principle of the ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)) does **denial** violate? #card
 						- {{cloze Denial events violate the principle of avaliability.}}
 				- What are some examples of **denial** events? #card
-					- distributed denial of service (DDoS).
+					- {{cloze Distributed denial-of-service (DDoS) attacks}}
 					  logseq.order-list-type:: number
-					- logseq.order-list-type:: number
+					- {{cloze The failure of critical }}
+					  logseq.order-list-type:: number
 -
