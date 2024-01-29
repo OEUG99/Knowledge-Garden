@@ -117,4 +117,15 @@
 	- ## Breach Impact
 		- The potential impact of a security incident is usually categories in terms of risk.
 		- ### Types of Risk
-			- #### Financial Risk
+			- What are the types of risk? #card
+				- {{cloze Financial Risk}}
+				  logseq.order-list-type:: number
+				- {{cloze Reputational Risk}}
+				  logseq.order-list-type:: number
+				  id:: 65b7f7bb-1295-45ed-a75d-3cd0c21367ae
+				- {{cloze Strategic Risk}}
+				  logseq.order-list-type:: number
+				- {{cloze Operational Risk}}
+				  logseq.order-list-type:: number
+				- {{cloze Compliance Risk.}}
+				  logseq.order-list-type:: number
