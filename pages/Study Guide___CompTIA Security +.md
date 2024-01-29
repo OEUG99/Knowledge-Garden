@@ -146,4 +146,5 @@
 						- {{cloze The risk of identity theft.}}
 			- #### Strategic Risk
 				- **Strategic Risk** is the risk that an organization will become less effective in meeting its major goals and objectives as a result of the breach.
+					- In a previous example, we mentioned how if an employ
 				-
