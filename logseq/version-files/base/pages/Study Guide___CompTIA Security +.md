@@ -30,6 +30,7 @@
 		- ## The Three Pillars of Modern Security
 			- ### The CIA Triad
 			  id:: 65b5c362-a65b-4496-a9ed-e4e947d8d6e1
+			  collapsed:: true
 				- What does the **CIA Triad** stand for? #card
 					- {{cloze Confidentiality, Integrity, availability of information.}}
 				- Modern security professionals are responsible for protecting... #card
@@ -58,8 +59,8 @@
 					- **Availability** is commonly seen through the use of fault tolerances , clustering, backups, etc.
 					- Availability threats may come from either attackers seeking the disruption of access or non-malicious sources, such as natural disasters like fires, destroying datacenter that contain valuable information/services.
 						-
-			- Security incidents occur when an organization experiences a breach of the confidentiality, integrity, and/or availability of information.
-			- Security professionals are responsible for understanding such risks and implementing appropriate designed controls to mitigate risks to an acceptable level.
+				- Security incidents occur when an organization experiences a breach of the confidentiality, integrity, and/or availability of information.
+				- Security professionals are responsible for understanding such risks and implementing appropriate designed controls to mitigate risks to an acceptable level.
 			- ### The DAD Triad
 			  collapsed:: true
 				- The DAD triad is closely related to the ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)).
@@ -106,3 +107,4 @@
 						- {{cloze Natural activity, such as natural disasters that impact a communication circuit.}}
 						  logseq.order-list-type:: number
 				-
+			-
