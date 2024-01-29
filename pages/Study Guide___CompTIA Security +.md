@@ -115,4 +115,4 @@
 				-
 			-
 	- ## Breach Impact
-		-
+		- The potential impact of a security incidient is useually
