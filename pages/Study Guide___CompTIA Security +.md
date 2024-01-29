@@ -131,5 +131,5 @@
 				  logseq.order-list-type:: number
 			- #### Financial Risk
 				- The risk of monetary damages to the organization as a result of a data breach.
-					- This could be direct financial damage, such as when you need to rebuild a data center after a natural disaster, or the cost of contracting experts for an incident response.
-					- This could also be indirect finical risk
+					- This could be **direct financial damage**, such as when you need to rebuild a data center after a natural disaster, or the cost of contracting experts for an incident response.
+					- This could also be **indirect finical damage**. For example, when an employee loses a l
