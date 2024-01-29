@@ -140,5 +140,6 @@
 						  logseq.order-list-type:: number
 						- {{cloze Indirect financial damage - when you lose out on revenue/investments lost. }}
 						  logseq.order-list-type:: number
+			- #### Repetitional Risk
 				-
 			-
