@@ -77,6 +77,7 @@
 				- #### Alteration
 					- What is **Alteration**? #card
 						- {{cloze Alteration is the unauthorized modification of information.}}
-					- What principle of the ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)) does **Alteration** violate?
+					- What principle of the ((65b5c362-a65b-4496-a9ed-e4e947d8d6e1)) does **Alteration** violate? #card
 						- {{cloze It violates the principle of integrity.}}
-				-
+					- Attackers may try to modify records in a system to obtain finical gain, such as fraud transactions.
+					-
