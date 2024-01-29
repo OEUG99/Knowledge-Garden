@@ -115,4 +115,6 @@
 				-
 			-
 	- ## Breach Impact
-		- The potential impact of a security incidient is useually
+		- The potential impact of a security incident is usually categories in terms of risk.
+		- ### Types of Risk
+			- #### Financial Risk
