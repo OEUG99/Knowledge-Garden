@@ -116,57 +116,53 @@
 						  logseq.order-list-type:: number
 				-
 			-
-	- ## Breach Impact
+	- ## Risk Classification
 		- The potential impact of a security incident is usually categories in terms of risk.
-		- ### Types of Risk
+		- What are the types of risk? #card
+			- {{cloze Financial Risk}}
+			  logseq.order-list-type:: number
+			- {{cloze Reputational Risk}}
+			  logseq.order-list-type:: number
+			  id:: 65b7f7bb-1295-45ed-a75d-3cd0c21367ae
+			- {{cloze Strategic Risk}}
+			  logseq.order-list-type:: number
+			- {{cloze Operational Risk}}
+			  logseq.order-list-type:: number
+			- {{cloze Compliance Risk.}}
+			  logseq.order-list-type:: number
+		- #### Financial Risk
 		  collapsed:: true
-			- What are the types of risk? #card
-				- {{cloze Financial Risk}}
-				  logseq.order-list-type:: number
-				- {{cloze Reputational Risk}}
-				  logseq.order-list-type:: number
-				  id:: 65b7f7bb-1295-45ed-a75d-3cd0c21367ae
-				- {{cloze Strategic Risk}}
-				  logseq.order-list-type:: number
-				- {{cloze Operational Risk}}
-				  logseq.order-list-type:: number
-				- {{cloze Compliance Risk.}}
-				  logseq.order-list-type:: number
-			- #### Financial Risk
-			  collapsed:: true
-				- The risk of monetary damages to the organization as a result of a data breach.
-					- This could be **direct financial damage**, such as when you need to rebuild a data center after a natural disaster, or the cost of contracting experts for an incident response.
-					- This could also be **indirect finical damage**. For example, when an employee loses a laptop containing future plans and there are no backup, the organization loses all the cost spent on research and development. They could be even more severe, such as when a competitor gets a hold of those plans and beats you to the market.
-					- What are the two types of financial damage? #card
-						- {{cloze Direct financial damage - When you have to pay to recover. }}
-						  logseq.order-list-type:: number
-						- {{cloze Indirect financial damage - when you lose out on revenue/investments lost. }}
-						  logseq.order-list-type:: number
-			- #### Reputational Risk
-			  collapsed:: true
-				- **Reputational risks** occur when the negative publicity surround a security breach causes the loss of goodwill among customers, employees, suppliers, and other stakeholders.
-					- What is the most common impact in terms of a security breach affecting customers, employees, and other stakeholders? #card
-						- {{cloze The risk of identity theft.}}
-			- #### Strategic Risk
-			  id:: 65b8004b-7ae0-463c-a6e1-ba85c1db193b
-			  collapsed:: true
-				- **Strategic Risk** is the risk that an organization will become less effective in meeting its major goals and objectives as a result of the breach.
-					- An employee losing a laptop provides a strategic risk if that laptop contains the only copy of information, as this will delay development. It also poses a strategic risk because it gives your competitors time to make developments and get to market first.
-			- #### Operational Risk
-			  id:: 65b8094a-697c-467a-ad8e-4ff6dd04c087
-			  collapsed:: true
-				- **Operational Risk** is a risk to the organization's ability to carry out its day-to-day functions.
-					- it may slow down daily operations.
-					- Operational Risk and ((65b8004b-7ae0-463c-a6e1-ba85c1db193b)) are closely related.
-						- How do you tell the difference between ((65b8094a-697c-467a-ad8e-4ff6dd04c087)) and ((65b8004b-7ae0-463c-a6e1-ba85c1db193b))? #card
-							- {{cloze If a risk threatens the existence of an organization/ability of the organization to execute its business plan, that is a strategic risk.}}
-							- {{cloze If the risk only causes inefficiency and delay within the organization, then it is an operational risk.}}
-			- #### Compliance Risk
-			  collapsed:: true
-				- **Compliance risk** arises when a security breach leads an organization to violate legal or regulatory obligations.
-					- An example of this can be seen with-in the heath care industry. The Health Insurance Portability and Accountability act (HIPAA) requires that care providers protect the confidentiality, integrity and availability of protected health information.
-					- Therefore, if an organization loses a patient's medical records, they violate HIPPA requirements and can suffer consequences like sancitons and fines from the US department of Health and Human Services.
-			- Risks can often take on multiple categorizations, and are not necessarily just one type of risk.
-				-
-				-
+			- The risk of monetary damages to the organization as a result of a data breach.
+				- This could be **direct financial damage**, such as when you need to rebuild a data center after a natural disaster, or the cost of contracting experts for an incident response.
+				- This could also be **indirect finical damage**. For example, when an employee loses a laptop containing future plans and there are no backup, the organization loses all the cost spent on research and development. They could be even more severe, such as when a competitor gets a hold of those plans and beats you to the market.
+				- What are the two types of financial damage? #card
+					- {{cloze Direct financial damage - When you have to pay to recover. }}
+					  logseq.order-list-type:: number
+					- {{cloze Indirect financial damage - when you lose out on revenue/investments lost. }}
+					  logseq.order-list-type:: number
+		- #### Reputational Risk
+		  collapsed:: true
+			- **Reputational risks** occur when the negative publicity surround a security breach causes the loss of goodwill among customers, employees, suppliers, and other stakeholders.
+				- What is the most common impact in terms of a security breach affecting customers, employees, and other stakeholders? #card
+					- {{cloze The risk of identity theft.}}
+		- #### Strategic Risk
+		  id:: 65b8004b-7ae0-463c-a6e1-ba85c1db193b
+		  collapsed:: true
+			- **Strategic Risk** is the risk that an organization will become less effective in meeting its major goals and objectives as a result of the breach.
+				- An employee losing a laptop provides a strategic risk if that laptop contains the only copy of information, as this will delay development. It also poses a strategic risk because it gives your competitors time to make developments and get to market first.
+		- #### Operational Risk
+		  id:: 65b8094a-697c-467a-ad8e-4ff6dd04c087
+		  collapsed:: true
+			- **Operational Risk** is a risk to the organization's ability to carry out its day-to-day functions.
+				- it may slow down daily operations.
+				- Operational Risk and ((65b8004b-7ae0-463c-a6e1-ba85c1db193b)) are closely related.
+					- How do you tell the difference between ((65b8094a-697c-467a-ad8e-4ff6dd04c087)) and ((65b8004b-7ae0-463c-a6e1-ba85c1db193b))? #card
+						- {{cloze If a risk threatens the existence of an organization/ability of the organization to execute its business plan, that is a strategic risk.}}
+						- {{cloze If the risk only causes inefficiency and delay within the organization, then it is an operational risk.}}
+		- #### Compliance Risk
+		  collapsed:: true
+			- **Compliance risk** arises when a security breach leads an organization to violate legal or regulatory obligations.
+				- An example of this can be seen with-in the heath care industry. The Health Insurance Portability and Accountability act (HIPAA) requires that care providers protect the confidentiality, integrity and availability of protected health information.
+				- Therefore, if an organization loses a patient's medical records, they violate HIPPA requirements and can suffer consequences like sancitons and fines from the US department of Health and Human Services.
+		- Risks can often take on multiple categorizations, and are not necessarily just one type of risk.
 		-
