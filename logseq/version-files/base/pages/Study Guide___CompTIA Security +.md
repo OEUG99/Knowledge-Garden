@@ -140,6 +140,6 @@
 						  logseq.order-list-type:: number
 						- {{cloze Indirect financial damage - when you lose out on revenue/investments lost. }}
 						  logseq.order-list-type:: number
-			- #### Repetitional Risk
-				-
+			- #### Reputational Risk
+				- **Reputational risks** occur when the negative publicity surround a security breach causes the loss of goodwill among customers, employees, suppliers, and other stakeholders.
 			-
