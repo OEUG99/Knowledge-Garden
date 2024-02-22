@@ -1,6 +1,5 @@
 file:: [Baglivio_et_al_2014_Assessing_the_Implications_of_a_Structured_Decision_Making_Tool_1678303963317_0.pdf](../assets/Baglivio_et_al_2014_Assessing_the_Implications_of_a_Structured_Decision_Making_Tool_1678303963317_0.pdf)
 file-path:: ../assets/Baglivio_et_al_2014_Assessing_the_Implications_of_a_Structured_Decision_Making_Tool_1678303963317_0.pdf
-
 - less has been done to provide practitioners with an empirically tested set of guidelines to direct the courts’ decision-making process
   ls-type:: annotation
   hl-page:: 2

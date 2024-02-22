@@ -1,5 +1,4 @@
 tags:: tags:: [[Programming]] [[Data Structures and Algorithms]] [[Tree]]
-
 - # Summary
   heading:: 1
 	- A binary search tree is a tree that has zero, one, or tow children.

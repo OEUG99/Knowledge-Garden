@@ -1,5 +1,4 @@
 exclude-from-graph-view:: true
-
 - ## Chapter 9: Nature of Society
   heading:: 2
 	- What happened during this era:

@@ -7,7 +7,6 @@ start:: [[Oct 24th, 2023]]
 end:: Unfinished
 status:: Reading
 document_type::
-
 - Highlights
 	- ```Yet in 2011, more than 4 percent of all households with children in the world’s wealthiest nation were living in a poverty so deep that most Americans don’t believe it even exists in this country.``` ([Location 63](https://readwise.io/to_kindle?action=open&asin=B00QPHNUFO&location=63))
 	- ```These families didn’t just have too little cash to survive on, as was true for the welfare recipients Edin and Lein had met in the early 1990s. They often had no cash at all.``` ([Location 95](https://readwise.io/to_kindle?action=open&asin=B00QPHNUFO&location=95))

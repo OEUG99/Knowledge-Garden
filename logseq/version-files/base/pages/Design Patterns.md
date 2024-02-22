@@ -1,6 +1,5 @@
 title:: Design Patterns
 tags:: [[Programming]]
-
 - # How to select a design pattern
   heading:: 1
 	- Consider how design patterns solve design problems.

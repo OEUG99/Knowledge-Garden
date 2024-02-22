@@ -1,6 +1,5 @@
 file:: [W1_origins_US_rights_1673454221538_0.pdf](../assets/W1_origins_US_rights_1673454221538_0.pdf)
 file-path:: ../assets/W1_origins_US_rights_1673454221538_0.pdf
-
 - What are “rights”?
 	- Rights as privileges
 	  ls-type:: annotation

@@ -1,5 +1,4 @@
 tags::  [[Programming]] [[Data Structures and Algorithms]] [[Leetcode]]
-
 - # What is a Binary Tree?
   heading:: 1
 	- Node at the top is called **root.**

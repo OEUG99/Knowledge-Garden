@@ -1,5 +1,4 @@
 file-path:: ../assets/The_Anatomy_of_Fascism_-_Robert_O._Paxton_1678415347321_0.pdf
-
 - liberalism, socialism—all reached mature form between the late eighteenth century and the mid-nineteenth century. Fascism, however, was still unimagined as late as the 1890s.
   ls-type:: annotation
   hl-page:: 12

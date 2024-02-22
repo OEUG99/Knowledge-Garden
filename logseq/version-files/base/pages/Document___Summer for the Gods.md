@@ -7,7 +7,6 @@ start:: [[Oct 24th, 2023]]
 end:: Unfinished
 status:: Reading
 document_type::
-
 - Highlights
 	- ```yet Darrow had struck a blow; even a biblical literalist such as Bryan recognized the need to interpret some scriptural passages.``` ([Location 184](https://readwise.io/to_kindle?action=open&asin=B005ERZLGC&location=184))
 	- ```Darrow snapped it shut by asking, “Now, Mr. Bryan, have you ever pondered what would have happened to the earth if it had stood still?”``` ([Location 188](https://readwise.io/to_kindle?action=open&asin=B005ERZLGC&location=188))

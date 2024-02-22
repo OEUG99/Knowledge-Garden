@@ -4,7 +4,6 @@ cover:: ![Image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com
 title:: Document/Database Systems
 abbreviated-title:: Database Systems
 tags:: #[[Graph/ISSUE]]
-
 - # 4: High-Level Database Models
   heading:: 1
 	- ## 4.1 : The Entity/Relationship Model

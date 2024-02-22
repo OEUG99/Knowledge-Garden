@@ -1,5 +1,4 @@
 tags:: tags:: [[Programming]] #[[Game Development]]
-
 - ECS is a design pattern used commonly in game development.
 - An **Entity** is an ID.
 - A **Component** is a struct of data.

@@ -7,7 +7,6 @@ start:: [[Oct 24th, 2023]]
 end:: Unfinished
 status:: Reading
 document_type::
-
 - Highlights
 	- ```20Noah, a man of the soil, proceeded1 to plant a vineyard. 21When he drank some of its wine,c he became drunk and lay uncovered inside his tent. 22Ham, the father of Canaan, saw his father nakedd and told his two brothers outside. 23But Shem and Japheth took a garment and laid it across their shoulders; then they walked in backward and covered their father’s naked body. Their faces were turned the other way so that they would not see their father naked.``` ([Location 1777](https://readwise.io/to_kindle?action=open&asin=B00UF7WBGY&location=1777))
 	- ```the Fear of Isaac,``` ([Location 3850](https://readwise.io/to_kindle?action=open&asin=B00UF7WBGY&location=3850))

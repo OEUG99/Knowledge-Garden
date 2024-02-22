@@ -1,5 +1,4 @@
 tags:: [[Math]]
-
 - # Vectors and Space
 	- ## Vectors
 		- ### Introduction to Vectors:

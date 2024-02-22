@@ -2,7 +2,6 @@ topic:: [[Leetcode]]
 pattern:: [[Dummy Node]]
 theme:: [[Linked List]]
 source-url:: https://leetcode.com/problems/merge-two-sorted-lists/
-
 - # Code:
   heading:: 1
 	- ```python

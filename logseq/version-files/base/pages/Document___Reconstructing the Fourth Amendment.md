@@ -7,7 +7,6 @@ start:: [[Oct 24th, 2023]]
 end:: Unfinished
 status:: Reading
 document_type::
-
 - Highlights
 	- ```Yet even this history seemed incomplete to me, for the original Fourth Amendment, as ratified in 1791—indeed the entire original Bill of Rights—applied only to the federal government, not to the states. It was one of the functions of the Fourteenth Amendment, ratified in 1868, to apply or “incorporate”``` ([Location 82](https://readwise.io/to_kindle?action=open&asin=B004DNW5YO&location=82))
 	- ```the Bill of Rights, including the Fourth Amendment, against the states.``` ([Location 84](https://readwise.io/to_kindle?action=open&asin=B004DNW5YO&location=84))

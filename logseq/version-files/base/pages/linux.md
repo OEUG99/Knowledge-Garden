@@ -1,5 +1,4 @@
 title:: Linux
-
 - # Lexical Analyzers & Lex Command #unix #Linux #command #lexer #lexical_analyzer
   heading:: 1
 	- Lex is short for Lexical Analyzer.

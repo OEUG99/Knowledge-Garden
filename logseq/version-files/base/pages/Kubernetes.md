@@ -1,5 +1,4 @@
 tags:: #[[Computer Science]] #[[Software Engineering]] #Containerization #[[Virtual Machines]]
-
 - ![image.png](../assets/image_1704182960615_0.png){:height 388, :width 759}
 - # Guide to Kubernetes
 	- tags:: #Docker

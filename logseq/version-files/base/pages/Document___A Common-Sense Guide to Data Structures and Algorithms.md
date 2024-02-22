@@ -7,7 +7,6 @@ start:: [[Oct 24th, 2023]]
 end:: Unfinished
 status:: Reading
 document_type::
-
 - Highlights
 	- ```A computer can read from an array in just one step.``` ([Location 396](https://readwise.io/to_kindle?action=open&asin=B08KYMK4NR&location=396))
 	- ```A computer can jump to any memory address in one step.``` ([Location 411](https://readwise.io/to_kindle?action=open&asin=B08KYMK4NR&location=411))

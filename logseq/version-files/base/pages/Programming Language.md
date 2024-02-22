@@ -1,5 +1,4 @@
 tags:: [[Programming]]
-
 - # Navigation:
 	- {{query (property :tags [[Programming Language]])}}
 	  query-sort-by:: block

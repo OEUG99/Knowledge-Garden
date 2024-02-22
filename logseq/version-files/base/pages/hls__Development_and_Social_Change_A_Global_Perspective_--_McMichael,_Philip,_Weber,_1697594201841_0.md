@@ -1,5 +1,4 @@
 file-path:: ../assets/Development_and_Social_Change_A_Global_Perspective_--_McMichael,_Philip,_Weber,_1697594201841_0.pdf
-
 - evelopment, today, is increasingly about how we survive the present and future, rather than its claim to improve on the past.
   ls-type:: annotation
   hl-page:: 2

@@ -8,7 +8,6 @@ status:: Reading
 document_type:: 
 url:: https://peps.python.org/pep-0008/
 tags:: #[[python/pep8]]
-
 - Highlights
 	- ```Some other good reasons to ignore a particular guideline:
 	  

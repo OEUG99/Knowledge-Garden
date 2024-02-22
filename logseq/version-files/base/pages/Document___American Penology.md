@@ -7,7 +7,6 @@ start:: [[Oct 24th, 2023]]
 end:: Unfinished
 status:: Reading
 document_type::
-
 - Highlights
 	- ```In the first half of the twentieth century, criminological inquiry was focused upon offender behavior and crime causation.``` ([Location 90](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=90))
 	- ```it was assumed that this system simply operates in accordance with its formally prescribed goals and purposes.``` ([Location 92](https://readwise.io/to_kindle?action=open&asin=B0747S2GPV&location=92))

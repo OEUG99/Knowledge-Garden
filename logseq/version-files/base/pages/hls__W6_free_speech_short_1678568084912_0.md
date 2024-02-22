@@ -1,6 +1,5 @@
 file:: [W6_free_speech_short_1678568084912_0.pdf](../assets/W6_free_speech_short_1678568084912_0.pdf)
 file-path:: ../assets/W6_free_speech_short_1678568084912_0.pdf
-
 - This even includes some conduct, which can be considered (protected) speech as well as (unprotected) conduct
   ls-type:: annotation
   hl-page:: 3

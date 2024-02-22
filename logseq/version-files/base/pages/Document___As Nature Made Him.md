@@ -7,7 +7,6 @@ start:: [[Oct 24th, 2023]]
 end:: Unfinished
 status:: Reading
 document_type::
-
 - Highlights
 	- ```This Hour Has Seven Days, where a man identified as Dr. John Money was a guest.``` ([Location 351](https://readwise.io/to_kindle?action=open&asin=B00AXXUB2G&location=351))
 	- ```Fifteen years earlier, in 1952, a spate of publicity had attended the announcement by American ex-GI George Jorgensen that he had undergone surgical transformation to become Christine. That operation, performed in Denmark, had been roundly criticized by American hospitals, which refused to perform the surgeries.``` ([Location 355](https://readwise.io/to_kindle?action=open&asin=B00AXXUB2G&location=355))

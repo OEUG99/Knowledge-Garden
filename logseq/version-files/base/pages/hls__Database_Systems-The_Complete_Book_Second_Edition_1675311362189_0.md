@@ -1,5 +1,4 @@
 file-path:: ../assets/Database_Systems-The_Complete_Book_Second_Edition_1675311362189_0.pdf
-
 -
 - 188
   ls-type:: annotation

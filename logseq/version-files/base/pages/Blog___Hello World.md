@@ -1,6 +1,5 @@
 title:: Hello World: An Introduction to my Blog
 category:: [[Blog]]
-
 - # Welcome to My Blog!
 	- ## Hello, World!
 		- Hello and welcome to my blog! I'm thrilled to have you here—after all, a journey of a thousand miles begins with a single step, and you've just taken that first step by landing on this page.

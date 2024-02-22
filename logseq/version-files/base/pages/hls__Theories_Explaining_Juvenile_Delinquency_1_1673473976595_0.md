@@ -1,5 +1,4 @@
 file-path:: ../assets/Theories_Explaining_Juvenile_Delinquency_1_1673473976595_0.pdf
-
 - # Purpose of Theory:
   heading:: 1
 	- Attempts to explain an observed phenomenon

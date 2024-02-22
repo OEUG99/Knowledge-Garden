@@ -1,6 +1,5 @@
 title:: Java
 tags:: [[Programming]] [[Programming Language]]
-
 - {{embed ((633ee97b-7f1f-4188-87da-7abf3ec19818))}}
 - # Dependency Injection in Java
   heading:: 1

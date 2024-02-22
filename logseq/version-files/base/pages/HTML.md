@@ -1,7 +1,6 @@
 title:: HTML
 category:: [[Front-End Development]]
 tags:: [[Website Development]], [[Front-End Development]], [[programming]]
-
 - # Syntax
   heading:: 1
 	- # Introduction

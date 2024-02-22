@@ -7,7 +7,6 @@ start:: [[Oct 24th, 2023]]
 end:: Unfinished
 status:: Reading
 document_type::
-
 - Highlights
 	- ```The guard in his tower holds a position organized around the theme of potential crisis, the possible event made improbable by vigilance. It is a theme which we will encounter often in our examination of the prison.``` ([Location 538](https://readwise.io/to_kindle?action=open&asin=B001B0MD3K&location=538))
 	- ```The society of prisoners, however, is not only physically compressed; it is psychologically compressed as well, since prisoners live in an enforced intimacy where each man’s behavior is subject both to the constant scrutiny of his fellow captives and the surveillance of the custodians.``` ([Location 543](https://readwise.io/to_kindle?action=open&asin=B001B0MD3K&location=543))

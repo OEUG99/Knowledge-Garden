@@ -1,5 +1,4 @@
 tags:: [[Physics]] [[Physics/Classical Mechanics]]
-
 - # What are the laws of motion?
 	- These laws lay the foundation for classical mechanics, which is tremendously successful in explaining and predicting the behavior of objects in our everyday experiences and in scientific experiments.
 - ##  First law of Motion: the Law of Inertia.

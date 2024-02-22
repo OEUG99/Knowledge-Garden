@@ -1,5 +1,4 @@
 exclude-from-graph-view:: true
-
 - # Currently Reading:
   heading:: 1
 	- {{query (and (page-property category [[Book]]) (page-property status Reading))}}

@@ -1,6 +1,5 @@
 file:: [Risk_Assessment_Instruments_PPT_Updated_-_Tagged_1679956117427_0.pdf](../assets/Risk_Assessment_Instruments_PPT_Updated_-_Tagged_1679956117427_0.pdf)
 file-path:: ../assets/Risk_Assessment_Instruments_PPT_Updated_-_Tagged_1679956117427_0.pdf
-
 - Purpose and developme nt
   ls-type:: annotation
   hl-page:: 2

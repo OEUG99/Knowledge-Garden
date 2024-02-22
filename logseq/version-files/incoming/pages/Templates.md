@@ -1,13 +1,14 @@
 exclude-from-graph-view:: true
-
 - <% time %> |  [[Templates]]
   template:: Note
+  collapsed:: true
 	- # Topic
 	  heading:: 1
 		-
 -
 - <% time %>
   template:: Daily
+  collapsed:: true
 	- # Topic
 	  heading:: 1
 -
@@ -33,7 +34,7 @@ exclude-from-graph-view:: true
 	  author::
 	  year::
 	  status::
-	  link:: [Goodreads]( )
+	  source-url:: [Goodreads]( )
 	  end::
 	- ## Content
 	  heading:: 2
@@ -47,7 +48,7 @@ exclude-from-graph-view:: true
 	  pattern::
 	  theme::
 	  template:: Leetcode
-	  link::
+	  source-url::
 -
 - # Court Case
   topic:: []
@@ -74,13 +75,12 @@ exclude-from-graph-view:: true
 - # Daily Note
   template:: Daily Note
   heading:: 1
-	- <%time%>
-		-
+	- <%time%>  |
 - # Daily Schedule:
   template:: Schedule
   heading:: 1
 	- {{renderer :smartblock, Daily Note, Journal Entry, true}} | {{renderer :smartblock, Daily Page, Page Entry, true}} | {{renderer :smartblock, Article Summary, Article Summary, false}}
-	- ## Quick Captures
+	-
 - # Article Summary
   template:: Article Summary
   heading:: 1
@@ -90,8 +90,8 @@ exclude-from-graph-view:: true
 		  published-date::
 		  author::
 		  publication::
-		  link::
-		  archive-link::
+		  source-url::
+		  archive-source-url::
 		  tags::
 		  heading:: 1
 			- ## Summary

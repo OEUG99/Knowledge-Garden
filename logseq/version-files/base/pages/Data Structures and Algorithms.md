@@ -1,6 +1,5 @@
 title:: Data Structures and Algorithms
 category:: [[Programming]]
-
 -
 - {{query (page-property category [[Data Structures and Algorithms]])}}
   query-properties:: [:created-at :updated-at :page :category]

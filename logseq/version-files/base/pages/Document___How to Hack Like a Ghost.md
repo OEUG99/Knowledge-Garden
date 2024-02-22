@@ -7,7 +7,6 @@ start:: [[Oct 24th, 2023]]
 end:: Unfinished
 status:: Reading
 document_type::
-
 - Highlights
 	- ```you have a new C2 backend running with the exact same configuration. Achieving this level of automation is not a whimsical way to try out the trendiest tools and programming techniques. The easier it is to spring``` ([Location 699](https://readwise.io/to_kindle?action=open&asin=B08FH9SQNG&location=699))
 	- ```community, read Permanent Record, by Edward Snowden (Macmillan, 2019). Search for darkAudax’s tutorial``` ([Location 706](https://readwise.io/to_kindle?action=open&asin=B08FH9SQNG&location=706))

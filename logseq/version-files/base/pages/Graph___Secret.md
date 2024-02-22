@@ -1,5 +1,4 @@
 title:: Graph/Secret
-
 - This  graph uses a custom secret management service designed by [[@Oli Eugenio]].
 - Next to every #Graph/Secret tag will have an external link to the secrets manager. All the secrets are hidden by a global password, once entered the secrets manager website will display the secrets contents.
 - This secret manager is not intended to store critical information, and is mainly used to store minor information you do not want public.

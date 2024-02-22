@@ -1,5 +1,4 @@
 exclude-from-graph-view:: true
-
 - <% time %> |  [[Templates]]
   template:: Note
   collapsed:: true

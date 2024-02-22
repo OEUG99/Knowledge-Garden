@@ -1,5 +1,4 @@
 tags:: [[Programming]] #[[Virtual Machines]] #Emulation #Interpreter #Assembler #[[Game Development]] #CHIP-8
-
 - # CHIP-8 Emulator and Assembler
 	- This project began as a personal exploration into the captivating world of emulation - a field of computing that blends low-level computer architecture with intricate operations. Through my love of retro video games, the idea of creating a CHIP-8 Emulator and Assembler took root. CHIP-8, with its accessible design and manageable complexity, proved to be an ideal entry point for this emulation adventure.
 	- ## The History of CHIP-8

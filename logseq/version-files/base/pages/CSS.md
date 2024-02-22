@@ -1,7 +1,6 @@
 title:: CSS
 category:: [[Front-End Development]]
 tags:: [[Programing]] [[Website Development]], [[Front-End Development]]
-
 - # Introduction to CSS
   heading:: 1
 	- CSS follows the following format:

@@ -1,6 +1,5 @@
 title:: Generic Programming
 category:: [[Programming]]
-
 - # What is Generic Programming:
   heading:: 1
 	-

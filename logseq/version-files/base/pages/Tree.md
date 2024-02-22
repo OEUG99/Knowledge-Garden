@@ -1,5 +1,4 @@
 tags:: [[Programming]] [[Data Structures and Algorithms]] [[Leetcode]]
-
 - # What are trees?
   heading:: 1
 	- Similarly to [[Linked List]], trees are a node based data structure; however, unlike a link list, each node can have links to *multiple* nodes.
