@@ -1,4 +1,4 @@
-exclude-from-graph-view:: false
+public:: true
 abbreviated-title::
 start::
 cover:: ![Image](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1333578861i/67896.jpg){:height 172, :width 98}
