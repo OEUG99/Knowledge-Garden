@@ -1,4 +1,5 @@
 exclude-from-graph-view:: true
+
 - <% time %> |  [[Templates]]
   template:: Note
   collapsed:: true
@@ -36,6 +37,8 @@ exclude-from-graph-view:: true
 	  status::
 	  source-url:: [Goodreads]( )
 	  end::
+	  location::
+	  tags::
 	- ## Content
 	  heading:: 2
 -
@@ -55,6 +58,7 @@ exclude-from-graph-view:: true
   amendment:: []
   template:: Case Briefing
   heading:: 1
+  collapsed:: true
 	- ## Facts:
 	  heading:: 2
 	- ## Legal Issues
