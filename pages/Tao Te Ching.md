@@ -13,6 +13,7 @@ location:: #China
 tags:: #Taoism #Zen #Philosophy
 
 - # Tao Te Ching Notes
+  collapsed:: true
 	- ## Introduction
 	  Attributed to the ancient Chinese philosopher Laozi, the *Tao Te Ching* is a timeless work that encapsulates the essence of Taoist philosophy. Written in poetic and enigmatic language, it comprises 81 short chapters, each offering profound insights into life, nature, and the human condition.
 	- ## Themes
@@ -50,5 +51,5 @@ tags:: #Taoism #Zen #Philosophy
 		- ### Liberation from Dualistic Thinking
 			- Laozi challenges dualistic thinking and encourages readers to transcend the limitations of binary distinctions.
 			- He suggests that reality is multifaceted and nuanced, requiring a holistic perspective beyond conventional categories.
-- ## Conclusion
-	- The *Tao Te Ching* offers a profound exploration of timeless wisdom that continues to resonate with readers across cultures and generations. Its teachings inspire contemplation, self-discovery, and a deeper understanding of the interconnectedness of all things. As a foundational text of Taoist philosophy, it remains a guiding light for those seeking harmony, balance, and spiritual enlightenment.
+	- ## Conclusion
+		- The *Tao Te Ching* offers a profound exploration of timeless wisdom that continues to resonate with readers across cultures and generations. Its teachings inspire contemplation, self-discovery, and a deeper understanding of the interconnectedness of all things. As a foundational text of Taoist philosophy, it remains a guiding light for those seeking harmony, balance, and spiritual enlightenment.
