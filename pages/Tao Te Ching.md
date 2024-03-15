@@ -17,37 +17,48 @@ tags::
   Attributed to the ancient Chinese philosopher Laozi, the *Tao Te Ching* is a timeless work that encapsulates the essence of Taoist philosophy. Written in poetic and enigmatic language, it comprises 81 short chapters, each offering profound insights into life, nature, and the human condition.
 - ## Themes
 	- ### The Tao
+	  collapsed:: true
 		- The Tao, often translated as "The Way," is the fundamental concept explored throughout the text. It represents the natural order and underlying principle of the universe.
 		- Laozi describes the Tao as both transcendent and immanent, ineffable yet omnipresent.
-- ### Wu Wei (Non-action)
-	- Wu Wei, or "non-action," is a central tenet of Taoist philosophy. It emphasizes the importance of effortless action and spontaneity.
-	- Laozi teaches that by aligning with the flow of the Tao, individuals can achieve harmony and effectiveness without forceful striving.
-- ### Simplicity
-	- Simplicity is celebrated as a virtue in the *Tao Te Ching*. Laozi extols the beauty of living a simple, uncluttered life.
-	- By embracing simplicity in thought and action, one can cultivate inner peace and clarity.
-- ### Yin and Yang
-	- The text frequently references the concept of Yin and Yang, symbolizing the dualistic nature of existence.
-	- Laozi emphasizes the importance of balancing opposing forces, such as light and dark, in order to maintain harmony and equilibrium.
-- ### Humility and Gentleness
-	- Throughout the *Tao Te Ching*, Laozi emphasizes the importance of humility and gentleness as virtues that lead to harmony and balance.
-	- He suggests that true strength lies in yielding and embracing the softer aspects of existence.
-- ### Detachment
-	- Detachment from desires and attachments is a recurring theme in the text.
-	- Laozi teaches that by relinquishing attachment to outcomes and possessions, individuals can attain greater freedom and inner peace.
-- ### Naturalness
-	- The concept of naturalness pervades the *Tao Te Ching*, advocating for living in accordance with one's innate nature and the natural order of the universe.
-	- Laozi encourages individuals to embrace spontaneity and authenticity rather than contrived behavior.
-- ### Unity of Opposites
-- Laozi explores the unity of opposites, suggesting that seemingly contradictory forces are interdependent and complementary.
-- This theme underscores the interconnectedness of all phenomena and the need for balance in life.
-- ### Self-awareness and Inner Transformation
-- Self-awareness and inner transformation are central to the teachings of the *Tao Te Ching*.
-- Laozi encourages individuals to cultivate self-reflection and introspection as a means of attaining wisdom and enlightenment.
-- ### Ethics and Virtue
-- While the *Tao Te Ching* is not prescriptive in its ethical teachings, it promotes virtues such as compassion, humility, and integrity.
-- Laozi emphasizes the importance of ethical behavior that arises naturally from alignment with the Tao.
-- ### Liberation from Dualistic Thinking
-- Laozi challenges dualistic thinking and encourages readers to transcend the limitations of binary distinctions.
-- He suggests that reality is multifaceted and nuanced, requiring a holistic perspective beyond conventional categories.
+	- ### Wu Wei (Non-action)
+	  collapsed:: true
+		- Wu Wei, or "non-action," is a central tenet of Taoist philosophy. It emphasizes the importance of effortless action and spontaneity.
+		- Laozi teaches that by aligning with the flow of the Tao, individuals can achieve harmony and effectiveness without forceful striving.
+	- ### Simplicity
+	  collapsed:: true
+		- Simplicity is celebrated as a virtue in the *Tao Te Ching*. Laozi extols the beauty of living a simple, uncluttered life.
+		- By embracing simplicity in thought and action, one can cultivate inner peace and clarity.
+	- ### Yin and Yang
+	  collapsed:: true
+		- The text frequently references the concept of Yin and Yang, symbolizing the dualistic nature of existence.
+		- Laozi emphasizes the importance of balancing opposing forces, such as light and dark, in order to maintain harmony and equilibrium.
+	- ### Humility and Gentleness
+	  collapsed:: true
+		- Throughout the *Tao Te Ching*, Laozi emphasizes the importance of humility and gentleness as virtues that lead to harmony and balance.
+		- He suggests that true strength lies in yielding and embracing the softer aspects of existence.
+	- ### Detachment
+	  collapsed:: true
+		- Detachment from desires and attachments is a recurring theme in the text.
+		- Laozi teaches that by relinquishing attachment to outcomes and possessions, individuals can attain greater freedom and inner peace.
+	- ### Naturalness
+	  collapsed:: true
+		- The concept of naturalness pervades the *Tao Te Ching*, advocating for living in accordance with one's innate nature and the natural order of the universe.
+		- Laozi encourages individuals to embrace spontaneity and authenticity rather than contrived behavior.
+	- ### Unity of Opposites
+	  collapsed:: true
+		- Laozi explores the unity of opposites, suggesting that seemingly contradictory forces are interdependent and complementary.
+		- This theme underscores the interconnectedness of all phenomena and the need for balance in life.
+	- ### Self-awareness and Inner Transformation
+	  collapsed:: true
+		- Self-awareness and inner transformation are central to the teachings of the *Tao Te Ching*.
+		- Laozi encourages individuals to cultivate self-reflection and introspection as a means of attaining wisdom and enlightenment.
+	- ### Ethics and Virtue
+	  collapsed:: true
+		- While the *Tao Te Ching* is not prescriptive in its ethical teachings, it promotes virtues such as compassion, humility, and integrity.
+		- Laozi emphasizes the importance of ethical behavior that arises naturally from alignment with the Tao.
+	- ### Liberation from Dualistic Thinking
+	  collapsed:: true
+		- Laozi challenges dualistic thinking and encourages readers to transcend the limitations of binary distinctions.
+		- He suggests that reality is multifaceted and nuanced, requiring a holistic perspective beyond conventional categories.
 - ## Conclusion
-  The *Tao Te Ching* offers a profound exploration of timeless wisdom that continues to resonate with readers across cultures and generations. Its teachings inspire contemplation, self-discovery, and a deeper understanding of the interconnectedness of all things. As a foundational text of Taoist philosophy, it remains a guiding light for those seeking harmony, balance, and spiritual enlightenment.
+	- The *Tao Te Ching* offers a profound exploration of timeless wisdom that continues to resonate with readers across cultures and generations. Its teachings inspire contemplation, self-discovery, and a deeper understanding of the interconnectedness of all things. As a foundational text of Taoist philosophy, it remains a guiding light for those seeking harmony, balance, and spiritual enlightenment.
