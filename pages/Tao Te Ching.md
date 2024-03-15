@@ -29,7 +29,7 @@ tags::
 		- Simplicity is celebrated as a virtue in the *Tao Te Ching*. Laozi extols the beauty of living a simple, uncluttered life.
 		- By embracing simplicity in thought and action, one can cultivate inner peace and clarity.
 	- ### Yin and Yang
-	  collapsed:: true
+	  tags:: #[[Yin and Yang]]
 		- The text frequently references the concept of Yin and Yang, symbolizing the dualistic nature of existence.
 		- Laozi emphasizes the importance of balancing opposing forces, such as light and dark, in order to maintain harmony and equilibrium.
 	- ### Humility and Gentleness
@@ -53,7 +53,6 @@ tags::
 		- Self-awareness and inner transformation are central to the teachings of the *Tao Te Ching*.
 		- Laozi encourages individuals to cultivate self-reflection and introspection as a means of attaining wisdom and enlightenment.
 	- ### Ethics and Virtue
-	  collapsed:: true
 		- While the *Tao Te Ching* is not prescriptive in its ethical teachings, it promotes virtues such as compassion, humility, and integrity.
 		- Laozi emphasizes the importance of ethical behavior that arises naturally from alignment with the Tao.
 	- ### Liberation from Dualistic Thinking
