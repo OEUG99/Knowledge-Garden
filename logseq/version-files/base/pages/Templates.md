@@ -26,19 +26,19 @@ exclude-from-graph-view:: true
   template:: Book
   template-including-parent:: false
   heading:: 1
-	- exclude-from-graph-view:: true
-	- abbreviated-title::
-	  start::
-	  cover:: ![Image](    ){:height 172, :width 98}
-	  type:: [[Book]]
-	  title::
-	  author::
-	  year::
-	  status::
-	  source-url:: [Goodreads]( )
-	  end::
-	  location::
-	  tags::
+- exclude-from-graph-view:: true
+  abbreviated-title::
+  start::
+  cover:: ![Image](    ){:height 172, :width 98}
+  type:: [[Book]]
+  title::
+  author::
+  year::
+  status::
+  source-url:: [Goodreads]( )
+  end::
+  location::
+  tags::
 	- ## Content
 	  heading:: 2
 -
