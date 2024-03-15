@@ -6,7 +6,7 @@ type:: [[Book]]
 title::
 author:: [[@Lao Tzu]] 
 year:: 6th Century BCE
-status::
+status:: Completed
 source-url:: [Goodreads](https://www.goodreads.com/book/show/67896.Tao_Te_Ching?ac=1&from_search=true&qid=5P1V6xesqU&rank=1)
 end::
 location:: #China 
