@@ -1,15 +1,15 @@
 exclude-from-graph-view:: false
 abbreviated-title::
 start::
-cover:: ![Image](    ){:height 172, :width 98}
+cover:: ![Image](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1333578861i/67896.jpg){:height 172, :width 98}
 type:: [[Book]]
 title::
 author:: [[@Lao Tzu]] 
 year:: 6th Century BCE
 status::
-source-url:: [Goodreads]( )
+source-url:: [Goodreads](https://www.goodreads.com/book/show/67896.Tao_Te_Ching?ac=1&from_search=true&qid=5P1V6xesqU&rank=1)
 end::
-location::
+location:: [[China]]
 tags::
 
 - # Tao Te Ching Notes
