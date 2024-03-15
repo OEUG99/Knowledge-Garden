@@ -4,7 +4,7 @@ start::
 cover:: ![Image](    ){:height 172, :width 98}
 type:: [[Book]]
 title::
-author::
+author:: [[@Lao Tzu]] 
 year::
 status::
 source-url:: [Goodreads]( )
