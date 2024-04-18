@@ -116,7 +116,7 @@
  ;; Publish all pages within the Graph
  ;; Regardless of whether individual pages have been marked as public.
  ;; Default value: false
- ;; :publishing/all-pages-public? false
+ :publishing/all-pages-public? true
 
  ;; Define the default home page and sidebar status.
  ;; If unspecified, the journal page will be loaded on startup and the right sidebar will stay hidden.
@@ -420,4 +420,6 @@
  :graph/settings {:orphan-pages? true
  :excluded-pages? false}
  :zotero/settings-v2 {"default" {:type-id "Logseq"}
- "Zoro" {}}}
+ "Zoro" {}}
+ :feature/enable-flashcards? true
+ :feature/enable-whiteboards? false}
