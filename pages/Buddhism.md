@@ -19,7 +19,7 @@ tags:: #Buddhism #Philosophy #Dharma
 			- During this time he practices extreme forms of asceticism, such as severe fasting; A stark contrast to his privileged upbringing. Ultimately, he realized that none of these extreme practices progressed him in his quest for  truth and enlightenment.
 			- Eventually, Siddhartha took seat under a Bodhi treat in Bodh Gaya, India, and was determined to find his answer through meditation. After 49 days of meditation, he obtained enlightenment and became known as the Buddha.
 			- By realizing that his extreme indulgence from his youth and extreme asceticism from his quest both led to suffering, the Buddha discovered the path to enlightenment by taking the **Middle Way**.
-			- The **Middle Way** is a balanced approach between these two extremes. One must not live a life too pampered,
+			- The **Middle Way** is a balanced approach between these two extremes. One must not live a life too pampered, nor one must live a life too
 			- After obtaining enlightenment, the Buddha spent the remainder of his life teaching others the path to enlightenment
 		-
 		-
