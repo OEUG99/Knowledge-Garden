@@ -5,6 +5,7 @@ tags:: #Buddhism #Philosophy #Dharma
 	- Early Buddhism was influenced by [[Hinduism]]. It is a [[Dharma]] based religion.
 	- ## Core Beliefs
 		- ### Four Noble Truths
+			- The
 			- The Truth of [[Dukkha]].
 			  logseq.order-list-type:: number
 			- The Truth of the Cause of [[Dukkha]].
