@@ -1,1 +1,4 @@
-# List of
+# Navigation
+	- ## [[Buddhism]]
+	- ## [[Taoism]]
+-
