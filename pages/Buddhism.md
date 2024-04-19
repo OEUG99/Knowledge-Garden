@@ -49,10 +49,9 @@ tags:: #Buddhism #Philosophy #Dharma
 				  logseq.order-list-type:: number
 				- **Right Concentration (Samma-samdhi)**: Through meditative practices, one can develop focused attentiveness and mental stability. Oe must cultivate a deep state of concentration and absorption (Samadhi), which will lead to clarity and insight; which will lead to a direct realization of nirvana.
 				  logseq.order-list-type:: number
-			-
-			- logseq.order-list-type:: number
 		- ### Law of Karma
 			- [[Karma]] in Buddhism is the principle of cause and effect in Buddhism.
 			- It emphasizes the impact of actions, intentions, and thoughts on one's well-being and relationships. Positive actions lead to positive outcomes, while negative actions lead to negative outcomes.
 			- Karma provides a moral and ethical framework for guiding behavior and decision-making. It emphasizes personal responsibility for one's actions and their consequences.
 			- Karma operates impartially as a natural law, independent of religious beliefs.
+			-
