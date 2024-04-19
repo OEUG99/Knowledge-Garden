@@ -15,7 +15,7 @@ tags:: #Buddhism #Philosophy #Dharma
 			- A wandering ascetic.
 			  logseq.order-list-type:: number
 		- Impacted by these sights, he contemplated on the nature of suffering and the impermanence of life, ultimately discovering dissatisfaction for his guarded and  privileged world. This resulted in him leaving his family and nobility behind in a quest for truth and enlightmenet.
-		- During this time he practices extreme forms of ascentism, such as severe fasting,
+		- During this time he practices extreme forms of asceticism, such as severe fasting. Ultimately, he realized that none of these extreme practices pr
 		-
 	- ## Core Beliefs
 		- **Three Marks of Existence**
