@@ -1,6 +1,6 @@
 tags:: #Buddhism #Philosophy #Dharma
 
-- # Introduciton
+- # What is Buddhism?
 	- Buddhism is a major world religion founded in ancient India around the 6th century BCE. It is based on the teachings of Siddhartha Gautama, known as the Buddha (which means "the awakened one").
 	- Early Buddhism was influenced by [[Hinduism]]. It is a [[Dharma]] based religion.
 	- ## Core Beliefs
@@ -77,6 +77,5 @@ tags:: #Buddhism #Philosophy #Dharma
 					- Buddhist also study and contemplate on Buddhist teachings. This involves reading scared texts, such as Sutras (discourses of the Buddha).
 				- #### Service and Generosity (Dana):
 					- Generosity and service are a key aspect of the buddhist practice. Dana (giving) is considered a virtue that purifies the mind, generates positive [[Karma]] and reduces selfishness.
-			-
-			-
--
+	- ## Branches of Buddhism
+		-
