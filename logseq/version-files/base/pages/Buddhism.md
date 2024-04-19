@@ -15,7 +15,8 @@ tags:: #Buddhism #Philosophy #Dharma
 			- A wandering ascetic.
 			  logseq.order-list-type:: number
 		- Impacted by these sights, he contemplated on the nature of suffering and the impermanence of life, ultimately discovering dissatisfaction for his guarded and  privileged world. This resulted in him leaving his family and nobility behind in a quest for truth and enlightmenet.
-		- During this time he practices extreme forms of asceticism, such as severe fasting, ultimately realizing that none of these extreme practices
+		- During this time he practices extreme forms of asceticism, such as severe fasting. Ultimately, he realized that none of these extreme practices progressed him in his quest for  truth and enlightenment.
+		- Eventually, Siddhartha took seat under a Bodhi treat in Bodh Gaya, India, and was determined to find his answer through meditation. After 49 days of meditation, Siddhartha obtained enlightenment and became known as the Buddha.
 		-
 	- ## Core Beliefs
 		- **Three Marks of Existence**
