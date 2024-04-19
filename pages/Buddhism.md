@@ -1,5 +1,6 @@
 tags:: #Buddhism #Philosophy #Dharma
 
+- ![image.png](../assets/image_1713552983089_0.png){:height 344, :width 638}
 - # What is Buddhism?
 	- Buddhism is a major world religion founded in ancient India around the 6th century BCE. It is based on the teachings of Siddhartha Gautama, known as the Buddha (which means "the awakened one").
 	- Early Buddhism was influenced by [[Hinduism]]. It is a [[Dharma]] based religion.
@@ -72,7 +73,6 @@ tags:: #Buddhism #Philosophy #Dharma
 						  logseq.order-list-type:: number
 						- **Refrain from Intoxicants That Cloud the Mind (Suramerayamajja Pamadatthana Veramani)**:  Practitioners vow to abstain from consuming intoxicating substances such as alcohol and drugs. The purpose is to maintain mental clarity, mindfulness, and ethical discernment, allowing for the ability to make wise choices.
 						  logseq.order-list-type:: number
-					-
 				- #### Study (Dhamma-Vicaya)
 					- Buddhist also study and contemplate on Buddhist teachings. This involves reading scared texts, such as Sutras (discourses of the Buddha).
 				- #### Service and Generosity (Dana):
@@ -81,5 +81,3 @@ tags:: #Buddhism #Philosophy #Dharma
 		- ### [[Theravada Buddhism]]
 		- ### [[Mahayana Buddhism]]
 		- ### [[Vajrayana Buddhism (Tibetan Buddhism)]]
-		-
--
