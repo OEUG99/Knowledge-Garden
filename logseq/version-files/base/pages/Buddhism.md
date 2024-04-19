@@ -110,7 +110,7 @@ tags:: #Buddhism #Philosophy #Dharma
 		- ### [[Secular Buddhism]]
 	- ## Recommended Readings
 		- [Buddhism 101 by Arnie Kozak.](https://www.amazon.com/Buddhism-101-Truths-Understanding-Principles/dp/1507204299)
-			- A general introduction to Buddhism and the different branches, written by
+			- A general introduction to Buddhism and the different branches, written by a licensed psychologist,
 		- [Secular Buddhism: Eastern Thought for Western Minds by Noah Rasheta.](https://www.amazon.com/Secular-Buddhism-Eastern-Thought-Western-ebook/dp/B01M7Y7953/ref=sr_1_1?crid=35BLRRKMLF6QV&dib=eyJ2IjoiMSJ9.pftds1yKhpK3UvMtIJxlU3YzVV2mupRBB9xWmY1LacwQEohehT1TDzZW-Cmk61sPT_b-ucj6rJkkRMeJWhInEWC8euciaWxxclJWhSPmHWgau9SxYZrcbSlhAYn4xujV9GapHJVu3kfxlNxhwH2WR-ABB3ZhA4kTyl9OCLmotsLjzhTdie1adZnH3BORvH_XUHkcK7D0IMuIiGIj4FtStoaMaOoMgJqWq-uxZLwjPrumpZkjb8tCHpxqE7QA-7X642sQTSmPJs3FO4Rx0TTE2cyelBTVZa-lgsjv4g-Y4UA.rcg4jYA7diiYKDx37j6m9TOt8OZ6elVwdcYoOVMBuQc&dib_tag=se&keywords=secular+buddhism&qid=1713556479&s=books&sprefix=Secular%2Cstripbooks%2C149&sr=1-1)
 			- A great resources for learning how to practice Buddhism philosophically.
 		- [The Way of Zen by Alan Watts.](https://www.amazon.com/Way-Zen-Alan-W-Watts-ebook/dp/B004J4X76M/ref=sr_1_1?crid=3O9S8DRJ0UPC7&dib=eyJ2IjoiMSJ9.D_FhlJuCKFlgK-qBAPdATMZWymudGHBhG1rAb45Iy1TthbLQiNczLfzh1PeBpRDNKpYJVWX-KKEHLfoBK15zn2zpb5MtDx8dNmb_8HjfkEKSujDhPFW-gD_Z_DE-Nn1b5n4u_O_99rVkMpWCFob3gHMtOga93sYmfxxMxMrP7WQU6YblSmvlgwnhVbnfi758ltiOt1L_VHnc714_DtnSbu3xGJfeMUi30DuUmU_F-YQ.s8dLd6tBiYsshNIWB3vwk8C08WjypfCLUvAsEvCqu24&dib_tag=se&keywords=the+way+of+zen&qid=1713556543&s=books&sprefix=the+way+of+zen%2Cstripbooks%2C133&sr=1-1)
