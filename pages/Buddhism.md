@@ -33,10 +33,12 @@ tags:: #Buddhism #Philosophy #Dharma
 			- The Noble Eightfold Path outlines the path one can take for achieving enlightenment and liberation from suffering (Nirvana).
 			- It is considered one of the core teachings of the Buddha. Each of the paths are interconnected, and has no direct order. It serves as a guideline for ethical conduct, mental discipline, and wisdom development.
 			- The Eightfold Path is as follows:
-			- **Right Understanding (Samma-ditthi)**: This is an understanding of the Four Noble Truths, the nature of suffering, its causes,  cessation, and the path leading to its cessation. It also refers to the understanding of impermanence and the interconnectedness of all phenomena.  
-			  logseq.order-list-type:: number
-			- **Right Intention (Samma-sankappa)**: This is about having wholesome intentions and thoughts.
-			  logseq.order-list-type:: number
+				- **Right Understanding (Samma-ditthi)**: This is an understanding of the Four Noble Truths, the nature of suffering, its causes,  cessation, and the path leading to its cessation. It also refers to the understanding of impermanence and the interconnectedness of all phenomena.  
+				  logseq.order-list-type:: number
+				- **Right Intention (Samma-sankappa)**: This is about having wholesome intentions and thoughts. It is about cultivating kindness, compassion, goodwill, and renouncing harmful desires. It is also about developing a sense of detachment from worldly cravings.
+				  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
+			-
 			- logseq.order-list-type:: number
 		-
 		-
