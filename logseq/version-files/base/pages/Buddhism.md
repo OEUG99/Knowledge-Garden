@@ -84,7 +84,7 @@ tags:: #Buddhism #Philosophy #Dharma
 		- ### Monastic Practice
 			- Monastic practices  and traditions vary across the different branches of Buddhism; however, for one to become a Monk or Nun you must first have taken refugee in the **Triple Gem**, be involved in the Sangha and undergone preparatory training by experienced monastics, before they can request a formal ordination, and then become ordinated.
 			- Monks are expected to live a monastic lifestyle, and adhering to monastic precepts or rules. These typically include rules regarding celibacy, killing, stealing, and other forms of misconduct, but the rules vary across the different branches of Buddhism.
-			- Monks are
+			- Monks take on a pivotal role in the Buddhist community, through teaching, and guidance to lay practicioners.
 	- ## Branches of Buddhism
 		- ### [[Theravada Buddhism]]
 		- ### [[Mahayana Buddhism]]
