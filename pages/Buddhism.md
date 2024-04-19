@@ -110,4 +110,5 @@ tags:: #Buddhism #Philosophy #Dharma
 		- ### [[Secular Buddhism]]
 	- ## Recommended Readings
 		- [Buddhism 101 by Arnie Kozak.](https://www.amazon.com/Buddhism-101-Truths-Understanding-Principles/dp/1507204299)
-		- Secular Buddhism: Eastern Thought
+		- [Secular Buddhism: Eastern Thought for Western Minds by Noah Rasheta.](https://www.amazon.com/Secular-Buddhism-Eastern-Thought-Western-ebook/dp/B01M7Y7953/ref=sr_1_1?crid=35BLRRKMLF6QV&dib=eyJ2IjoiMSJ9.pftds1yKhpK3UvMtIJxlU3YzVV2mupRBB9xWmY1LacwQEohehT1TDzZW-Cmk61sPT_b-ucj6rJkkRMeJWhInEWC8euciaWxxclJWhSPmHWgau9SxYZrcbSlhAYn4xujV9GapHJVu3kfxlNxhwH2WR-ABB3ZhA4kTyl9OCLmotsLjzhTdie1adZnH3BORvH_XUHkcK7D0IMuIiGIj4FtStoaMaOoMgJqWq-uxZLwjPrumpZkjb8tCHpxqE7QA-7X642sQTSmPJs3FO4Rx0TTE2cyelBTVZa-lgsjv4g-Y4UA.rcg4jYA7diiYKDx37j6m9TOt8OZ6elVwdcYoOVMBuQc&dib_tag=se&keywords=secular+buddhism&qid=1713556479&s=books&sprefix=Secular%2Cstripbooks%2C149&sr=1-1)
+		- The wya of Zen by Alan Watts.
