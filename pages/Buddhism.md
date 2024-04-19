@@ -56,9 +56,11 @@ tags:: #Buddhism #Philosophy #Dharma
 			- Karma operates impartially as a natural law, independent of religious beliefs.
 		- ### Practices
 			- #### Meditation
+			  collapsed:: true
 				- Meditation is the central buddhist, and takes up various forms.
 				- Common forms of meditation include mindfulness meditation (Satipatthana), loving-kindness meditation (Metta), and insight meditation (Vipassana).
 			- #### Ethical Conduct
+			  collapsed:: true
 				- Buddhist practitioners adhere to more precepts or guidelines that promote virtuous behaviors, harmony, and non-harm.
 				- ##### The Five Precepts:
 					- **Refrain from Harming Living Beings (Panatipata Veamani):** Practitioners must refrain from killing any sentient being, whether human or animal. This also implies to violence and cruelty, or any act that leads to harm, such as hunting, fishing and animal exploitation.
@@ -72,5 +74,6 @@ tags:: #Buddhism #Philosophy #Dharma
 					- **Refrain from Intoxicants That Cloud the Mind (Suramerayamajja Pamadatthana Veramani)**:  Practitioners vow to abstain from consuming intoxicating substances such as alcohol and drugs. The purpose is to maintain mental clarity, mindfulness, and ethical discernment, allowing for the ability to make wise choices.
 					  logseq.order-list-type:: number
 				-
+			- ####
 			-
 -
