@@ -67,7 +67,9 @@ tags:: #Buddhism #Philosophy #Dharma
 					  logseq.order-list-type:: number
 					- **Refrain from Sexual Misconduct (Kamesu Micchacara Veramani)**: Practitioners must avoid in engaging in sexual misconduct, which includes acts such as adultery, sexual exploitation, coercion, and abuse.
 					  logseq.order-list-type:: number
-					- **Refrain from False Speech (Musavada Veramani):**
+					- **Refrain from False Speech (Musavada Veramani):** Practitioners pledge to abstain from lying, deceit, gossip, slander, and harsh speech and must strive to speak truthfully, kindly, and thoughtfully.
 					  logseq.order-list-type:: number
+					- logseq.order-list-type:: number
+					  ****
 			-
 -
