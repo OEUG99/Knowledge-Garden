@@ -7,7 +7,7 @@ tags:: #Buddhism #Philosophy #Dharma
 		- **Three Marks of Existence**
 			- Viewing the Three Marks as a diagnosis and a disease is a metaphorical way to help understand their role in Buddhism. The three marks describe the nature of all phenomena.
 			- The Three Marks of Existence are as follows:
-				- **Suffering and Dissatisfaction ([[Dukkha]])**: Dukkha refers to the suffering and dissatisfaction that plagues humane existence
+				- **Suffering and Dissatisfaction ([[Dukkha]])**: Dukkha refers to the suffering and dissatisfaction that plagues humane existence. However, it also refers to the discontentment that may arise from
 				  logseq.order-list-type:: number
 				- **Impermanence (Anicca):**  Anicca refers to the universal truth of impermanence. It suggests that all phenomena are subject to change. Nothing in the world is in a fixed state, such as materials, or even mental. It is about Birth, aging, decay, and death, and how they are core aspects of existence. 
 				  logseq.order-list-type:: number
