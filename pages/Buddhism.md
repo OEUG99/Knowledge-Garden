@@ -19,15 +19,16 @@ tags:: #Buddhism #Philosophy #Dharma
 					  logseq.order-list-type:: number
 		- ### Four Noble Truths
 			- The four nobles can best be explained as a diagnosis for the human condition, as the Buddha often considered himself to be more inlined with a physician then the founder of a religion.
-			- The Four Noble Truths provide a diagnostic frameowkr
+			- The Four Noble Truths provide a diagnostic framework for understanding the nature of suffering and the path to liberation.
 			- The Four Novel Truths are as follows:
 				- The Truth of [[Dukkha]].
 				  logseq.order-list-type:: number
-				- The Truth of the Cause of [[Dukkha]].
+				- The Truth of the Cause of [[Dukkha]] (Saamudaya).
 				  logseq.order-list-type:: number
-				- The Truth of the Cessation of [[Dukkha]].
+				- The Truth of the Cessation of [[Dukkha]] (Nirodha).
 				  logseq.order-list-type:: number
-				- The Truth of the Path That Leads to the Cessation of [[Dukkha]].
+				- The Truth of the Path That Leads to the Cessation of [[Dukkha]] ().
 				  logseq.order-list-type:: number
+			-
 		-
 		-
