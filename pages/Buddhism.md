@@ -54,31 +54,29 @@ tags:: #Buddhism #Philosophy #Dharma
 			- It emphasizes the impact of actions, intentions, and thoughts on one's well-being and relationships. Positive actions lead to positive outcomes, while negative actions lead to negative outcomes.
 			- Karma provides a moral and ethical framework for guiding behavior and decision-making. It emphasizes personal responsibility for one's actions and their consequences.
 			- Karma operates impartially as a natural law, independent of religious beliefs.
-		- ### Practices
-			- Practice among the different branches of Buddhism vary, with each having their own unique identity; however,
-			- #### Meditation
-			  collapsed:: true
-				- Meditation is the central buddhist, and takes up various forms.
-				- Common forms of meditation include mindfulness meditation (Satipatthana), loving-kindness meditation (Metta), and insight meditation (Vipassana).
-			- #### Ethical Conduct
-			  collapsed:: true
-				- Buddhist practitioners adhere to more precepts or guidelines that promote virtuous behaviors, harmony, and non-harm.
-				- ##### The Five Precepts:
-					- **Refrain from Harming Living Beings (Panatipata Veamani):** Practitioners must refrain from killing any sentient being, whether human or animal. This also implies to violence and cruelty, or any act that leads to harm, such as hunting, fishing and animal exploitation.
-					  logseq.order-list-type:: number
-					- **Refrain from Taking What Is not Given (Adinnadana Veramani)**: Practitioners must be honest, have integrity, and respect for others' possessions. Practitioners must avoid deception and dishonesty. Additionally they must also be generous and trustworthy. 
-					  logseq.order-list-type:: number
-					- **Refrain from Sexual Misconduct (Kamesu Micchacara Veramani)**: Practitioners must avoid in engaging in sexual misconduct, which includes acts such as adultery, sexual exploitation, coercion, and abuse.
-					  logseq.order-list-type:: number
-					- **Refrain from False Speech (Musavada Veramani):** Practitioners pledge to abstain from lying, deceit, gossip, slander, and harsh speech and must strive to speak truthfully, kindly, and thoughtfully.
-					  logseq.order-list-type:: number
-					- **Refrain from Intoxicants That Cloud the Mind (Suramerayamajja Pamadatthana Veramani)**:  Practitioners vow to abstain from consuming intoxicating substances such as alcohol and drugs. The purpose is to maintain mental clarity, mindfulness, and ethical discernment, allowing for the ability to make wise choices.
-					  logseq.order-list-type:: number
-				-
-			- #### Study (Dhamma-Vicaya)
-				- Buddhist also study and contemplate on Buddhist teachings. This involves reading scared texts, such as Sutras (discourses of the Buddha).
-			- #### Service and Generosity (Dana):
-				- Generosity and service are a key aspect of the buddhist practice. Dana (giving) is considered a virtue that purifies the mind, generates positive [[Karma]] and reduces selfishness.
+		- ### Buddhist Practices
+			- Practice among the different branches of Buddhism vary, with each having their own unique identity; however, there are many shared practices in Buddhism as a whole. The following is a brief summary of some of the key practices.
+				- #### Meditation
+					- Meditation is the central buddhist, and takes up various forms.
+					- Common forms of meditation include mindfulness meditation (Satipatthana), loving-kindness meditation (Metta), and insight meditation (Vipassana).
+				- #### Ethical Conduct
+					- Buddhist practitioners adhere to more precepts or guidelines that promote virtuous behaviors, harmony, and non-harm.
+					- ##### The Five Precepts:
+						- **Refrain from Harming Living Beings (Panatipata Veamani):** Practitioners must refrain from killing any sentient being, whether human or animal. This also implies to violence and cruelty, or any act that leads to harm, such as hunting, fishing and animal exploitation.
+						  logseq.order-list-type:: number
+						- **Refrain from Taking What Is not Given (Adinnadana Veramani)**: Practitioners must be honest, have integrity, and respect for others' possessions. Practitioners must avoid deception and dishonesty. Additionally they must also be generous and trustworthy. 
+						  logseq.order-list-type:: number
+						- **Refrain from Sexual Misconduct (Kamesu Micchacara Veramani)**: Practitioners must avoid in engaging in sexual misconduct, which includes acts such as adultery, sexual exploitation, coercion, and abuse.
+						  logseq.order-list-type:: number
+						- **Refrain from False Speech (Musavada Veramani):** Practitioners pledge to abstain from lying, deceit, gossip, slander, and harsh speech and must strive to speak truthfully, kindly, and thoughtfully.
+						  logseq.order-list-type:: number
+						- **Refrain from Intoxicants That Cloud the Mind (Suramerayamajja Pamadatthana Veramani)**:  Practitioners vow to abstain from consuming intoxicating substances such as alcohol and drugs. The purpose is to maintain mental clarity, mindfulness, and ethical discernment, allowing for the ability to make wise choices.
+						  logseq.order-list-type:: number
+					-
+				- #### Study (Dhamma-Vicaya)
+					- Buddhist also study and contemplate on Buddhist teachings. This involves reading scared texts, such as Sutras (discourses of the Buddha).
+				- #### Service and Generosity (Dana):
+					- Generosity and service are a key aspect of the buddhist practice. Dana (giving) is considered a virtue that purifies the mind, generates positive [[Karma]] and reduces selfishness.
 			-
 			-
 -
