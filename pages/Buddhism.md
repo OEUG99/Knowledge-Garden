@@ -37,7 +37,7 @@ tags:: #Buddhism #Philosophy #Dharma
 				  logseq.order-list-type:: number
 				- **Right Intention (Samma-sankappa)**: This is about having wholesome intentions and thoughts. It is about cultivating kindness, compassion, goodwill, and renouncing harmful desires. It is also about developing a sense of detachment from worldly cravings.
 				  logseq.order-list-type:: number
-				- **Right Speech (Samma-vaca)**: Right speach is the abstaintment from lying, harsh speech, slanderous speech, and obtaining from idle chatter
+				- **Right Speech (Samma-vaca)**: Right speach is the abstaintment from lying, harsh speech, slanderous speech, and obtaining from idle chatter (gossip). In other words, one must cultivate mindfulness
 				  logseq.order-list-type:: number
 			-
 			- logseq.order-list-type:: number
