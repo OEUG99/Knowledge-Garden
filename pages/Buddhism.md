@@ -30,6 +30,6 @@ tags:: #Buddhism #Philosophy #Dharma
 				- The Truth of the Path That Leads to the Cessation of [[Dukkha]] (Magga).
 				  logseq.order-list-type:: number
 		- ### Noble Eightfold Path
-			-
+			- The Noble Eightfold Path is
 		-
 		-
