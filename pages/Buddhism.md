@@ -52,5 +52,6 @@ tags:: #Buddhism #Philosophy #Dharma
 				  logseq.order-list-type:: number
 			-
 			- logseq.order-list-type:: number
-		- ###
+		- ### Law of Karma
+			- [[Karma]] in Buddhism
 		-
