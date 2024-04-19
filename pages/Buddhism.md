@@ -78,6 +78,8 @@ tags:: #Buddhism #Philosophy #Dharma
 					- Buddhist also study and contemplate on Buddhist teachings. This involves reading scared texts, such as Sutras (discourses of the Buddha).
 				- #### Service and Generosity (Dana):
 					- Generosity and service are a key aspect of the buddhist practice. Dana (giving) is considered a virtue that purifies the mind, generates positive [[Karma]] and reduces selfishness.
+	- ## Becoming a Buddhist.
+		-
 	- ## Branches of Buddhism
 		- ### [[Theravada Buddhism]]
 		- ### [[Mahayana Buddhism]]

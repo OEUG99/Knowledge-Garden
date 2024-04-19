@@ -5,6 +5,7 @@ tags:: #Buddhism #Philosophy #Dharma
 	- Buddhism is a major world religion founded in ancient India around the 6th century BCE. It is based on the teachings of Siddhartha Gautama, known as the Buddha (which means "the awakened one").
 	- Early Buddhism was influenced by [[Hinduism]]. It is a [[Dharma]] based religion.
 	- ## Core Beliefs
+	  collapsed:: true
 		- **Three Marks of Existence**
 			- Viewing the Three Marks as a diagnosis and a disease is a metaphorical way to help understand their role in Buddhism. The three marks describe the nature of all phenomena.
 			- The Three Marks of Existence are as follows:
@@ -77,6 +78,8 @@ tags:: #Buddhism #Philosophy #Dharma
 					- Buddhist also study and contemplate on Buddhist teachings. This involves reading scared texts, such as Sutras (discourses of the Buddha).
 				- #### Service and Generosity (Dana):
 					- Generosity and service are a key aspect of the buddhist practice. Dana (giving) is considered a virtue that purifies the mind, generates positive [[Karma]] and reduces selfishness.
+	- ## Becoming a Buddhist.
+		-
 	- ## Branches of Buddhism
 		- ### [[Theravada Buddhism]]
 		- ### [[Mahayana Buddhism]]
