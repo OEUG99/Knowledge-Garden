@@ -35,9 +35,11 @@ tags:: #Buddhism #Philosophy #Dharma
 			- The Eightfold Path is as follows:
 				- **Right Understanding (Samma-ditthi)**: This is an understanding of the Four Noble Truths, the nature of suffering, its causes,  cessation, and the path leading to its cessation. It also refers to the understanding of impermanence and the interconnectedness of all phenomena.  
 				  logseq.order-list-type:: number
-				- **Right Intention (Samma-sankappa)**: This is about having wholesome intentions and thoughts. It is about cultivating kindness, compassion, goodwill, and renouncing harmful desires. It is also about developing a sense of detatchment from worldly cravings.
+				- **Right Intention (Samma-sankappa)**: This is about having wholesome intentions and thoughts. It is about cultivating kindness, compassion, goodwill, and renouncing harmful desires. It is also about developing a sense of detachment from worldly cravings.
 				  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+				- **Right Speech (Samma-vaca)**: Right speach is the abstaintment from lying, harsh speech
+				  logseq.order-list-type:: number
+			-
 			- logseq.order-list-type:: number
 		-
 		-
