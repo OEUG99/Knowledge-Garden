@@ -18,7 +18,7 @@ tags:: #Buddhism #Philosophy #Dharma
 			- Impacted by these sights, he contemplated on the nature of suffering and the impermanence of life, ultimately discovering dissatisfaction for his guarded and  privileged world. This resulted in him leaving his family and nobility behind in a quest for truth and enlightmenet.
 			- During this time he practices extreme forms of asceticism, such as severe fasting; A stark contrast to his privileged upbringing. Ultimately, he realized that none of these extreme practices progressed him in his quest for  truth and enlightenment.
 			- Eventually, Siddhartha took seat under a Bodhi treat in Bodh Gaya, India, and was determined to find his answer through meditation. After 49 days of meditation, he obtained enlightenment and became known as the Buddha.
-			- Only by realizing that
+			- Only by realizing that both extreme
 			- After obtaining enlightenment, the Buddha spent the remainder of his life teaching others the path to enlightenment
 		-
 		-
