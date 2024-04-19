@@ -55,6 +55,7 @@ tags:: #Buddhism #Philosophy #Dharma
 			- Karma provides a moral and ethical framework for guiding behavior and decision-making. It emphasizes personal responsibility for one's actions and their consequences.
 			- Karma operates impartially as a natural law, independent of religious beliefs.
 		- ### Practices
+			-
 			- #### Meditation
 			  collapsed:: true
 				- Meditation is the central buddhist, and takes up various forms.
@@ -77,6 +78,7 @@ tags:: #Buddhism #Philosophy #Dharma
 			- #### Study (Dhamma-Vicaya)
 				- Buddhist also study and contemplate on Buddhist teachings. This involves reading scared texts, such as Sutras (discourses of the Buddha).
 			- #### Service and Generosity (Dana):
-				- Generosity and service are a key aspect of the buddhist practice. Dana (giving) is considered a virtue that purifies the mind, generates positive [[Karma]] and
+				- Generosity and service are a key aspect of the buddhist practice. Dana (giving) is considered a virtue that purifies the mind, generates positive [[Karma]] and reduces selfishness.
+			-
 			-
 -

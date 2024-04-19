@@ -55,6 +55,7 @@ tags:: #Buddhism #Philosophy #Dharma
 			- Karma provides a moral and ethical framework for guiding behavior and decision-making. It emphasizes personal responsibility for one's actions and their consequences.
 			- Karma operates impartially as a natural law, independent of religious beliefs.
 		- ### Practices
+			- Practice among the different branches of Buddhism vary, with each having their own unique identity; however,
 			- #### Meditation
 			  collapsed:: true
 				- Meditation is the central buddhist, and takes up various forms.
