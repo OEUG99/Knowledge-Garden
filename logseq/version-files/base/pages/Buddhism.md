@@ -7,4 +7,10 @@ tags:: #Buddhism #Philosophy #Dharma
 		- ### Four Noble Truths
 			- The Truth of [[Dukkha]].
 			  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+			- The Truth of the Cause of [[Dukkha]].
+			  logseq.order-list-type:: number
+			- The Truth of the Cessation of [[Dukkha]].
+			  logseq.order-list-type:: number
+			- The Truth of the Path That Leads to the Cessation of [[Dukkha]].
+			  logseq.order-list-type:: number
+		-
