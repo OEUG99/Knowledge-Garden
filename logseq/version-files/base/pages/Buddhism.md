@@ -14,7 +14,7 @@ tags:: #Buddhism #Philosophy #Dharma
 			  logseq.order-list-type:: number
 			- A wandering ascetic.
 			  logseq.order-list-type:: number
-		- Impacted by these sights,
+		- Impacted by these sights, he contemplated on the nature of suffering and the importance of life,
 		-
 	- ## Core Beliefs
 		- **Three Marks of Existence**
