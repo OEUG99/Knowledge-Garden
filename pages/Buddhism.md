@@ -5,18 +5,21 @@ tags:: #Buddhism #Philosophy #Dharma
 	- Buddhism is a major world religion founded in ancient India around the 6th century BCE. It is based on the teachings of Siddhartha Gautama, known as the Buddha (which means "the awakened one").
 	- Early Buddhism was influenced by [[Hinduism]] therefore it shares some similarities, as well as some noticeable difference. Like Hinduism, Buddhism is a [[Dharma]] based religion.
 	- ## Who is the Buddha?
-		- The origins of the Buddha begin with his birth as Prince Siddhartha Gautama, around 563 BCE in Lumbini (Present day Nepal).
-		- In attempt to make his son a great king, his father, King Suddhodana, sheltered young Siddhartha from the outside world, containing him to a priviledge life within palace walls shield from suffering and harship.
-		- One day, Siddhartha ventured outside the palace and encountered four sights which resulted in him learning about suffering and hardship for the first time:
-			- An old man.
-			  logseq.order-list-type:: number
-			- A dead man
-			  logseq.order-list-type:: number
-			- A wandering ascetic.
-			  logseq.order-list-type:: number
-		- Impacted by these sights, he contemplated on the nature of suffering and the impermanence of life, ultimately discovering dissatisfaction for his guarded and  privileged world. This resulted in him leaving his family and nobility behind in a quest for truth and enlightmenet.
-		- During this time he practices extreme forms of asceticism, such as severe fasting. Ultimately, he realized that none of these extreme practices progressed him in his quest for  truth and enlightenment.
-		- Eventually, Siddhartha took seat under a Bodhi treat in Bodh Gaya, India, and was determined to find his answer through meditation. After 49 days of meditation, Siddhartha obtained enlightenment and became known as the Buddha.
+		- The following is a brief summary of the Buddha's Origins:
+			- The origins of the Buddha begin with his birth as Prince Siddhartha Gautama, around 563 BCE in Lumbini (Present day Nepal).
+			- In attempt to make his son a great king, his father, King Suddhodana, sheltered young Siddhartha from the outside world, containing him to a priviledge life within palace walls shield from suffering and harship.
+			- One day, Siddhartha ventured outside the palace and encountered four sights which resulted in him learning about suffering and hardship for the first time:
+				- An old man.
+				  logseq.order-list-type:: number
+				- A dead man
+				  logseq.order-list-type:: number
+				- A wandering ascetic.
+				  logseq.order-list-type:: number
+			- Impacted by these sights, he contemplated on the nature of suffering and the impermanence of life, ultimately discovering dissatisfaction for his guarded and  privileged world. This resulted in him leaving his family and nobility behind in a quest for truth and enlightmenet.
+			- During this time he practices extreme forms of asceticism, such as severe fasting. Ultimately, he realized that none of these extreme practices progressed him in his quest for  truth and enlightenment.
+			- Eventually, Siddhartha took seat under a Bodhi treat in Bodh Gaya, India, and was determined to find his answer through meditation. After 49 days of meditation, Siddhartha obtained enlightenment and became known as the Buddha.
+			- After obtaining enlightenment, the Buddha spent the remainder of his life teaching others the path to enlightenment
+		-
 		-
 		-
 	- ## Core Beliefs
