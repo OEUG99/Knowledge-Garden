@@ -30,7 +30,6 @@ tags:: #Buddhism #Philosophy #Dharma
 				- The Truth of the Path That Leads to the Cessation of [[Dukkha]] (Magga).
 				  logseq.order-list-type:: number
 		- ### Noble Eightfold Path
-		  collapsed:: true
 			- The Noble Eightfold Path outlines the path one can take for achieving enlightenment and liberation from suffering (Nirvana).
 			- It is considered one of the core teachings of the Buddha. Each of the paths are interconnected, and has no direct order. It serves as a guideline for ethical conduct, mental discipline, and wisdom development.
 			- The Eightfold Path is as follows:
@@ -53,5 +52,7 @@ tags:: #Buddhism #Philosophy #Dharma
 			-
 			- logseq.order-list-type:: number
 		- ### Law of Karma
-			- [[Karma]] in Buddhism
-		-
+			- [[Karma]] in Buddhism is the principle of cause and effect in Buddhism.
+			- It emphasizes the impact of actions, intentions, and thoughts on one's well-being and relationships. Positive actions lead to positive outcomes, while negative actions lead to negative outcomes.
+			- Karma provides a moral and ethical framework for guiding behavior and decision-making. It emphasizes personal responsibility for one's actions and their consequences.
+			- Karma operates impartially as a natural law, independent of religious beliefs.
