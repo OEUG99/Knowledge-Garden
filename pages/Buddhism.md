@@ -109,7 +109,6 @@ tags:: #Buddhism #Philosophy #Dharma
 		- ### [[Vajrayana Buddhism (Tibetan Buddhism)]]
 		- ### [[Secular Buddhism]]
 	- ## Recommended Readings
-		- The following is a list of general Buddhist
 		- [Buddhism 101 by Arnie Kozak.](https://www.amazon.com/Buddhism-101-Truths-Understanding-Principles/dp/1507204299)
 			- A great general introduction to Buddhism and the different branches.
 		- [Secular Buddhism: Eastern Thought for Western Minds by Noah Rasheta.](https://www.amazon.com/Secular-Buddhism-Eastern-Thought-Western-ebook/dp/B01M7Y7953/ref=sr_1_1?crid=35BLRRKMLF6QV&dib=eyJ2IjoiMSJ9.pftds1yKhpK3UvMtIJxlU3YzVV2mupRBB9xWmY1LacwQEohehT1TDzZW-Cmk61sPT_b-ucj6rJkkRMeJWhInEWC8euciaWxxclJWhSPmHWgau9SxYZrcbSlhAYn4xujV9GapHJVu3kfxlNxhwH2WR-ABB3ZhA4kTyl9OCLmotsLjzhTdie1adZnH3BORvH_XUHkcK7D0IMuIiGIj4FtStoaMaOoMgJqWq-uxZLwjPrumpZkjb8tCHpxqE7QA-7X642sQTSmPJs3FO4Rx0TTE2cyelBTVZa-lgsjv4g-Y4UA.rcg4jYA7diiYKDx37j6m9TOt8OZ6elVwdcYoOVMBuQc&dib_tag=se&keywords=secular+buddhism&qid=1713556479&s=books&sprefix=Secular%2Cstripbooks%2C149&sr=1-1)
@@ -117,3 +116,5 @@ tags:: #Buddhism #Philosophy #Dharma
 			- A great introduction into Zen and its history.
 		- [**Tao Te Ching by Laozi**](https://www.gutenberg.org/ebooks/216)
 			- The most important scripture for [[Taoism]], which heavily influenced Mahayana Buddhism and Zen.
+		- [Tibetan Book of Living and Dying by Sogyal Ripoche](https://www.amazon.com/Tibetan-Book-Living-Dying-International/dp/0062508342)
+			- A great resources for learning about
