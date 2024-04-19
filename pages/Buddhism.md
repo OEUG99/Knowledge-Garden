@@ -5,7 +5,7 @@ tags:: #Buddhism #Philosophy #Dharma
 	- Early Buddhism was influenced by [[Hinduism]]. It is a [[Dharma]] based religion.
 	- ## Core Beliefs
 		- **Three Marks of Existence**
-			-
+			- Viewing
 			-
 		- ### Four Noble Truths
 			- The four nobles can best be explained as a diagnosis for the human condition, as the Buddha often considered himself to be more inlined with a physician then the founder of a religion.
