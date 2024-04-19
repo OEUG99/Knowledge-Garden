@@ -1,4 +1,4 @@
 # Table of Contents:
-	- **[[Programming]]** – The master node that contains a directory to all program related topics.
-	- **[[Religions]]** -
+	- **[[Programming]]** – A directory to key programming and Computer Science related topics.
+	- **[[Religions]]** – A directory to the major religions
 	-
