@@ -7,13 +7,14 @@ tags:: #Buddhism #Philosophy #Dharma
 	- ## Who is the Buddha?
 		- The origins of the Buddha begin with his birth as Prince Siddhartha Gautama, around 563 BCE in Lumbini (Present day Nepal).
 		- In attempt to make his son a great king, his father, King Suddhodana, sheltered young Siddhartha from the outside world, containing him to a priviledge life within palace walls shield from suffering and harship.
-		- One day, Siddhartha ventured outside the palace and encountered four sights which resulted in him learning about suffering and harship for the first time:
+		- One day, Siddhartha ventured outside the palace and encountered four sights which resulted in him learning about suffering and hardship for the first time:
 			- An old man.
 			  logseq.order-list-type:: number
 			- A dead man
 			  logseq.order-list-type:: number
 			- A wandering ascetic.
 			  logseq.order-list-type:: number
+		- Impacted by these sights, he contemplated on the nature of suffering and the importance of life
 		-
 	- ## Core Beliefs
 		- **Three Marks of Existence**
