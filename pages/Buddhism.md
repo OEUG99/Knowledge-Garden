@@ -78,6 +78,8 @@ tags:: #Buddhism #Philosophy #Dharma
 				- #### Service and Generosity (Dana):
 					- Generosity and service are a key aspect of the buddhist practice. Dana (giving) is considered a virtue that purifies the mind, generates positive [[Karma]] and reduces selfishness.
 	- ## Branches of Buddhism
-		- [[Theravada Buddhism]]
-		- [[Mahayana Buddhism]]
+		- ### [[Theravada Buddhism]]
+		- ### [[Mahayana Buddhism]]
+		- ### [[Vajrayana Buddhism (Tibetan Buddhism)]]
 		-
+-
