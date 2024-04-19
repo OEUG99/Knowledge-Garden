@@ -80,7 +80,8 @@ tags:: #Buddhism #Philosophy #Dharma
 					- Generosity and service are a key aspect of the buddhist practice. Dana (giving) is considered a virtue that purifies the mind, generates positive [[Karma]] and reduces selfishness.
 	- ## Becoming a Buddhist.
 		- ### Lay Practitioners
-			- To become a buddhist you must take Refugee in the **Triple Gem**. This is a formal acknowledgement that you are comitted to the Buddha, the [[Dharma]], and the Sangha ()
+			- To become a Buddhist you must take refugee in the **Triple Gem**. This is a formal acknowledgement that you are comitted to the Buddha, the [[Dharma]], and the Sangha (the Buddhist community of monks, nuns, and lay practitioners).
+		- ### Monastic Practice
 	- ## Branches of Buddhism
 		- ### [[Theravada Buddhism]]
 		- ### [[Mahayana Buddhism]]
