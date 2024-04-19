@@ -19,6 +19,7 @@ tags:: #Buddhism #Philosophy #Dharma
 					  logseq.order-list-type:: number
 		- ### Four Noble Truths
 			- The four nobles can best be explained as a diagnosis for the human condition, as the Buddha often considered himself to be more inlined with a physician then the founder of a religion.
+			- The Four Noble Truths provide a diagnostic frameowkr
 			- The Four Novel Truths are as follows:
 				- The Truth of [[Dukkha]].
 				  logseq.order-list-type:: number
