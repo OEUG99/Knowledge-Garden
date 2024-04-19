@@ -103,9 +103,10 @@ tags:: #Buddhism #Philosophy #Dharma
 			- Monks are expected to live a monastic lifestyle, and adhering to monastic precepts or rules. These typically include rules regarding celibacy, killing, stealing, and other forms of misconduct, but the rules vary across the different branches of Buddhism.
 			- Monks take on a pivotal role in the Buddhist community, through teaching, and guidance to lay practitioners.
 				- Lay practitioners support the monastic community through *dana* (donations and services).
-	-
 	- ## Branches of Buddhism
 		- ### [[Theravada Buddhism]]
 		- ### [[Mahayana Buddhism]]
 		- ### [[Vajrayana Buddhism (Tibetan Buddhism)]]
 		- ### [[Secular Buddhism]]
+	- ## Recommended Readings
+		- Buddhism 101 by A
