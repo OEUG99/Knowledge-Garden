@@ -45,8 +45,8 @@ tags:: #Buddhism #Philosophy #Dharma
 				  logseq.order-list-type:: number
 				- **Right Effort (Samma-vayama)**: The diligent and sustained effort to cultivate wholesome qualities over unwholesome ones. Pursuing positive mental states through mindfulness, concentration and loving kindness, while also abandoning negative habits.
 				  logseq.order-list-type:: number
-				- logseq.order-list-type:: number
-				  ****
+				- **Right Mindfulness (Samma-sati)**: This involves being fully present and aware of ones thoughts, feelings, senstations, and actions in the present moment with out judgement. Its about promoting mindfullness of the body, your feelings, the mind, and mental
+				  logseq.order-list-type:: number
 			-
 			- logseq.order-list-type:: number
 		-
