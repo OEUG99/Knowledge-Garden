@@ -13,7 +13,7 @@ tags:: #Buddhism #Philosophy #Dharma
 				  logseq.order-list-type:: number
 					- Anicca can be viewed as a disease in the metaphorical sense..
 					  logseq.order-list-type:: number
-				- **Non-self**
+				- **Non-Self (Anatta)**:
 				  logseq.order-list-type:: number
 		- ### Four Noble Truths
 			- The four nobles can best be explained as a diagnosis for the human condition, as the Buddha often considered himself to be more inlined with a physician then the founder of a religion.
