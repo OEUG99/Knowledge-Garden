@@ -55,8 +55,10 @@ tags:: #Buddhism #Philosophy #Dharma
 			- Karma provides a moral and ethical framework for guiding behavior and decision-making. It emphasizes personal responsibility for one's actions and their consequences.
 			- Karma operates impartially as a natural law, independent of religious beliefs.
 		- ### Practices
-			-
-			- **Meditation** is the central buddhist, and takes up various forms.
-			- Common forms of meditation include mindfulness meditation (Satipatthana), loving-kindness meditation (Metta), and insight meditation (Vipassana).
+			- #### Meditation
+				- Meditation is the central buddhist, and takes up various forms.
+				- Common forms of meditation include mindfulness meditation (Satipatthana), loving-kindness meditation (Metta), and insight meditation (Vipassana).
+			- #### Ethical Conduct
+				-
 			-
 -

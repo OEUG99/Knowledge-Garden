@@ -59,6 +59,6 @@ tags:: #Buddhism #Philosophy #Dharma
 				- Meditation is the central buddhist, and takes up various forms.
 				- Common forms of meditation include mindfulness meditation (Satipatthana), loving-kindness meditation (Metta), and insight meditation (Vipassana).
 			- #### Ethical Conduct
-				-
+				- Buddhist practitioners adhere to
 			-
 -
