@@ -109,4 +109,5 @@ tags:: #Buddhism #Philosophy #Dharma
 		- ### [[Vajrayana Buddhism (Tibetan Buddhism)]]
 		- ### [[Secular Buddhism]]
 	- ## Recommended Readings
-		- Buddhism 101 by A
+		- [Buddhism 101 by Arnie Kozak.](https://www.amazon.com/Buddhism-101-Truths-Understanding-Principles/dp/1507204299)
+		- Secular Buddhism: Eastern Thought
