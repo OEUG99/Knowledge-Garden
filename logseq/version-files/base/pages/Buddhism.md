@@ -63,7 +63,13 @@ tags:: #Buddhism #Philosophy #Dharma
 				- ##### The Five Precepts:
 					- **Refrain from Harming Living Beings (Panatipata Veamani):** Practitioners must refrain from killing any sentient being, whether human or animal. This also implies to violence and cruelty, or any act that leads to harm, such as hunting, fishing and animal exploitation.
 					  logseq.order-list-type:: number
-					- **Refrain from Taking What Is not Given (Adinnadana Veramani)**:  
+					- **Refrain from Taking What Is not Given (Adinnadana Veramani)**: Practitioners must be honest, have integrity, and respect for others' possessions. Practitioners must avoid deception and dishonesty. Additionally they must also be generous and trustworthy. 
+					  logseq.order-list-type:: number
+					- **Refrain from Sexual Misconduct (Kamesu Micchacara Veramani)**: Practitioners must avoid in engaging in sexual misconduct, which includes acts such as adultery, sexual exploitation, coercion, and abuse.
+					  logseq.order-list-type:: number
+					- **Refrain from False Speech (Musavada Veramani):** Practitioners pledge to abstain from lying, deceit, gossip, slander, and harsh speech and must strive to speak truthfully, kindly, and thoughtfully.
+					  logseq.order-list-type:: number
+					- **Refrain from Intoxicants That Cloud the Mind (Suramerayamajja Pamadatthana Veramani)**:
 					  logseq.order-list-type:: number
 			-
 -
