@@ -61,6 +61,7 @@ tags:: #Buddhism #Philosophy #Dharma
 			- #### Ethical Conduct
 				- Buddhist practitioners adhere to more precepts or guidelines that promote virtuous behaviors, harmony, and non-harm.
 				- ##### The Five Precepts:
-					- logseq.order-list-type:: number
+					- Refrain from Harming Living Beings (Panatipata Veamani): Practioners must refrain from killing any sentient being, whether human or animal. T
+					  logseq.order-list-type:: number
 			-
 -
