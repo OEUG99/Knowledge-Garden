@@ -10,6 +10,7 @@ tags:: #Taoism #Zen #Philosophy
 
 - # Tao Te Ching Notes
 	- ## Introduction
+	  id:: 65f4b585-362f-4d22-add9-b897602cbcb0
 	  Attributed to the ancient Chinese philosopher Laozi, the *Tao Te Ching* is a timeless work that encapsulates the essence of Taoist philosophy. Written in poetic and enigmatic language, it comprises 81 short chapters, each offering profound insights into life, nature, and the human condition.
 	- ## Themes
 		- ### The Tao
