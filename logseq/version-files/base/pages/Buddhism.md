@@ -115,4 +115,6 @@ tags:: #Buddhism #Philosophy #Dharma
 		- [The Way of Zen by Alan Watts.](https://www.amazon.com/Way-Zen-Alan-W-Watts-ebook/dp/B004J4X76M/ref=sr_1_1?crid=3O9S8DRJ0UPC7&dib=eyJ2IjoiMSJ9.D_FhlJuCKFlgK-qBAPdATMZWymudGHBhG1rAb45Iy1TthbLQiNczLfzh1PeBpRDNKpYJVWX-KKEHLfoBK15zn2zpb5MtDx8dNmb_8HjfkEKSujDhPFW-gD_Z_DE-Nn1b5n4u_O_99rVkMpWCFob3gHMtOga93sYmfxxMxMrP7WQU6YblSmvlgwnhVbnfi758ltiOt1L_VHnc714_DtnSbu3xGJfeMUi30DuUmU_F-YQ.s8dLd6tBiYsshNIWB3vwk8C08WjypfCLUvAsEvCqu24&dib_tag=se&keywords=the+way+of+zen&qid=1713556543&s=books&sprefix=the+way+of+zen%2Cstripbooks%2C133&sr=1-1)
 			- A great introduction into Zen and its history.
 		- [**Tao Te Ching by Laozi**](https://www.gutenberg.org/ebooks/216)
-			- The most important scripture for [[Taoism]], which heavily influenced Mahayana Buddhism and Zen.
+			- The most important scripture for [[Taoism]], which heavily influenced [[Mahayana Buddhism]] and [[Zen Buddhism]].
+		- [Tibetan Book of Living and Dying by Sogyal Ripoche](https://www.amazon.com/Tibetan-Book-Living-Dying-International/dp/0062508342)
+			- A great resources for learning about [[Vajrayana Buddhism (Tibetan Buddhism)]]
