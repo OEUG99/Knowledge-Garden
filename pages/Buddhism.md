@@ -74,6 +74,7 @@ tags:: #Buddhism #Philosophy #Dharma
 					- **Refrain from Intoxicants That Cloud the Mind (Suramerayamajja Pamadatthana Veramani)**:  Practitioners vow to abstain from consuming intoxicating substances such as alcohol and drugs. The purpose is to maintain mental clarity, mindfulness, and ethical discernment, allowing for the ability to make wise choices.
 					  logseq.order-list-type:: number
 				-
-			- ####
+			- #### Study (Dhamma-Vicaya)
+				- Buddhist also study and contemplate on Buddhist teachings. This involves reading scared texts, such as Sutras (discourses of the Buddha).
 			-
 -
