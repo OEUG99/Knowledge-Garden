@@ -65,7 +65,9 @@ tags:: #Buddhism #Philosophy #Dharma
 					  logseq.order-list-type:: number
 					- **Refrain from Taking What Is not Given (Adinnadana Veramani)**: Practitioners must be honest, have integrity, and respect for others' possessions. Practitioners must avoid deception and dishonesty. Additionally they must also be generous and trustworthy. 
 					  logseq.order-list-type:: number
-					- **Refrain from Sexual Misconduct (Kamesu Micchacara Veramani)**: Practici
+					- **Refrain from Sexual Misconduct (Kamesu Micchacara Veramani)**: Practitioners must avoid in engaging in sexual misconduct, which includes acts such as adultery, sexual exploitation, coercion, and abuse.
+					  logseq.order-list-type:: number
+					- **Refrain from False Speech (Musavada Veramani):**
 					  logseq.order-list-type:: number
 			-
 -
