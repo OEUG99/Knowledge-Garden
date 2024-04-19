@@ -39,7 +39,11 @@ tags:: #Buddhism #Philosophy #Dharma
 				  logseq.order-list-type:: number
 				- **Right Speech (Samma-vaca)**: Right speach is the abstaintment from lying, harsh speech, slanderous speech, and obtaining from idle chatter (gossip). In other words, one must cultivate mindfulness for others in their speech.
 				  logseq.order-list-type:: number
-				- **Right Action (Samma-Kammanta)**:  This refers to ethical conduct. One must abstain from killing, stealing, and sexual misconduct. One must engage in actions that promote harmlessness, honesty, and integrity. 
+				- **Right Action (Samma-Kammanta)**:  This refers to ethical conduct. One must abstain from killing, stealing, and sexual misconduct. One must engage in actions that promote harmlessness, honesty, and integrity.  
+				  logseq.order-list-type:: number
+				- **Right Livelihood (Samma-ajiva)**: This pertains to earning a living in a way that is ethical and does not spread harm onto others or oneself.
+				  logseq.order-list-type:: number
+				- **Right Effort (Samma-vayama)**: The diligent and sustained effort to cultivate wholesome qualities over unwholesome ones. Pursuing positive mental states through mindfulness, concentration and loving kindness, while also abandoning negative habits.
 				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
 			-
