@@ -82,7 +82,7 @@ tags:: #Buddhism #Philosophy #Dharma
 		- ### Lay Practitioners
 			- To become a Buddhist you must take refugee in the **Triple Gem**. This is a formal acknowledgement that you are comitted to the Buddha, the [[Dharma]], and the Sangha (the Buddhist community of monks, nuns, and lay practitioners).
 		- ### Monastic Practice
-			- Monastic practices  and traditions vary across the different branches of Buddhism; however,
+			- Monastic practices  and traditions vary across the different branches of Buddhism; however, for one to become a Monk or Nun you must first have taken refugee in the **Triple Gem**, be involved in the Sangha and
 	- ## Branches of Buddhism
 		- ### [[Theravada Buddhism]]
 		- ### [[Mahayana Buddhism]]
