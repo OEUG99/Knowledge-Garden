@@ -63,7 +63,7 @@ tags:: #Buddhism #Philosophy #Dharma
 				- ##### The Five Precepts:
 					- **Refrain from Harming Living Beings (Panatipata Veamani):** Practitioners must refrain from killing any sentient being, whether human or animal. This also implies to violence and cruelty, or any act that leads to harm, such as hunting, fishing and animal exploitation.
 					  logseq.order-list-type:: number
-					- **Refrain from Taking What Is not Given (Adinnadana Veramani)**: Practioners must be honest, have integiry
+					- **Refrain from Taking What Is not Given (Adinnadana Veramani)**: Practitioners must be honest, have integrity, and respect for others' possessions. Practitioners must avoid deception and dishonesty. Additionally they must also be
 					  logseq.order-list-type:: number
 			-
 -
