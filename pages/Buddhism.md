@@ -21,10 +21,7 @@ tags:: #Buddhism #Philosophy #Dharma
 			- By realizing that his extreme indulgence from his youth and extreme asceticism from his quest both led to suffering, the Buddha discovered the path to enlightenment by taking the **Middle Way**.
 			- The **Middle Way** is a balanced approach between these two extremes. One must not live a life too pampered, nor one must live with total self-denial. The **Middle Way** encourages and advocates for a moderate and mindful way of living.
 			- After obtaining enlightenment, the Buddha spent the remainder of his life teaching others the path to enlightenment.
-			- His teachings would become known as the [[Dharma]], and emphasized the **Four Noble Truths**. His teachings provided a
-		-
-		-
-		-
+			- His teachings would become known as the [[Dharma]], and emphasized the **Four Noble Truths**. His teachings provided a path to enlightenment and a path to liberation from the cycle of rebirth and death (samasara).
 	- ## Core Beliefs
 		- **Three Marks of Existence**
 			- Viewing the Three Marks as a diagnosis and a disease is a metaphorical way to help understand their role in Buddhism. The three marks describe the nature of all phenomena.
@@ -106,6 +103,7 @@ tags:: #Buddhism #Philosophy #Dharma
 			- Monks are expected to live a monastic lifestyle, and adhering to monastic precepts or rules. These typically include rules regarding celibacy, killing, stealing, and other forms of misconduct, but the rules vary across the different branches of Buddhism.
 			- Monks take on a pivotal role in the Buddhist community, through teaching, and guidance to lay practitioners.
 				- Lay practitioners support the monastic community through *dana* (donations and services).
+	-
 	- ## Branches of Buddhism
 		- ### [[Theravada Buddhism]]
 		- ### [[Mahayana Buddhism]]

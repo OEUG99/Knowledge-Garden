@@ -20,10 +20,8 @@ tags:: #Buddhism #Philosophy #Dharma
 			- Eventually, Siddhartha took seat under a Bodhi treat in Bodh Gaya, India, and was determined to find his answer through meditation. After 49 days of meditation, he obtained enlightenment and became known as the Buddha.
 			- By realizing that his extreme indulgence from his youth and extreme asceticism from his quest both led to suffering, the Buddha discovered the path to enlightenment by taking the **Middle Way**.
 			- The **Middle Way** is a balanced approach between these two extremes. One must not live a life too pampered, nor one must live with total self-denial. The **Middle Way** encourages and advocates for a moderate and mindful way of living.
-			- After obtaining enlightenment, the Buddha spent the remainder of his life teaching others the path to enlightenment
-		-
-		-
-		-
+			- After obtaining enlightenment, the Buddha spent the remainder of his life teaching others the path to enlightenment.
+			- His teachings would become known as the [[Dharma]], and emphasized the **Four Noble Truths**. His teachings provided a path to enlightenment and a path to liberation from the cycle of rebirth and death (samasara).
 	- ## Core Beliefs
 		- **Three Marks of Existence**
 			- Viewing the Three Marks as a diagnosis and a disease is a metaphorical way to help understand their role in Buddhism. The three marks describe the nature of all phenomena.
