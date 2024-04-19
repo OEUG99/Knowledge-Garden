@@ -41,9 +41,10 @@ tags:: #Buddhism #Philosophy #Dharma
 				  logseq.order-list-type:: number
 				- **Right Action (Samma-Kammanta)**:  This refers to ethical conduct. One must abstain from killing, stealing, and sexual misconduct. One must engage in actions that promote harmlessness, honesty, and integrity.  
 				  logseq.order-list-type:: number
-				- **Right Livelihood (Samma-ajiva)** pertains to earning a living in a way that is ethical and does not spread harm onto others or oneself.
+				- **Right Livelihood (Samma-ajiva)**: This pertains to earning a living in a way that is ethical and does not spread harm onto others or oneself.
 				  logseq.order-list-type:: number
-				- logseq.order-list-type:: number
+				- **Right Effort (Samma-vayama)**: The digilient and sustained effort to cultivate wholesome qualities over unwholesome ones.
+				  logseq.order-list-type:: number
 			-
 			- logseq.order-list-type:: number
 		-
