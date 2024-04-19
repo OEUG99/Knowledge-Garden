@@ -7,8 +7,10 @@ tags:: #Buddhism #Philosophy #Dharma
 		- **Three Marks of Existence**
 			- Viewing the Three Marks as a diagnosis and a disease is a metaphorical way to help understand their role in Buddhism. The three marks describe the nature of all phenomena.
 			- The Three Marks of Existence are as follows:
-				- **Impermanence (Anicca):**  Anicca refers to the universal truth of impermanence. It suggests that all phenomena are subject to change
+				- **Impermanence (Anicca):**  Anicca refers to the universal truth of impermanence. It suggests that all phenomena are subject to change. Nothing in the world is in a fixed state, such as materials, or even mental. It is about Birth, aging, decay, and death, and how they are core aspects of existence. 
 				  logseq.order-list-type:: number
+					- Anicca ca
+					  logseq.order-list-type:: number
 			-
 		- ### Four Noble Truths
 			- The four nobles can best be explained as a diagnosis for the human condition, as the Buddha often considered himself to be more inlined with a physician then the founder of a religion.
