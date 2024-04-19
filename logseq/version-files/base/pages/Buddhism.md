@@ -23,11 +23,11 @@ tags:: #Buddhism #Philosophy #Dharma
 			- The Four Novel Truths are as follows:
 				- The Truth of [[Dukkha]].
 				  logseq.order-list-type:: number
-				- The Truth of the Cause of [[Dukkha]] .
+				- The Truth of the Cause of [[Dukkha]] (Saamudaya).
 				  logseq.order-list-type:: number
-				- The Truth of the Cessation of [[Dukkha]].
+				- The Truth of the Cessation of [[Dukkha]] (Nirodha).
 				  logseq.order-list-type:: number
-				- The Truth of the Path That Leads to the Cessation of [[Dukkha]].
+				- The Truth of the Path That Leads to the Cessation of [[Dukkha]] (Magga).
 				  logseq.order-list-type:: number
 			-
 		-
