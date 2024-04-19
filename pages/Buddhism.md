@@ -69,7 +69,8 @@ tags:: #Buddhism #Philosophy #Dharma
 					  logseq.order-list-type:: number
 					- **Refrain from False Speech (Musavada Veramani):** Practitioners pledge to abstain from lying, deceit, gossip, slander, and harsh speech and must strive to speak truthfully, kindly, and thoughtfully.
 					  logseq.order-list-type:: number
-					- **Refrain from Intoxicants That Cloud the Mind (Suramerayamajja Pamadatthana Veramani)**:  Practitioners vow to abstain from consuming intoxica
+					- **Refrain from Intoxicants That Cloud the Mind (Suramerayamajja Pamadatthana Veramani)**:  Practitioners vow to abstain from consuming intoxicating substances such as alcohol and drugs. The purpose is to maintain mental clarity, mindfulness, and ethical discernment, allowing for the ability to make wise choices.
 					  logseq.order-list-type:: number
+				-
 			-
 -
