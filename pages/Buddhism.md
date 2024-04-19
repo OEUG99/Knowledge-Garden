@@ -30,6 +30,7 @@ tags:: #Buddhism #Philosophy #Dharma
 				- The Truth of the Path That Leads to the Cessation of [[Dukkha]] (Magga).
 				  logseq.order-list-type:: number
 		- ### Noble Eightfold Path
+		  collapsed:: true
 			- The Noble Eightfold Path outlines the path one can take for achieving enlightenment and liberation from suffering (Nirvana).
 			- It is considered one of the core teachings of the Buddha. Each of the paths are interconnected, and has no direct order. It serves as a guideline for ethical conduct, mental discipline, and wisdom development.
 			- The Eightfold Path is as follows:
@@ -49,7 +50,7 @@ tags:: #Buddhism #Philosophy #Dharma
 				  logseq.order-list-type:: number
 				- **Right Concentration (Samma-samdhi)**: Through meditative practices, one can develop focused attentiveness and mental stability. Oe must cultivate a deep state of concentration and absorption (Samadhi), which will lead to clarity and insight; which will lead to a direct realization of nirvana.
 				  logseq.order-list-type:: number
-				-
+			-
 			- logseq.order-list-type:: number
-		-
+		- ###
 		-
