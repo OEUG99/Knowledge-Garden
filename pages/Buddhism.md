@@ -3,8 +3,8 @@ tags:: #Buddhism #Philosophy #Dharma
 - ![image.png](../assets/image_1713552983089_0.png){:height 344, :width 638}
 - # What is Buddhism?
 	- Buddhism is a major world religion founded in ancient India around the 6th century BCE. It is based on the teachings of Siddhartha Gautama, known as the Buddha (which means "the awakened one").
-	- Early Buddhism was influenced by [[Hinduism]] an
-	- Buddhism is a [[Dharma]] based religion.
+	- Early Buddhism was influenced by [[Hinduism]] therefore it shares some similarities
+	- Additionally, Buddhism is a [[Dharma]] based religion.
 	- ## Core Beliefs
 		- **Three Marks of Existence**
 			- Viewing the Three Marks as a diagnosis and a disease is a metaphorical way to help understand their role in Buddhism. The three marks describe the nature of all phenomena.
