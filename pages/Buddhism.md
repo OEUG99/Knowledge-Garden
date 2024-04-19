@@ -47,7 +47,7 @@ tags:: #Buddhism #Philosophy #Dharma
 				  logseq.order-list-type:: number
 				- **Right Mindfulness (Samma-sati)**: This involves being fully present and aware of ones thoughts, feelings, sensations, and actions in the present moment with out judgement. Its about promoting mindfulness of the body, your feelings, the mind, and mental phenomena, in the pursuit of understanding the nature of reality.
 				  logseq.order-list-type:: number
-				- **Right Concentration (Samma-samdhi)**:
+				- **Right Concentration (Samma-samdhi)**: Through meditative practices, one can develop focused attentiveness and mental stability. Oe must cultivate a deep state of concentration and absorption (Samadhi), which will lead to clarity and insight; which will lead to a direct relization of nirvana.
 				  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
 		-
