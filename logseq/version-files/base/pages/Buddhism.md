@@ -81,3 +81,4 @@ tags:: #Buddhism #Philosophy #Dharma
 		- ### [[Theravada Buddhism]]
 		- ### [[Mahayana Buddhism]]
 		- ### [[Vajrayana Buddhism (Tibetan Buddhism)]]
+		- ### [[Secular Buddhism]]
