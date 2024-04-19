@@ -76,5 +76,7 @@ tags:: #Buddhism #Philosophy #Dharma
 				-
 			- #### Study (Dhamma-Vicaya)
 				- Buddhist also study and contemplate on Buddhist teachings. This involves reading scared texts, such as Sutras (discourses of the Buddha).
+			- #### Service and Generosity (Dana):
+				- Generosity and service are a key aspect of the buddhist practice. Dana,
 			-
 -
