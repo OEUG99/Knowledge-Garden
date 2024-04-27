@@ -17,3 +17,10 @@
 		- A vertical bar | indicates choice.
 - ## Rules
 	-
+	- Naturally, we can define a grammar for rules in BNF:
+		- rule → name `::=` expansion
+		- name → `<` identifier `>`
+		- expansion → expansion expansion
+		- expansion → expansion `|` expansion
+		- expansion → name
+		- expansion → terminal
