@@ -5,4 +5,14 @@
 	- The symbol ::= means “may expand into” and “may get replaced with.”
 	- An expansion is an expression containing terminal symbols and non-terminal symbols, joined together by sequencing and selection.
 	- A terminal symbol may be a literal like (“+” or “function”) or a category of literals (like integer).
+	- ```
+	  <term> ::= <factor> "*" <term>
+	          |  <factor>
+	  
+	  <factor> ::= "(" <expr> ")"
+	            |  <const>
+	  
+	  <const> ::= integer
+	  ```
+		- A vertical bar | indicates choice.
 	-
