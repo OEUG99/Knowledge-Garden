@@ -26,5 +26,5 @@
 					  logseq.order-list-type:: number
 				- The light switch in the living room does not function properly.
 				  logseq.order-list-type:: number
-				- The win
+				- The living room window can not be open, and the blinds do not work properly
 				  logseq.order-list-type:: number

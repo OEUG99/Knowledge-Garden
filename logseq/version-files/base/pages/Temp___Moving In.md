@@ -24,4 +24,7 @@
 				  logseq.order-list-type:: number
 					- ![image.png](../assets/image_1715960135162_0.png)
 					  logseq.order-list-type:: number
-		-
+				- The light switch in the living room does not function properly.
+				  logseq.order-list-type:: number
+				- The living room window can not be open, and the blinds do not work properly
+				  logseq.order-list-type:: number
