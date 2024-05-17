@@ -45,5 +45,5 @@
 			- ### Bathroom
 				- Tub not properly training; slow.
 				- Tub does not seem properly sealed to the floor, allowing for flexing which may lead to damage over time; but currently remains functional minus poor drainage.
-				- The bathroom door does not properly seal unless
+				- The bathroom door does not properly seal unless an excess of force is applied.
 	- A plain text version of this e-doccument can be found here, it is in the markdown format: [Click Here to Access](https://github.com/OEUG99/Knowledge-Garden/blob/main/pages/Temp___Moving%20In.md)
