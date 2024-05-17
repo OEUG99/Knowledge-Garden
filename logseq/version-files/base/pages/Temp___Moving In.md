@@ -46,4 +46,5 @@
 			  collapsed:: true
 				- Tub not properly training; slow.
 				- Tub does not seem properly sealed to the floor, allowing for flexing which may lead to damage over time; but currently remains functional minus poor drainage.
-	- A plain text version of this e-doccument can be found here, it is in the markdown format:
+	- A plain text version of this e-doccument can be found here, it is in the markdown format: https://github.com/OEUG99/Knowledge-Garden/blob/main/pages/Temp___Moving%20In.md
+	-
