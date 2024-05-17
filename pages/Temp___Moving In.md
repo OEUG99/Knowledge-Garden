@@ -1,4 +1,5 @@
 # **Re: Move In Condition Form.**
+	- The following document is an amendment to the Move In Condition form providing more detailed descriptions on the issues, as well as images.
 	- ## Location & Date:
 		- 434 West Jefferson St, APT 117.
 		- Tallahassee, Florida, 32301.
