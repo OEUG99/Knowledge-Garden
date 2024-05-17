@@ -26,5 +26,7 @@
 					  logseq.order-list-type:: number
 				- The light switch in the living room does not function properly.
 				  logseq.order-list-type:: number
-				- The living room window can not be open, and the blinds do not work properly
+				- The living room window can not be open, and the blinds do not work properly.
+				  logseq.order-list-type:: number
+				- Additionally, as per our lease, we have to clean the HVAC unit, but we were provided no instructions on how to do so. Given that these machines are expensive, we ask to be provided with
 				  logseq.order-list-type:: number
