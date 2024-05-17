@@ -7,7 +7,6 @@
 	- ## All Known Issues
 		- Click each header below to expand them:
 			- ### Living Room
-			  collapsed:: true
 				- The AC Unit has the following issues:
 					- Not properly circulating air throughout the apartment. (Bedroom has intense heat, even when windows blacked out.)
 					  logseq.order-list-type:: number
@@ -47,3 +46,4 @@
 				- Tub does not seem properly sealed to the floor, allowing for flexing which may lead to damage over time; but currently remains functional minus poor drainage.
 				- The bathroom door does not properly seal unless an excess of force is applied.
 	- A plain text version of this e-doccument can be found here, it is in the markdown format: [Click Here to Access](https://github.com/OEUG99/Knowledge-Garden/blob/main/pages/Temp___Moving%20In.md)
+	- Please reach out via phone or email if you have any further questions. Thank you!
