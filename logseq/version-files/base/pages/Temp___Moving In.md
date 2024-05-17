@@ -1,4 +1,5 @@
 # **Re: Move In Condition Form.**
+	- The following document is an amendment to the Move In Condition form providing more detailed descriptions on the issues, as well as images.
 	- ## Location & Date:
 		- 434 West Jefferson St, APT 117.
 		- Tallahassee, Florida, 32301.
@@ -45,3 +46,4 @@
 			  collapsed:: true
 				- Tub not properly training; slow.
 				- Tub does not seem properly sealed to the floor, allowing for flexing which may lead to damage over time; but currently remains functional minus poor drainage.
+	- A plain text version of this e-doccument can be found here, it is in the markdown format:
