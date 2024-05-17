@@ -3,11 +3,8 @@
 		- 434 West Jefferson St
 		- Tallahassee, Florida, 32301
 		- May 16, 2024
-	-
-	- ##
 	- ## All Known Issues
 		- ### Living Room
-		  collapsed:: true
 			- The AC Unit has the following issues:
 				- Not properly circulating air throughout the apartment. (Bedroom has intense heat, even when windows blacked out.)
 				  logseq.order-list-type:: number
@@ -44,4 +41,3 @@
 		- ### Bathroom
 			- Tub not properly training; slow.
 			- Tub does not seem properly sealed to the floor, allowing for flexing which may lead to damage over time; but currently remains functional minus poor drainage.
-			-
