@@ -8,4 +8,6 @@
 			- The AC Unit has the following issues:
 				- Not properly circulating air throughout the apartment. (Bedroom has intense heat, even when windows blacked out.)
 				  logseq.order-list-type:: number
-				- logseq.order-list-type:: number
+				- **Fungal Presence**: The AC unit exhibits visible fungus growth at its base, and what appears to be black mold (uniformly spread unlike dust)
+				  logseq.order-list-type:: number
+					- logseq.order-list-type:: number
