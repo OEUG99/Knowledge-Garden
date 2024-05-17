@@ -16,5 +16,5 @@
 				  logseq.order-list-type:: number
 					- ![IMG_4721.jpeg](../assets/IMG_4721_1715959525854_0.jpeg)
 					  logseq.order-list-type:: number
-				- Vents :
+				- **Vents dangerously moldy**:
 				  logseq.order-list-type:: number
