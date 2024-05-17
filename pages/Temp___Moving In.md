@@ -10,4 +10,6 @@
 				  logseq.order-list-type:: number
 				- **Fungal Presence**: The AC unit exhibits visible fungus growth at its base, and what appears to be black mold (uniformly spread unlike dust)
 				  logseq.order-list-type:: number
+					- ![IMG_4720.jpeg](../assets/IMG_4720_1715959403266_0.jpeg)
+					  logseq.order-list-type:: number
 					- logseq.order-list-type:: number
