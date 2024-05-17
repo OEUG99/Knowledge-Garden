@@ -34,4 +34,5 @@
 			- logseq.order-list-type:: number
 		- ### Kitchen
 			- A hole the size of two fists is present to the left of the oven, where the cabinet trimming should be.  There appears to be food and other stuff thrown back there that we are unable to access, next to what appears to be our water tank.
+				- ![image.png](../assets/image_1715960711665_0.png)
 				-
