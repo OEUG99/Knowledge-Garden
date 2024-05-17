@@ -7,6 +7,7 @@
 	- ## All Known Issues
 		- *Click each header below to expand them:*
 			- ### Living Room
+			  collapsed:: true
 				- The AC Unit has the following issues:
 					- Not properly circulating air throughout the apartment. (Bedroom has intense heat, even when windows blacked out.)
 					  logseq.order-list-type:: number
