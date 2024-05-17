@@ -3,7 +3,9 @@
 		- 434 West Jefferson St
 		- Tallahassee, Florida, 32301
 		- May 16, 2024
-	- ## Known Issues
+	-
+	- ##
+	- ## All Known Issues
 		- ### Living Room
 		  collapsed:: true
 			- The AC Unit has the following issues:
