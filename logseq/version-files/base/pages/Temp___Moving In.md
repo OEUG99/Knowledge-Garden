@@ -1,11 +1,11 @@
 # **Re: Move In Condition Form.**
-	- The following document is an amendment to the Move In Condition form providing more detailed descriptions on the issues, as well as images.
+	- The following document is an amendment to the *Move In Condition* form providing more detailed descriptions on the issues, as well as images.
 	- ## Location & Date:
 		- 434 West Jefferson St, APT 117.
 		- Tallahassee, Florida, 32301.
 		- May 16, 2024.
 	- ## All Known Issues
-		- Click each header below to expand them:
+		- *Click each header below to expand them:*
 			- ### Living Room
 				- The AC Unit has the following issues:
 					- Not properly circulating air throughout the apartment. (Bedroom has intense heat, even when windows blacked out.)
@@ -14,7 +14,7 @@
 					  logseq.order-list-type:: number
 						- ![IMG_4720.jpeg](../assets/IMG_4720_1715959403266_0.jpeg)
 						  logseq.order-list-type:: number
-						- We also are exhibiting coughing. This is important to me as I was not coughing before moving in, and I am immunocompromised.
+						- We also are exhibiting coughing. This is important to me as I was not coughing before moving in, and I am IGA immunocompromised.
 						  logseq.order-list-type:: number
 					- **Improper Sealing**: The unit is not adequately sealed from the outside environment. A sizable gap exists beneath the AC unit, providing easy access for rodents and other pests. 
 					  logseq.order-list-type:: number
@@ -48,4 +48,4 @@
 				- Tub does not seem properly sealed to the floor, allowing for flexing which may lead to damage over time; but currently remains functional minus poor drainage.
 				- The bathroom door does not properly seal unless an excess of force is applied.
 	- A plain text version of this e-doccument can be found here, it is in the markdown format: [Click Here to Access](https://github.com/OEUG99/Knowledge-Garden/blob/main/pages/Temp___Moving%20In.md)
-	- Please reach out via phone or email if you have any further questions. Thank you!
+	- *Please reach out via phone or email if you have any further questions. Thank you!*
