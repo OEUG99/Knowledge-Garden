@@ -20,5 +20,7 @@
 				  logseq.order-list-type:: number
 					- ![image.png](../assets/image_1715959905314_0.png)
 					  logseq.order-list-type:: number
-				- logseq.order-list-type:: number
+				- **Apartment Door hazard** the main door to the apartment is damaged and has a sharp edge which Ivy has already cut herself on.
+				  logseq.order-list-type:: number
+					- logseq.order-list-type:: number
 		-
