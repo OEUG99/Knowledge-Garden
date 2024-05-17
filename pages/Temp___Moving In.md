@@ -14,6 +14,8 @@
 					  logseq.order-list-type:: number
 						- ![IMG_4720.jpeg](../assets/IMG_4720_1715959403266_0.jpeg)
 						  logseq.order-list-type:: number
+						- We also are exhibiting coughing
+						  logseq.order-list-type:: number
 					- **Improper Sealing**: The unit is not adequately sealed from the outside environment. A sizable gap exists beneath the AC unit, providing easy access for rodents and other pests. 
 					  logseq.order-list-type:: number
 						- ![IMG_4721.jpeg](../assets/IMG_4721_1715959525854_0.jpeg)
