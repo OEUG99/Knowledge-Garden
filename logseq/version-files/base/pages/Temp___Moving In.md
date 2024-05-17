@@ -16,5 +16,6 @@
 				  logseq.order-list-type:: number
 					- ![IMG_4721.jpeg](../assets/IMG_4721_1715959525854_0.jpeg)
 					  logseq.order-list-type:: number
-				- **Vents dangerously moldy**:
+				- **Vents dangerously moldy**: The Broan wall fan is not only weak in performance but also filled with dust and mold.
 				  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
