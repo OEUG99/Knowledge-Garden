@@ -38,4 +38,4 @@
 		- ### Bedroom
 			- The light switch does not function.
 			- The window does not slide open properly. Additionally, it's screen has holes in it, and its curtain is unable to put up.
-			- The fan makes a constant grinding noise
+			- The fan makes a constant grinding noise when on its highest setting. Additionally the chain which changes the fan
