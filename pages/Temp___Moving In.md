@@ -14,7 +14,7 @@
 					  logseq.order-list-type:: number
 						- ![IMG_4720.jpeg](../assets/IMG_4720_1715959403266_0.jpeg)
 						  logseq.order-list-type:: number
-						- We also are exhibiting coughing
+						- We also are exhibiting coughing. This is important to me as I was not coughing before moving in, and I am IGA immunocompromised.
 						  logseq.order-list-type:: number
 					- **Improper Sealing**: The unit is not adequately sealed from the outside environment. A sizable gap exists beneath the AC unit, providing easy access for rodents and other pests. 
 					  logseq.order-list-type:: number
