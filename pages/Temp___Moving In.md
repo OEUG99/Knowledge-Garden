@@ -37,4 +37,5 @@
 				- ![image.png](../assets/image_1715960711665_0.png)
 		- ### Bedroom
 			- The light switch does not function.
-			-
+			- The window does not slide open properly. Additionally, it's screen has holes in it, and its curtain is unable to put up.
+			- The fan makes a constant grinding noise
