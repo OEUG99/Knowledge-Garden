@@ -5,6 +5,7 @@
 		- May 16, 2024
 	- ## Known Issues
 		- ### Living Room
+		  collapsed:: true
 			- The AC Unit has the following issues:
 				- Not properly circulating air throughout the apartment. (Bedroom has intense heat, even when windows blacked out.)
 				  logseq.order-list-type:: number
@@ -26,5 +27,11 @@
 					  logseq.order-list-type:: number
 				- The light switch in the living room does not function properly.
 				  logseq.order-list-type:: number
-				- The living room window can not be open, and the blinds do not work properly
+				- The living room window can not be open, and the blinds do not work properly.
 				  logseq.order-list-type:: number
+				- Additionally, as per our lease, we have to clean the HVAC unit, but we were provided no instructions on how to do so. Any help mitigating this so we can start our monthly filter cleaning will be appreciated. 
+				  logseq.order-list-type:: number
+			- logseq.order-list-type:: number
+		- ### Kitchen
+			- A hole the size of two fists is present to the left of the oven, where the cabinet trimming should be.  There appears to be food and other stuff thrown back there that we are unable to access, next to what appears to be our water tank.
+				-
