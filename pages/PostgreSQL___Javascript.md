@@ -34,4 +34,5 @@
 	    }
 	  });
 	  ```
+- Using async/await for better readability and asynchronous control flow.
 	-
