@@ -10,4 +10,15 @@
 	    port: 5432,
 	  });
 	  ```
+- You can run queries using the `pool.query` method.
+	- ```js
+	  
+	  pool.query('SELECT * FROM users', (err, res) => {
+	    if (err) {
+	      console.error('Error executing query', err.stack);
+	    } else {
+	      console.log('Query result:', res.rows);
+	    }
+	  });
+	  ```
 	-

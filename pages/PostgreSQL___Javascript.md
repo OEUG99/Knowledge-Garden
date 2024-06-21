@@ -10,5 +10,28 @@
 	    port: 5432,
 	  });
 	  ```
-	- You can run queries using the `pool.query` method.
-		-
+- You can run queries using the `pool.query` method.
+	- ```js
+	  
+	  pool.query('SELECT * FROM users', (err, res) => {
+	    if (err) {
+	      console.error('Error executing query', err.stack);
+	    } else {
+	      console.log('Query result:', res.rows);
+	    }
+	  });
+	  ```
+- Parameterized queries help prevent SQL injection by using placeholders for values.
+	- ```js
+	  const text = 'INSERT INTO users(name, email) VALUES($1, $2) RETURNING *';
+	  const values = ['John Doe', 'john.doe@example.com'];
+	  
+	  pool.query(text, values, (err, res) => {
+	    if (err) {
+	      console.error('Error executing query', err.stack);
+	    } else {
+	      console.log('Inserted row:', res.rows[0]);
+	    }
+	  });
+	  ```
+	-
