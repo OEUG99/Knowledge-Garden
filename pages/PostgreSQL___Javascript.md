@@ -49,4 +49,21 @@
 	  };
 	  ```
 - Transactions ensure a series of database operations either all succeed or all fail.
+	- ```js
+	  const performTransaction = async () => {
+	    const client = await pool.connect();
+	    try {
+	      await client.query('BEGIN');
+	      const res1 = await client.query('INSERT INTO users(name, email) VALUES($1, $2) RETURNING *', ['John Doe', 'john.doe@example.com']);
+	      const res2 = await client.query('INSERT INTO users(name, email) VALUES($1, $2) RETURNING *', ['Jane Doe', 'jane.doe@example.com']);
+	      await client.query('COMMIT');
+	      console.log('Transaction successful:', res1.rows[0], res2.rows[0]);
+	    } catch (err) {
+	      await client.query('ROLLBACK');
+	      console.error('Transaction error:', err.stack);
+	    } finally {
+	      client.release();
+	    }
+	  };
+	  ```
 	-
