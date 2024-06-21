@@ -34,4 +34,18 @@
 	    }
 	  });
 	  ```
+- Using async/await for better readability and asynchronous control flow.
+	- ```js
+	  const insertUser = async (name, email) => {
+	    const text = 'INSERT INTO users(name, email) VALUES($1, $2) RETURNING *';
+	    const values = [name, email];
+	  
+	    try {
+	      const res = await pool.query(text, values);
+	      console.log('Inserted row:', res.rows[0]);
+	    } catch (err) {
+	      console.error('Error executing query', err.stack);
+	    }
+	  };
+	  ```
 	-
