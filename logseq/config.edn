@@ -418,7 +418,8 @@
  :file/name-format :triple-lowbar
  :editor/preferred-pasting-file? true
  :graph/settings {:orphan-pages? true
- :excluded-pages? false}
+ :excluded-pages? false
+ :journal? true}
  :zotero/settings-v2 {"default" {:type-id "Logseq"}
  "Zoro" {}}
  :feature/enable-flashcards? true

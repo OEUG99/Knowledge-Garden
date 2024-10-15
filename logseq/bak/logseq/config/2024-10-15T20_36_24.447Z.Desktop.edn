@@ -417,8 +417,9 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :editor/preferred-pasting-file? true
- :graph/settings {:orphan-pages? true
+ :graph/settings {:orphan-pages? false
  :excluded-pages? false}
  :zotero/settings-v2 {"default" {:type-id "Logseq"}
  "Zoro" {}}
- :feature/enable-flashcards? false}
+ :feature/enable-flashcards? true
+ :feature/enable-whiteboards? true}
