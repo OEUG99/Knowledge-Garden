@@ -45,7 +45,6 @@
 				- The window does not slide open properly. Additionally, it's screen has holes in it, and its curtain is unable to put up.
 				- The fan makes a constant grinding noise when on its highest setting. Additionally the chain which changes the fan speed keeps breaking off. This is easy to fix every time it happens but it is rather annoying.
 			- ### Bathroom
-			  collapsed:: true
 				- Tub not properly training; slow.
 				- Tub does not seem properly sealed to the floor, allowing for flexing which may lead to damage over time; but currently remains functional minus poor drainage.
 				- The bathroom door does not properly seal unless an excess of force is applied.
