@@ -1,4 +1,5 @@
-tags:: [[Programming]]
+tags:: [[Programming Language]] [[Programming]]
+
 	- # Binding operator:
 	  heading:: 1
 		- Check if `<pattern>` match for `<string>`
