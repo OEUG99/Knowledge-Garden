@@ -117,7 +117,6 @@
 				-
 			-
 	- ## Risk Classification
-	  collapsed:: true
 		- The potential impact of a security incident is usually categories in terms of risk.
 		- What are the types of risk? #card
 		  collapsed:: true
@@ -154,7 +153,6 @@
 				- An employee losing a laptop provides a strategic risk if that laptop contains the only copy of information, as this will delay development. It also poses a strategic risk because it gives your competitors time to make developments and get to market first.
 		- #### Operational Risk
 		  id:: 65b8094a-697c-467a-ad8e-4ff6dd04c087
-		  collapsed:: true
 			- **Operational Risk** is a risk to the organization's ability to carry out its day-to-day functions.
 				- it may slow down daily operations.
 				- Operational Risk and ((65b8004b-7ae0-463c-a6e1-ba85c1db193b)) are closely related.
