@@ -35,29 +35,30 @@
 		- TTL (Time to Live): Determines how long a record remains cached.
 	- ## DNS Threats:
 		- 1. DNS Spoofing/Poisoning:
-		- Attackers inject fake DNS records into the cache of a resolver, redirecting traffic to malicious sites.
-	- 2. DNS Tunneling:
-		- A method of bypassing firewalls by encoding information within DNS queries.
-		- Since DNS is vital, this is a sneaky way to transmit data.
-		- Tool Example: DNSCAT2 for command and control.
-		- Use case: Can be used as a VPN to bypass captive portals since auth servers aren’t typically blocked.
-	- Detecting Tunneling:
-		- Use security onion and other SIEM tools.
-	- Defense:
-		- DNS filtering but limited by filter lists.
-		- OpenDNS filters as an example.
-	- DDoS on DNS:
-		- Attackers overwhelm DNS servers with massive traffic, disrupting services.
-	- DNS Hijacking:
-		- Attackers redirect DNS queries by compromising DNS settings at the client, ISP, or domain registrar level.
-	- Typo-Squatting:
-		- Related but not entirely a DNS issue.
-		- DNS filtering can help prevent redirects from similar names.
-	- Cache Poisoning:
-		- Manipulate the cache of a DNS resolver to serve incorrect IP addresses.
-	- Domain Generation Algorithms:
-		- Explained earlier with tunneling, this is essentially the same thing but the algorithm name is used in malware.
-	- DNSSEC (DNS Security Extension):
-		- Adds a layer of authentication to DNS by using cryptographic signatures.
-		- Ensures data integrity and authenticity but does not encrypt DNS traffic.
-		- This prevents spoofing like DNS cache poisoning.
+			- Attackers inject fake DNS records into the cache of a resolver, redirecting traffic to malicious sites.
+		- 2. DNS Tunneling:
+			- A method of bypassing firewalls by encoding information within DNS queries.
+			- Since DNS is vital, this is a sneaky way to transmit data.
+			- Tool Example: DNSCAT2 for command and control.
+			- Use case: Can be used as a VPN to bypass captive portals since auth servers aren’t typically blocked.
+	- ## Threat Mitigation
+		- Detecting Tunneling:
+			- Use security onion and other SIEM tools.
+		- Defense:
+			- DNS filtering but limited by filter lists.
+			- OpenDNS filters as an example.
+		- DDoS on DNS:
+			- Attackers overwhelm DNS servers with massive traffic, disrupting services.
+		- DNS Hijacking:
+			- Attackers redirect DNS queries by compromising DNS settings at the client, ISP, or domain registrar level.
+		- Typo-Squatting:
+			- Related but not entirely a DNS issue.
+			- DNS filtering can help prevent redirects from similar names.
+		- Cache Poisoning:
+			- Manipulate the cache of a DNS resolver to serve incorrect IP addresses.
+		- Domain Generation Algorithms:
+			- Explained earlier with tunneling, this is essentially the same thing but the algorithm name is used in malware.
+		- DNSSEC (DNS Security Extension):
+			- Adds a layer of authentication to DNS by using cryptographic signatures.
+			- Ensures data integrity and authenticity but does not encrypt DNS traffic.
+			- This prevents spoofing like DNS cache poisoning.
