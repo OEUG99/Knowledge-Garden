@@ -10,7 +10,7 @@ id:: 6759bee7-0336-4a99-be52-8a5f4f80c2a4
 			- Encryption
 			- Compression
 			- Translation
-	- ### #5 - Session Layer
+	- ### # 5 - Session Layer
 		- Responsible for opening and closing communication between two devices.
 	- ### # 4 - Transport Layer
 		- Responsible for end-to-end communication between devices.
