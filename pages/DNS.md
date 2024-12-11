@@ -1,15 +1,15 @@
 # What is DNS?
 	- DNS translates human readable domain names into machine
 	  readable IP addresses.
-	- The DNS Query Process:
+	- ## The DNS Query Process:
 	  1. Browser Cache
 	  2. Operating System Cache
 	  3. Recursive Resolver:
 		- Acts as an intermediary fetching DNS info on behalf of the client.
-		  4. Root Name Server:
+	- 4. Root Name Server:
 		- The resolver from step 3 queries to a root name server.
 		- The query doesn’t return the IP, instead, it directs to the appropriate TLD name server based on the extension (.com).
-		  5. TLD Name Server:
+	- 5. TLD Name Server:
 		- Directs the resolver to the authoritative name server responsible for the specific domain.
 		  6. Authoritative Name Server:
 		- Has the actual DNS records for the domain.
