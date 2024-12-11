@@ -6,5 +6,7 @@
 	- ##  Company & Culture
 		- TODO migrate over paper notes on this topic. It will be useful for coming up with meaningful questions to ask during the second interview.
 	- ## Networking
-		- ### OSI Model
-			- [[OSI Model]]
+		- ### Navigation
+			- [[OSI Model]] - Covers the OSI Model in depth.
+			- [[DNS]] - Covers DNS in depth, as well as attack vectors, and threat mitigation strategies.
+			-
