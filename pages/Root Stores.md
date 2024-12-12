@@ -11,4 +11,4 @@
 	- Windows' root store -> Microsoft
 	- Chrome's root store -> Google
 - ## Importance
-- This is an integral part of validating SSL certificates for websites.
+- This is an integral part of validating [[SSL-TLS]] certificates for websites.
