@@ -1,0 +1,37 @@
+# SSL/TLS
+- **SSL/TLS** is a cryptographic protocol that provides secure communication over the internet.
+- It involves **C.I.A**:
+	- **Confidentiality**
+	- **Integrity**
+	- **Authentication**
+- ## How SSL/TLS Works
+- **TLS Handshake**: The process of setting up a secure communication channel between the client (e.g., browser) and the server.
+	- The point is to:
+		- Agree on encryption parameters.
+		- Authenticate the server.
+		- Generate a shared session key for encrypting data.
+- ## TLS Handshake Step by Step
+- ### 1. Client Hello
+	- The client starts the handshake by sending:
+		- Supported encryption algorithms
+		- Random data used for creating session keys
+		- TLS version
+	- Essentially, this starts negotiating.
+- ### 2. Server Hello
+	- The server picks an encryption algorithm that works and sends:
+		- Random data (used with client data for key generation)
+- ### 3. Server Certificate
+	- The server sends its **digital certificate**, issued by a trusted Certificate Authority (CA).
+	- The certificate contains:
+		- **Server's public key**
+		- **Domain name** (to verify identity)
+		- **CA's digital signature**
+	- This proves the server's identity to the client.
+- ### 4. Key Exchange
+	- The client generates a **pre-master secret** (random number) and encrypts it with the server's **public key** (from the certificate).
+	- The encrypted data is sent to the server.
+	- This allows the client and server to securely derive a shared session key that no one can compute, even if they intercept the handshake.
+- ### 5. Session Key Generation
+	- Both the client and server use the pre-master key and random numbers to compute the **session key**, which will be used for **symmetric encryption**.
+- ### 6. Handshake Completion
+	- Both parties send **"Finished"** messages encrypted with the session key to verify that encryption/decryption is working.
