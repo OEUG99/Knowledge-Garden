@@ -15,5 +15,5 @@
 			- [[SSL-TLS]] - Comprehensive explanation to SSL/TLS (which powers a lot of stuff like HTTPS, SFTP, etc.)
 			- [[RPC]] - The RPC protocol, how it works, threats, and threat mitigation strategies.
 			- [[CAM Tables]] - An explanation to Cam Tables, a data structure used in network switches.  Also their vulnerabilities.
-			-
+			- [[Root Stores]] - Discussion on the importance of Root stores, and their role they play for SSL/TLS.
 			-
