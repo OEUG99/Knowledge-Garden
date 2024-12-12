@@ -1,0 +1,14 @@
+# Border Gateway Protocol (BGP)
+- **BGP** is the core routing protocol of the internet.
+- ## Key Features:
+- Policy-based routing.
+- Scalability.
+- ## How it works:
+- ## **BGP speakers**
+	- BGP speakers establish sessions (peering) with each other over TCP (Port 179).
+- ## Route Advertisement:
+	- Routers advertise routes to their peers when using BGP.
+- ## Route Withdrawal:
+	- If a network is unreachable, BGP announces its withdrawal.
+- ## Route Aggregation:
+	- Used to reduce the number of announced routes.
