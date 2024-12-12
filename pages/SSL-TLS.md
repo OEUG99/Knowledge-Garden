@@ -1,6 +1,6 @@
 # SSL/TLS
 - **SSL/TLS** is a cryptographic protocol that provides secure communication over the internet.
-- It involves **C.I.A**:
+- It fully implements **C.I.A**:
 	- **Confidentiality**
 	- **Integrity**
 	- **Authentication**
