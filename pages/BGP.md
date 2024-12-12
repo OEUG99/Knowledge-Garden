@@ -4,10 +4,10 @@
 	- Policy-based routing.
 	- Scalability.
 	- ### Two types of BGP:
-	  1. **External BGP (eBGP)**:
-		- Between routers in different Autonomous Systems (ASes).
-	- 2. **Internal BGP (iBGP)**:
-		- Within the same Autonomous System (AS).
+		- 1. **External BGP (eBGP)**:
+			- Between routers in different Autonomous Systems (ASes).
+		- 2. **Internal BGP (iBGP)**:
+			- Within the same Autonomous System (AS).
 - ## How it works:
 	- ### 1 - BGP speakers
 		- BGP speakers establish sessions (peering) with each other over TCP (Port 179).
