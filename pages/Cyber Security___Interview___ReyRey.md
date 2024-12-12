@@ -4,7 +4,7 @@
 		- Because details regarding architecture/implementation were sparse, I also looked at what companies in the same field are doing to help with my review.
 - # Topic of Review
 	- ##  Company & Culture
-		- TODO migrate over paper notes on this topic. It will be useful for coming up with meaningful questions to ask during the second interview.
+		- (ADD) is a division of Reynolds and Reynolds that provides fast, accurate, real-time access to motor vehicle, vessel and driver license records.
 	- ## Networking
 		- ### Navigation
 			- [[OSI Model]] - Covers the OSI Model in depth.
