@@ -10,6 +10,7 @@
 			- [[OSI Model]] - Covers the OSI Model in depth.
 			- [[DNS]] - Covers DNS in depth, as well as attack vectors, and threat mitigation strategies.
 			- [[ARP]] - Everything you could ever want to know about ARP
-			- [[DHCP]]
+			- [[DHCP]] - A
+			- [[BGP]] - Explains how the internet really works, how IPs get resolved!
 			-
 			-
