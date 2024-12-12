@@ -18,5 +18,5 @@
 			- [[Root Stores]] - Discussion on the importance of Root stores, and their role they play for SSL/TLS.
 			- [[Broadcast Domains & Collision Domains]] - Useful to understand how Layer 2 of the OSI Model works.
 		- ### Web Application Security
-			- [[Same-Origin Policy (SOP)]] - An i
+			- [[Same-Origin Policy (SOP)]] - An introduction and outline of SOP.
 		-
