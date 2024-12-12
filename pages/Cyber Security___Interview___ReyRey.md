@@ -5,8 +5,9 @@
 - # Topic of Review
 	- ##  Company & Culture
 		- (ADD) is a division of Reynolds and Reynolds that provides fast, accurate, real-time access to motor vehicle, vessel and driver license records.
-	- ## Networking
-		- ### Navigation
+	- ## Technical
+		- ### Networking
+		  collapsed:: true
 			- [[OSI Model]] - Covers the OSI Model in depth.
 			- [[DNS]] - Covers DNS in depth, as well as attack vectors, and threat mitigation strategies.
 			- [[ARP]] - Everything you could ever want to know about ARP
@@ -18,3 +19,4 @@
 			- [[Root Stores]] - Discussion on the importance of Root stores, and their role they play for SSL/TLS.
 			- [[Broadcast Domains & Collision Domains]] - Useful to understand how Layer 2 of the OSI Model works.
 			-
+		-
