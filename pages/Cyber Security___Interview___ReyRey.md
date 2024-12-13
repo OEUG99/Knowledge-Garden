@@ -1,7 +1,7 @@
 # ReyRey (ADD) - Interview Review
 - ##  Company & Culture
 	- (ADD) is a division of Reynolds and Reynolds that provides fast, accurate, real-time access to motor vehicle, vessel and driver license records.
-	-
+	- TODO transfer over paper notes on both Rey Rey and ADD
 - ## Technical Material
 	- ### Networking
 		- [[OSI Model]] - Covers the OSI Model in depth.
