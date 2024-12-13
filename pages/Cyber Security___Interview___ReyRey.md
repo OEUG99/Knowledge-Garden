@@ -19,4 +19,3 @@
 		- [[Snort]] - An IDS/IPS system.
 	- ### Web Application Security
 		- [[Same-Origin Policy (SOP)]] - An introduction and outline of SOP.
-	-
