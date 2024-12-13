@@ -1,7 +1,5 @@
 # Interview Review
 	- ##  Preface
-		- I initially applied for a DevOps position; however, I have been asked to interview for Cyber Security role. I looked into the Job description to see if there would be any good topics to focus on for review, I also then attempted to research what the companies architecture looks like so I could review related materials.
-		- Because details regarding architecture/implementation were sparse, I also looked at what companies in the same field are doing to help with my review.
 - # Topic of Review
 	- ##  Company & Culture
 		- (ADD) is a division of Reynolds and Reynolds that provides fast, accurate, real-time access to motor vehicle, vessel and driver license records.
