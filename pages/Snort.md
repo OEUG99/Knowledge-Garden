@@ -12,5 +12,5 @@
 - ### Snort Rule Syntax
 	- **Structure**:
 	  ```plaintext
-	  Action | Protocol | Source Address/Source Port -> Direction | Destination Address/Destination Port | Rule Options
+	  Action | Protocol | Source Address/Source Port ->/Direction | Destination Address/Destination Port | Rule Options
 	  ```
