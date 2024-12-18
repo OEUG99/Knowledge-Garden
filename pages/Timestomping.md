@@ -1,4 +1,5 @@
--
+Tags:: [[Cyber Security]] [[malware]]
+
 - Timestomping is a method used by attackers to alter a file's timestamps, such as when it was last modified, accessed, created, or changed.
 	- Think of timestamps as the "stamps" that record the different points in time when something happened to a file.
 - By manipulating these stamps, attackers can make it difficult for others to detect unauthorized activity on a file or system.
