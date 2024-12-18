@@ -1,3 +1,31 @@
 tags:: #[[Cyber Security]]
 
--
+- # Pyramid of Pain
+	- Definition
+		- The Pyramid of Pain is a concept created by David J. Bianco to illustrate the impact of various indicators of compromise (IOCs) on an adversary when detected or mitigated.
+		- The pyramid highlights the difficulty for adversaries to operate based on the type of IOC detected.
+	- Levels of the Pyramid (Bottom to Top)
+		- **1. Hash Values**
+			- Description: Specific file identifiers (e.g., MD5, SHA256).
+			- Adversary Impact: Minimal effort to change hashes by re-compiling or slightly modifying files.
+		- **2. IP Addresses**
+			- Description: Network addresses used by attackers.
+			- Adversary Impact: Moderate effort to switch IPs but trivial for those with dynamic or large infrastructure.
+		- **3. Domain Names**
+			- Description: Hostnames used for command-and-control (C2) or phishing.
+			- Adversary Impact: More effort needed to register and configure new domains.
+		- **4. Network/Host Artifacts**
+			- Description: Specific patterns like registry keys, file paths, or network traffic signatures.
+			- Adversary Impact: Significant effort required to modify these artifacts across their tooling.
+		- **5. Tools**
+			- Description: Custom or known utilities used by attackers.
+			- Adversary Impact: Very high effort to replace custom tools or rely on less efficient alternatives.
+		- **6. Tactics, Techniques, and Procedures (TTPs)**
+			- Description: Core behaviors and methodologies of an adversary (e.g., lateral movement, phishing).
+			- Adversary Impact: Extreme effort required as it forces a fundamental change in how attackers operate.
+	- Key Insights
+		- Higher levels of the pyramid have a greater impact on adversaries but require more effort and resources to detect.
+		- Prioritizing detection and mitigation of TTPs can cause the most disruption to attackers.
+	- Usage
+		- Helps cybersecurity teams prioritize defenses.
+		- Guides security strategy to target the most impactful areas.
