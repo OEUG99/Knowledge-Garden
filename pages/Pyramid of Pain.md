@@ -1,1 +1,3 @@
+tags:: #[[Cyber Security]]
+
 -
