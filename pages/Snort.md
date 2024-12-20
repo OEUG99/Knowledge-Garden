@@ -21,3 +21,5 @@
 	- you can target specific packets in the log via the `-n number_here` parameter. this will get all packets up until that one
 	- `-X` allows you to see more information (full packet details)
 	- snort can use BPF (https://biot.com/capstats/bpf.html) as such ` sudo snort -r snort.log.1640048004  'tcp port 80'` great for filtering specific protocol and port
+- # IDS/IPDS Mode
+	-
