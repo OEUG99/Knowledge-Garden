@@ -37,4 +37,5 @@
 			- this processes them all together, the next way we will discribe is how to process them in bulk but be able to identify which pcap in particular an alert stemmed from
 				- `--pcap-show` allows us to do that.
 					- eg: `**sudo snort -c /etc/snort/snort.conf -q --pcap-list="icmp-test.pcap http2.pcap" -A console --pcap-show**`
-		-
+- ## Snort Rules
+	-
