@@ -30,6 +30,6 @@
 - ## Investigating PCAPS with snort
 	- If you already have a PCAP file you can process it with snort.
 	- Useful for speeding up investigation process by using known patterns of threats via snort rules.
-		- `snort -r icmp-test.pcap` is an example of how to investigate a single PCAP with default options.
-		- `sudo `
+		- `sudo snort -r icmp-test.pcap` is an example of how to investigate a single PCAP with default options.
+		- `sudo snort -c /etc/snort/snrot.conf -q -r icmp-test.pcap -A console -n 10`
 		-
