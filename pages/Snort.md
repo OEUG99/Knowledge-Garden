@@ -32,4 +32,6 @@
 	- Useful for speeding up investigation process by using known patterns of threats via snort rules.
 		- `sudo snort -r icmp-test.pcap` is an example of how to investigate a single PCAP with default options.
 		- `sudo snort -c /etc/snort/snort.conf -q -r icmp-test.pcap -A console -n 10`
+		- `--pcap-list` paramter can be used to investigate multiple PCAPs
+			- `**sudo snort -c /etc/snort/snort.conf -q --pcap-list="icmp-test.pcap http2.pcap" -A console -n 10**`
 		-
