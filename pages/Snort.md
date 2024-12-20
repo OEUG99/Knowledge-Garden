@@ -24,4 +24,4 @@
 - ## IDS/IPDS Mode
 	- `sudo snort -c /etc/snort/snort.conf -A console`: console mode provides fast style alerts on console screen
 	- `sudo snort -c /etc/snort/snort.conf -A cmg`: basic header details with payload in the hex and text format.
-	-
+	- `sudo snort -c /etc/snort/snort.conf -A fast`: Fast mode provides alert messages, timestamps, and source and destination IP addresses.
