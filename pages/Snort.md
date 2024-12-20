@@ -30,4 +30,4 @@
 - ## Investigating PCAPS with snort
 	- If you already have a PCAP file you can process it with snort.
 	- Useful for speeding up investigation process by using known patterns of threats via snort rules.
-	-
+		- `snort -r icmp-test.pcap`
