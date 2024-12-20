@@ -28,4 +28,5 @@
 	- `sudo snort -c /etc/snort/snort.conf -A full`: Full alert mode provides all possible information about the alert (no console output in this mode)
 	- `sudo snort -c /etc/snort/snort.conf -A none` disables alerting but creates logs fopr traffic and a log file in binary format, still no console mode
 - ## Investigating PCAPS with snort
-	- If you already have a PCAP
+	- If you already have a PCAP file you can process it with snort.
+	- Useful for
