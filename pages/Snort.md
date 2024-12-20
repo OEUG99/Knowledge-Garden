@@ -26,4 +26,4 @@
 	- `sudo snort -c /etc/snort/snort.conf -A cmg`: basic header details with payload in the hex and text format.
 	- `sudo snort -c /etc/snort/snort.conf -A fast`: Fast mode provides alert messages, timestamps, and source and destination IP addresses.
 	- `sudo snort -c /etc/snort/snort.conf -A full`: Full alert mode provides all possible information about the alert (no console output in this mode)
-	-
+	- `sudo snort -c /etc/snort/snort.conf -A full`
