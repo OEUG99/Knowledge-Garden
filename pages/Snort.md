@@ -16,10 +16,10 @@
 	  ```
 - *Snort has three primary uses: As a packet sniffer like tcpdump, as a packet logger — which is useful for network traffic debugging, or it can be used as a full-blown network intrusion prevention system*
 -
-- # # Logger Mode:
+- ## Logger Mode:
 	- `snort -l` to log and alert to output directory
 	- you can target specific packets in the log via the `-n number_here` parameter. this will get all packets up until that one
 	- `-X` allows you to see more information (full packet details)
 	- snort can use BPF (https://biot.com/capstats/bpf.html) as such ` sudo snort -r snort.log.1640048004  'tcp port 80'` great for filtering specific protocol and port
-- # IDS/IPDS Mode
+- ## IDS/IPDS Mode
 	-
