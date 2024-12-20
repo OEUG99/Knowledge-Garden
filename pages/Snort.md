@@ -14,3 +14,4 @@
 	  ```plaintext
 	  Action | Protocol | Source Address/Source Port ->/Direction | Destination Address/Destination Port | Rule Options
 	  ```
+- *Snort has three primary uses: As a packet sniffer like tcpdump, as a packet logger — which is useful for network traffic debugging, or it can be used as a full-blown network intrusion prevention system*
