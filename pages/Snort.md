@@ -18,4 +18,5 @@
 -
 - # # Logger Mode:
 	- `snort -l` to log and alert to output directory
-	-
+	- you can target specific packets in the log via the `-n number_here` parameter.
+	- `-X` allows you to see more information (full packet details)
