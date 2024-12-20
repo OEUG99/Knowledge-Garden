@@ -34,4 +34,6 @@
 		- `sudo snort -c /etc/snort/snort.conf -q -r icmp-test.pcap -A console -n 10`
 		- `--pcap-list` paramter can be used to investigate multiple PCAPs
 			- `**sudo snort -c /etc/snort/snort.conf -q --pcap-list="icmp-test.pcap http2.pcap" -A console -n 10**`
-			- this processes them all together, the next way we will discribe is how to process them in bulk but be able to identify which pcap
+			- this processes them all together, the next way we will discribe is how to process them in bulk but be able to identify which pcap in particular an alert stemmed from
+				- `--pcap-show` allows us to do that.
+					-
