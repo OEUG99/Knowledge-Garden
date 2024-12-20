@@ -23,7 +23,7 @@
 	- snort can use BPF (https://biot.com/capstats/bpf.html) as such ` sudo snort -r snort.log.1640048004  'tcp port 80'` great for filtering specific protocol and port
 - ## IDS/IPDS Mode
 	- `sudo snort -c /etc/snort/snort.conf -A console`: console mode provides fast style alerts on console screen
-	- `sudo snort -c /etc/snort/snort.conf -A cmg`: basic header details with payload in the hex and text format.
-	- `sudo snort -c /etc/snort/snort.conf -A fast`: Fast mode provides alert messages, timestamps, and source and destination IP addresses.
+	- `sudo snort -c /etc/snort/snort.conf -A cmg`: basic header details with payload in the hex and text format. (has console mode on)
+	- `sudo snort -c /etc/snort/snort.conf -A fast`: Fast mode provides alert messages, timestamps, and source and destination IP addresses. (no console)
 	- `sudo snort -c /etc/snort/snort.conf -A full`: Full alert mode provides all possible information about the alert (no console output in this mode)
 	- `sudo snort -c /etc/snort/snort.conf -A none` disables alerting but creates logs fopr traffic and a log file in binary format, still no console mode
