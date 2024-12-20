@@ -27,3 +27,4 @@
 	- `sudo snort -c /etc/snort/snort.conf -A fast`: Fast mode provides alert messages, timestamps, and source and destination IP addresses. (no console)
 	- `sudo snort -c /etc/snort/snort.conf -A full`: Full alert mode provides all possible information about the alert (no console output in this mode)
 	- `sudo snort -c /etc/snort/snort.conf -A none` disables alerting but creates logs fopr traffic and a log file in binary format, still no console mode
+-
