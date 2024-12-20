@@ -17,4 +17,5 @@
 - *Snort has three primary uses: As a packet sniffer like tcpdump, as a packet logger — which is useful for network traffic debugging, or it can be used as a full-blown network intrusion prevention system*
 -
 - # # Logger Mode:
+	- `snort -l` to log and alert to output directory
 	-
