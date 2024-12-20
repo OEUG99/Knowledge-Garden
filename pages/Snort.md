@@ -39,4 +39,6 @@
 					- eg: `**sudo snort -c /etc/snort/snort.conf -q --pcap-list="icmp-test.pcap http2.pcap" -A console --pcap-show**`
 - ## Snort Rules
 	- ![image.png](../assets/image_1734737697255_0.png)
-	-
+		- Directions:
+			- **->** Source to destination flow.
+			- **<>** Bidirectional flow
