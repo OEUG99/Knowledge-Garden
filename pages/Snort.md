@@ -41,4 +41,5 @@
 	- ![image.png](../assets/image_1734737697255_0.png)
 		- Directions:
 			- **->** Source to destination flow.
-			- **<>** Bidirectional flow
+			- **<>** Bidirectional flow.
+	-
