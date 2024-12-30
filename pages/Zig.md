@@ -212,5 +212,9 @@
 			- functions often return error unions, we can catch errors and handle them doing what is called **payload capturing**
 				- example:
 				  ```zig
-				  
+				  failingFunction() catch |err| {
+				          try expect(err == error.Oops);
+				          return;
+				      };
 				  ```
+			-
