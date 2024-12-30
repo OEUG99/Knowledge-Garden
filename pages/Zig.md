@@ -198,4 +198,5 @@
 				  ```
 					-
 					- Here, `FileOpenError` is a **superset** of `AllocationError`, because `OutOfMemory` is part of both error sets.
+			- An error set type and another type can be combined with the `!` operator to form an error union type. Values of these types may be an error value or a value of the other type.
 			-
