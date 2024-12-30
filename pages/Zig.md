@@ -174,4 +174,11 @@
 			  ```
 		- When multiple defers are used in the same code block, upon statement execution, the defers are then executed in **reverse order.**
 			- This reflects/mimics the behavior of the stack for resource management, and uses a LIFO (Last in, First Out) paradigm.
-			-
+			- Example:
+			  ```zig
+			          defer x += 2;  // Deferred action 1
+			          defer x /= 2;  // Deferred action 2
+			  
+			  // action 2 will run before action 1
+			  ```
+		-
