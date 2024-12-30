@@ -147,5 +147,5 @@
 			      println!("Discounted Price: {}", new_price);    // Outputs: 80
 			  }
 			  ```
-		-
+		- It is also possible to use recursion, though when recursion is used
 		- Variables are snake_case, functions are camelCase
