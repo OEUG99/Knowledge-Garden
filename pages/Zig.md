@@ -107,5 +107,13 @@
 				  }
 				  ```
 			- ### Custom Step Size
-				-
+				- ```zig
+				  const std = @import("std");
+				  
+				  pub fn main() void {
+				      for (0..10:2) |i| {
+				          std.debug.print("{}\n", .{i});
+				      }
+				  }
+				  ```
 			-
