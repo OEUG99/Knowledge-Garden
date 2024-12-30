@@ -181,4 +181,4 @@
 			  
 			  // action 2 will run before action 1
 			  ```
-		-
+		- Defers are useful for clearing up resources when they are no longer needed. I
