@@ -24,4 +24,4 @@
 			  const length = array.len; // 5
 			  ```
 	- ## If-Expressions
-		-
+		- If statements in zig work as you would expect
