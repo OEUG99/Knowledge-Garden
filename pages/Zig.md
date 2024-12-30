@@ -147,5 +147,6 @@
 			      println!("Discounted Price: {}", new_price);    // Outputs: 80
 			  }
 			  ```
-		- It is also possible to use recursion, though when recursion is used
+		- It is also possible to use recursion, though when recursion is used the compiler is no longer able to determine the maximum stack size, which may result in unstable behavior and potential buffer overflows.
+			-
 		- Variables are snake_case, functions are camelCase
