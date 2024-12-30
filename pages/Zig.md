@@ -116,4 +116,15 @@
 				      }
 				  }
 				  ```
-			-
+			- ### Iterating With Index
+				- ```zig
+				  const std = @import("std");
+				  
+				  pub fn main() void {
+				      const arr = [_]i32{1, 2, 3, 4};
+				      for (arr) |val, idx| {
+				          std.debug.print("index: {}, value: {}\n", .{idx, val});
+				      }
+				  }
+				  
+				  ```
