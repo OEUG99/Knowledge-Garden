@@ -198,4 +198,4 @@
 				  ```
 					-
 					- Here, `FileOpenError` is a **superset** of `AllocationError`, because `OutOfMemory` is part of both error sets.
-					-
+	-
