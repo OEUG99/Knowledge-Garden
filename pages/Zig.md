@@ -129,6 +129,22 @@
 				  ```
 	- ## Functions
 		- All function arguments are immutable. if a copy is needed the user must explicityly make one.
-		- variables are snake_case, funcitons are camelCase
-		-
-		-
+			- example:
+			  ```zig
+			  fn calculateNewPrice(price: u32, discount: u32) u32 {
+			      let mut discounted_price = price; // Make a local mutable copy
+			      discounted_price -= discount;    // Modify the local copy
+			      return discounted_price;         // Return the new value
+			  }
+			  
+			  fn main() {
+			      let original_price = 100; // Immutable by default
+			      let discount_amount = 20;
+			  
+			      let new_price = calculateNewPrice(original_price, discount_amount);
+			  
+			      println!("Original Price: {}", original_price); // Outputs: 100
+			      println!("Discounted Price: {}", new_price);    // Outputs: 80
+			  }
+			  ```
+		- Variables are snake_case, funcitons are camelCase
