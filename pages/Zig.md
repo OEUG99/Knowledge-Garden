@@ -172,4 +172,5 @@
 			  ```zig
 			  defer x += 2;
 			  ```
-		- When multiple defers are used in the same code block
+		- When multiple defers are used in the same code block, upon statement execution, the defers are then executed in **reverse order.**
+			-
