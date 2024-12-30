@@ -10,4 +10,6 @@
 				  const a: i32 = undefined;
 				  var b: u32 = undefined;
 				  ```
-			- Where possible, `const`
+			- Where possible, `const` values are preffered over `var`
+	- ## Arrays
+		- Arrays are denoted as `[N]T` where `N`
