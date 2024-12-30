@@ -199,4 +199,14 @@
 					-
 					- Here, `FileOpenError` is a **superset** of `AllocationError`, because `OutOfMemory` is part of both error sets.
 			- An error set type and another type can be combined with the `!` operator to form an error union type. Values of these types may be an error value or a value of the other type.
+			- Example:
+			  ```zig
+			  test "error union" {
+			      const maybe_error: AllocationError!u16 = 10;
+			      const no_error = maybe_error catch 0;
+			  
+			      try expect(@TypeOf(no_error) == u16);
+			      try expect(no_error == 10);
+			  }
+			  ```
 			-
