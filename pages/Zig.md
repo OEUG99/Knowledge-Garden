@@ -160,4 +160,9 @@
 			  }
 			  ```
 		- Variables are snake_case, functions are camelCase
+		- only in a function can values be ignored using `_`.
+			- Example:
+			  ```zig
+			  _ = 10;
+			  ```
 		-
