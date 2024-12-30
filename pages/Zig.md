@@ -221,4 +221,5 @@
 				          return;
 				      };
 				  ```
-			- the `try x` syntax is a shortcut for the `x catch |error`
+			- the `try x` syntax is a shortcut for the `x catch |error| return err`.
+			- Zig's `try` and `catch` operate completely different then try-catch in other languages.
