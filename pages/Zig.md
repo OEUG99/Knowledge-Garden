@@ -95,4 +95,15 @@
 				      }
 				  }
 				  ```
-			-
+			- ### Iterating Over an Array
+				- ```zig
+				  const std = @import("std");
+				  
+				  pub fn main() void {
+				      var arr = [_]i32{10, 20, 30, 40};
+				      for (arr) |val| {
+				          std.debug.print("{}\n", .{val});
+				      }
+				  }
+				  ```
+				-
