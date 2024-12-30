@@ -192,4 +192,10 @@
 			  };
 			  ```
 			- if one error set is a ubset of another, zig allows for error sets to be coerced into their supersets.
-				-
+				- example:
+				  ```zig
+				  const FileOpenError = error{OutOfMemory, PermissionDenied, NotFound};
+				  ```
+					-
+					- Here, `FileOpenError` is a **superset** of `AllocationError`, because `OutOfMemory` is part of both error sets.
+					-
