@@ -221,4 +221,4 @@
 				          return;
 				      };
 				  ```
-			-
+			- the `try x` syntax is a shortcut for the `x catch |error`
