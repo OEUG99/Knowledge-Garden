@@ -13,4 +13,6 @@
 			- Where possible, `const` values are preffered over `var`
 	- ## Arrays
 		- Arrays are denoted as `[N]T` where `N` is the number of elements, and `T` is the type of those elements.
-		- We can use `_` when we define an array with elements inside of it IF we want to define the size of the array based on
+		- We can use `_` when we define an array with elements inside of it IF we want to define the size of the array based on the initial number of elements.
+			- ```zig
+			  ```
