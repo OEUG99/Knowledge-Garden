@@ -6,4 +6,8 @@
 			  var y: i32 = 2;
 			  ```
 			- `const`  and `var` must always have a value. If no value can be given, the `undefined` value can be used, it coerces to any type. See example:
+				- ```zig
+				  const a: i32 = undefined;
+				  var b: u32 = undefined;
+				  ```
 				-
