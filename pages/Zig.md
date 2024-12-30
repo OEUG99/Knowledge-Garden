@@ -147,4 +147,4 @@
 			      println!("Discounted Price: {}", new_price);    // Outputs: 80
 			  }
 			  ```
-		- Variables are snake_case, funcitons are camelCase
+		- Variables are snake_case, functions are camelCase
