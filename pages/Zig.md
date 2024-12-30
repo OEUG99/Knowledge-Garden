@@ -224,4 +224,26 @@
 			- the `try x` syntax is a shortcut for the `x catch |error| return err`.
 			- Zig's `try` and `catch` operate completely different then try-catch in other languages.
 			- [`errdefer`](https://ziglang.org/documentation/master/#errdefer) works like [`defer`](https://ziglang.org/documentation/master/#defer), but only executing when the function is returned from with an error inside of the [`errdefer`](https://ziglang.org/documentation/master/#errdefer)'s block.
-			- example::
+			- example:
+			  ```zig
+			  const expect = @import("std").testing.expect;
+			  
+			  fn failingFunction() error{Oops}!void {
+			      return error.Oops;
+			  }
+			  
+			  var problems: u32 = 98;
+			  
+			  fn failFnCounter() error{Oops}!void {
+			      errdefer problems += 1;
+			      try failingFunction();
+			  }
+			  
+			  test "errdefer" {
+			      failFnCounter() catch |err| {
+			          try expect(err == error.Oops);
+			          try expect(problems == 99);
+			          return;
+			      };
+			  }
+			  ```
