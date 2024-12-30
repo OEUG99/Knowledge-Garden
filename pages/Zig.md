@@ -50,4 +50,14 @@
 			  ```
 	- ## While Loops
 		- while loops in zig have three parts - a condition, a block, and a continue expression
+			- with out a continue expression:
+			  ```zig
+			  test "while" {
+			      var i: u8 = 2;
+			      while (i < 100) {
+			          i *= 2;
+			      }
+			      try expect(i == 128);
+			  }
+			  ```
 			-
