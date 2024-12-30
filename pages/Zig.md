@@ -39,4 +39,5 @@
 			      try expect(x == 1);
 			  }
 			  ```
-		-
+		- If statements can also be used as expressions:
+			-
