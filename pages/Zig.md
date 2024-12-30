@@ -49,4 +49,5 @@
 			  }
 			  ```
 	- ## While Loops
-		-
+		- while loops in zig have three parts - a condition, a block, and a continue expression
+			-
