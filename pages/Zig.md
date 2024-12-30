@@ -128,6 +128,7 @@
 				  }
 				  ```
 	- ## Functions
-		- All function arguments are immutable. if a copy is needed the user must explicitylu make one.
+		- All function arguments are immutable. if a copy is needed the user must explicityly make one.
 		- variables are snake_case, funcitons are camelCase
+		-
 		-
