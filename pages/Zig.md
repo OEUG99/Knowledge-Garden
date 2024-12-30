@@ -20,5 +20,7 @@
 			  ```
 		- To get the size of any array, we can use the `len` field.
 			- ```zig
-			  
+			  const array = [_]u8{ 'h', 'e', 'l', 'l', 'o' };
+			  const length = array.len; // 5
 			  ```
+	-
