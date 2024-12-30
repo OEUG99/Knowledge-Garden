@@ -83,4 +83,7 @@
 			      try expect(sum == 1);
 			  }
 			  ```
-	-
+	- ## For Loops
+		- For loops are very similar to other languages in Zig.
+			- ### Simple Range Loops
+				-
