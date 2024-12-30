@@ -173,4 +173,5 @@
 			  defer x += 2;
 			  ```
 		- When multiple defers are used in the same code block, upon statement execution, the defers are then executed in **reverse order.**
-			- This reflects the way the
+			- This reflects/mimics the behavior of the stack for resource management, and uses a LIFO (Last in, First Out) paradigm.
+			-
