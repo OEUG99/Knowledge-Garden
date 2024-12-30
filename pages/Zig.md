@@ -25,4 +25,18 @@
 			  ```
 	- ## If-Expressions
 		- If statements in zig work as you would expect, except they must resolve to `bool` meaning no implicity is possible.
-			-
+			- ```zig
+			  const expect = @import("std").testing.expect;
+			  
+			  test "if statement" {
+			      const a = true;
+			      var x: u16 = 0;
+			      if (a) {
+			          x += 1;
+			      } else {
+			          x += 2;
+			      }
+			      try expect(x == 1);
+			  }
+			  ```
+		-
