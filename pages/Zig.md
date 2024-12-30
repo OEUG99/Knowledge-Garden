@@ -148,5 +148,15 @@
 			  }
 			  ```
 		- It is also possible to use recursion, though when recursion is used the compiler is no longer able to determine the maximum stack size, which may result in unstable behavior and potential buffer overflows.
-			-
+			- ```zig
+			  fn fibonacci(n: u16) u16 {
+			      if (n == 0 or n == 1) return n;
+			      return fibonacci(n - 1) + fibonacci(n - 2);
+			  }
+			  
+			  test "function recursion" {
+			      const x = fibonacci(10);
+			      try expect(x == 55);
+			  }
+			  ```
 		- Variables are snake_case, functions are camelCase
