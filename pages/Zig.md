@@ -60,4 +60,6 @@
 			      try expect(i == 128);
 			  }
 			  ```
-			-
+			- with a continue expression:
+			  ```zig
+			  ```
