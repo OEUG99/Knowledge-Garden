@@ -165,4 +165,6 @@
 			  ```zig
 			  _ = 10;
 			  ```
-	-
+	- ## Defer
+		- Defer is used to execute a statement upon exiting the current block.
+		-
