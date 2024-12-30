@@ -1,4 +1,5 @@
-## Syntax
+- much of these notes are taken from: https://zig.guide/language-basics/defer
+- ## Syntax
 	- ### Assignment
 		- You can assign with `const` or `var`, and type is defined after the variable name, as such:
 			- ```zig
