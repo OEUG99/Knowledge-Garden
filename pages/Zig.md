@@ -191,4 +191,5 @@
 			      FileNotFound,
 			  };
 			  ```
-			-
+			- if one error set is a ubset of another, zig allows for error sets to be coerced into their supersets.
+				-
