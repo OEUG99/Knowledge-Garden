@@ -19,4 +19,4 @@
 			  const b = [_]u8{'B', 'Y', 'E'};
 			  ```
 		- To get the size of any array, we can use the `len` field.
-			-
+			- ````
