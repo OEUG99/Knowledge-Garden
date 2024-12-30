@@ -86,4 +86,13 @@
 	- ## For Loops
 		- For loops are very similar to other languages in Zig.
 			- ### Simple Range Loops
-				-
+				- ```zig
+				  const std = @import("std");
+				  
+				  pub fn main() void {
+				      for (1..5) |i| {
+				          std.debug.print("{}\n", .{i});
+				      }
+				  }
+				  ```
+			-
