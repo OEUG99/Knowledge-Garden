@@ -27,6 +27,7 @@ exclude-from-graph-view:: true
   template-including-parent:: false
   heading:: 1
 - exclude-from-graph-view:: true
+  template-rev::1
   abbreviated-title::
   start::
   cover:: ![Image](    ){:height 172, :width 98}
