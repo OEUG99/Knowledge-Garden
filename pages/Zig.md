@@ -1,6 +1,7 @@
 tags:: [[Programming Language]]
 
-- much of these notes are taken from: https://zig.guide/language-basics/defer
+- ![image.png](../assets/image_1735701059603_0.png)
+- Preface: much of these notes are taken from: https://zig.guide/
 - ## Syntax
 	- ### Assignment
 	  collapsed:: true
