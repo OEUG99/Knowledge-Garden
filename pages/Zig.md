@@ -295,4 +295,12 @@ tags:: [[Programming Language]]
 			      std.debug.print("{}\n", .{result});
 			  } 
 			  ```
-			- Example of
+			- Example of a switch expression:
+			  ```zig
+			   var x: i8 = 10;
+			      x = switch (x) {
+			          -1...1 => -x,
+			          10, 100 => @divExact(x, 10),
+			          else => x,
+			      };
+			  ```
