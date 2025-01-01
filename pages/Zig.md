@@ -280,5 +280,18 @@ tags:: [[Programming Language]]
 		- Zig cases don't "fall through", like with out Switch cases work on C++.
 			- example:
 			  ```zig
+			  const std = @import("std");
 			  
+			  pub fn main() void {
+			      const number = 2;
+			  
+			      const result = switch (number) {
+			          1 => "One",
+			          2 => "Two",
+			          3 => "Three",
+			          else => "Other",
+			      };
+			  
+			      std.debug.print("{}\n", .{result});
+			  } 
 			  ```
