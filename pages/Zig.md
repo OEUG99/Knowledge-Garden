@@ -307,4 +307,4 @@ tags:: [[Programming Language]]
 			      };
 			  ```
 	- ## Runtime Safety
-		- It is recommended for developers to use the t
+		- It is recommended for developers to use the runtime safety features that zig has to offer. Zig is able to see
