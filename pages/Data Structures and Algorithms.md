@@ -1,11 +1,12 @@
 title:: Data Structures and Algorithms
-category:: [[Programming]]
--
+tags:: [[Software Engineering]]
+
 - {{query (page-property category [[Data Structures and Algorithms]])}}
   query-properties:: [:created-at :updated-at :page :category]
+  collapsed:: true
 - # Arrays and Strings
   heading:: 1
-	- ## Sliding Window #[[Two Pointers]]
+	- ## Sliding Window #[[Data Structures and Algorithms/Two Pointers]]
 	  heading:: 2
 		- Sliding window is actually implemented using two pointers.
 		- Subarrays are just a section of an array.

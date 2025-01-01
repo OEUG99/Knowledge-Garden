@@ -1,1 +1,3 @@
-- {{embed [[Tao Te Ching]]}}
+tags:: [[Religion]]
+
+-

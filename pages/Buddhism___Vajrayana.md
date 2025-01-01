@@ -1,0 +1,1 @@
+- Vajrayana Buddhism, also know as Tibetan buddhism

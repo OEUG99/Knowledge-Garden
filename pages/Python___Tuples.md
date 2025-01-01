@@ -1,5 +1,4 @@
-# What is a Tuple?
-heading:: 1
+# What is a Tuple in Python?
 	- Tuples are an ordered immutable collection of objects, which means that once a tuple is created, its elements cannot be modified.
 	- A tuple is created using parenthesis like `()`, and each element is separated by commas.
 - # Methods for Tuples:

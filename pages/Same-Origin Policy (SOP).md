@@ -1,4 +1,6 @@
-# Same-Origin Policy (SOP)
+tags:: [[Front-End Development]]
+
+- # Same-Origin Policy (SOP)
 	- ## What is SOP?
 		- SOP is a fundamental security feature implemented by web browsers to protect users from malicious websites trying to steal or manipulate sensitive data.
 		- It restricts how documents loaded from one origin can interact with another origin.

@@ -1,6 +1,7 @@
 title:: Linux
-- # Lexical Analyzers & Lex Command #unix #Linux #command #lexer #lexical_analyzer
-  heading:: 1
+tags:: [[Operating System]]
+
+- # Lexical Analyzers & Lex Command
 	- Lex is short for Lexical Analyzer.
 	- A lexical analyzer reads in a stream of characters as input and produces a sewuqences of symvols called tokens as outputs.
 		- They are useful for a variety of tasks.
@@ -23,13 +24,11 @@ title:: Linux
 		- Using a lexical-analyzer generator, such as the Lex command.
 		- Write the lexican analyzer in a convention programming languages.
 		- Write the lexican analyzer in assembly language.
-	- #### Lex Command - A Lexical Analyzer Generator. #unix #Linux #command
-	  heading:: 4
+	- #### Lex Command - A Lexical Analyzer Generator.
 		- Can link with a lex library to get a main routine.
 		- Can use as a function called yylex().
 		- Easy to interface with yacc.
-- # Make command #unix #Linux #command
-  heading:: 1
+- # Make command
 	- The make utility is used to:
 		- Automate the execution of commands for file generation
 		- Minimize the number of commands needed for rebuilding a target.

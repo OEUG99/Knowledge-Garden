@@ -1,5 +1,6 @@
 title:: Generic Programming
-category:: [[Programming]]
+category:: [[Software Engineering]]
+
 - # What is Generic Programming:
   heading:: 1
 	-

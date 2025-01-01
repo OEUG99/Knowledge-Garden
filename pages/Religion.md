@@ -1,0 +1,4 @@
+# Navigation
+	- ## [[Buddhism]]
+	- ## [[Taoism]]
+-

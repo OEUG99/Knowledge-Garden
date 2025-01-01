@@ -1,12 +1,4 @@
-cover:: ![Image](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1333578861i/67896.jpg){:height 172, :width 98}
-type:: [[Book]]
-title:: Tao Te Ching
-author:: [[@Lao Tzu]] 
-year:: 6th Century BCE
-status:: Completed
-source-url:: [Goodreads](https://www.goodreads.com/book/show/67896.Tao_Te_Ching?ac=1&from_search=true&qid=5P1V6xesqU&rank=1)
-location:: #China 
-tags:: #Taoism #Zen #Philosophy
+tags:: #Book
 
 - # Tao Te Ching Notes
 	- ## Introduction
@@ -23,7 +15,6 @@ tags:: #Taoism #Zen #Philosophy
 			- Simplicity is celebrated as a virtue in the *Tao Te Ching*. Laozi extols the beauty of living a simple, uncluttered life.
 			- By embracing simplicity in thought and action, one can cultivate inner peace and clarity.
 		- ### Yin and Yang
-		  tags:: #[[Yin and Yang]]
 			- The text frequently references the concept of Yin and Yang, symbolizing the dualistic nature of existence.
 			- Laozi emphasizes the importance of balancing opposing forces, such as light and dark, in order to maintain harmony and equilibrium.
 		- ### Humility and Gentleness

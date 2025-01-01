@@ -1,1 +1,1 @@
-tags:: [[Programming]] [[Programming Language]]
+tags:: #[[Programming Language]]

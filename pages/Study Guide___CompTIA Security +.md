@@ -2,7 +2,6 @@
 - # CompTIA Security + Exam
   Created:: [[Jan 26th, 2024]] 
   Last-Revised:: [[Jan 26th, 2024]]
-  tags:: #Graph/ISSUE/Grammar
 	- ## Introduction to the Exam
 	  collapsed:: true
 		- The CompTIA Security+ Exam is created to be vendor-neutral for all cyber-security professionals. It is a good certificate for entering into the field.

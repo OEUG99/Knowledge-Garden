@@ -1,5 +1,6 @@
 title:: Linked List
-tags:: [[Programming]] [[Data Structures and Algorithms]] [[Leetcode]] [[List]]
+tags:: [[Data Structures and Algorithms]]
+
 - # What is a linked list?
 	- A linked list is a common data structure used in computer programming to store a collection of elements, or nodes, in a linear sequences.
 	- In a linked list, each node contains two parts:
@@ -43,7 +44,7 @@ tags:: [[Programming]] [[Data Structures and Algorithms]] [[Leetcode]] [[List]]
 		        print('None')
 		  
 		  ```
-- # Below needs to be corrected #Graph/ISSUE
+- # Below needs to be corrected
 	- ((65344344-53f7-4876-9000-8f394d5114ff))
 	- #[[Linked List]]
 	  id:: 65307641-ef2b-4d75-8c60-5698c47c2f54

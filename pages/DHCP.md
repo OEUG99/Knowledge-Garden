@@ -1,4 +1,6 @@
-# Understanding DHCP
+tags:: [[Networking]]
+
+- # Understanding DHCP
 - **Dynamic Host Configuration Protocol**:
 	- Automatically assigns IP addresses, subnet masks, default gateways, etc.
 - ## DHCP Components

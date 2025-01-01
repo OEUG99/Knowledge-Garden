@@ -1,5 +1,7 @@
-# Border Gateway Protocol (BGP)
-	- **BGP** is the core routing protocol of the internet.
+tags:: [[Networking]]
+
+- # Border Gateway Protocol (BGP)
+	- **BGP** is the core routing protocol of the internet
 - ## Key Features:
 	- Policy-based routing.
 	- Scalability.

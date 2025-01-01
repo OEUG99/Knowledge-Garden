@@ -1,5 +1,7 @@
-# What is a Greedy Algorithm?
-heading:: 1
+tags:: [[Data Structures and Algorithms]]
+
+- # What is a Greedy Algorithm?
+  heading:: 1
 	- Video: https://youtu.be/HzeK7g8cD0Y
 	- **Definition:**  An algorithmic paradigm that follows the problem solving approach of making the `locally optimal` choice at each stage with the hope of finding a global optimum.
 	- ## What are it's pros and cons?

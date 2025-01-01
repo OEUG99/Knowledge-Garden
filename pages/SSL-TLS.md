@@ -1,4 +1,6 @@
-# SSL/TLS
+tags:: [[Networking]]
+
+- # SSL/TLS
 - **SSL/TLS** is a cryptographic protocol that provides secure communication over the internet.
 - It fully implements **C.I.A**:
 	- **Confidentiality**

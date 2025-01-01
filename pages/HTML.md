@@ -1,6 +1,6 @@
 title:: HTML
-category:: [[Front-End Development]]
-tags:: [[Website Development]], [[Front-End Development]], [[programming]]
+tags:: [[Front-End Development]]
+
 - # Syntax
   heading:: 1
 	- # Introduction
@@ -8,7 +8,7 @@ tags:: [[Website Development]], [[Front-End Development]], [[programming]]
 	  id:: 634244aa-459b-4b3c-bc9f-0ce2469a82bc
 		- ### [What is HTML?](https://www.w3schools.com/html/html_intro.asp)
 		  heading:: 3
-			- HTML stands for Hyper Text Markup Language
+			- HTML stands for Hyper Text [[Markup Language]]
 			- HTML is the standard markup language for creating Web pages.
 			- HTML describes the structure of a Web page.
 			- HTML consists of a series of elements.

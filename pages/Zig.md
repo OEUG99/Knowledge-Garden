@@ -1,3 +1,5 @@
+tags:: [[Programming Language]]
+
 - much of these notes are taken from: https://zig.guide/language-basics/defer
 - ## Syntax
 	- ### Assignment

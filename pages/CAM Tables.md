@@ -1,4 +1,6 @@
-# CAM Table
+tags:: [[Networking]]
+
+- # CAM Table
 	- ## Overview
 	- A type of memory used in network switches to store **MAC address-to-port mappings**.
 		- ### How it works:

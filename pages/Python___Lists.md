@@ -16,6 +16,6 @@ heading:: 1
 		- example: `exampleList.remove("a")` to remove the first "a" in the list.
 	- `pop()` – removes and return the element at the specified position in the list.
 	- `clear()` – removes all elements from the list.
-	- `sort()` – sorts the entire list alpha-numerically using [[Algorithm/TimSort]]
+	- `sort()` – sorts the entire list alpha-numerically using TimSort
 		- You can also have the parameter `reverse=True` to reverse the sorting order.
 			- example: `exampleList.sort(reverse=True)`

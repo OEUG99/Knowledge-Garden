@@ -1,4 +1,6 @@
-## Snort (IDS/IPS)
+tags:: [[Cyber Security]]
+
+- ## Snort (IDS/IPS)
 	- **Snort** is a powerful IDS (Intrusion Detection System) and IPS (Intrusion Prevention System).
 - ### Three main operational modes:
 	- 1. **Packet Sniffing**:

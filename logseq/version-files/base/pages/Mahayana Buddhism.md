@@ -1,3 +1,0 @@
-tags:: #Buddhism #Philosophy #Dharma
-
--

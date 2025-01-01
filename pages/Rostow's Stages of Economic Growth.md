@@ -1,4 +1,5 @@
-category:: [[Economics]]
+tags::  [[Economics]]
+
 - Rostow's Stages of Economic Growth is a model presented by American economist Walt Rostow in 1960. This model postulates that economic growth occurs in five basic stages, of varying length, through which all countries must pass as they advance from a traditional society into a modern, developed one. The model was developed during the Cold War era and reflects a capitalistic view of development.
 - The five stages are:
 	- ### 1. Traditional Society

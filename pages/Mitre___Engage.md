@@ -1,7 +1,5 @@
-tags::
-
-- # Mitre Engage Overview
-  Mitre Engage is a cybersecurity software platform designed to help organizations manage their cybersecurity posture, identify vulnerabilities, and streamline their security operations.
+# Mitre Engage Overview
+Mitre Engage is a cybersecurity software platform designed to help organizations manage their cybersecurity posture, identify vulnerabilities, and streamline their security operations.
 - ## Main Goals
 - ### 1. Consolidate Threat Intelligence
   

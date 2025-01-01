@@ -1,5 +1,7 @@
-# Understanding the OSI Model
-id:: 6759bee7-0336-4a99-be52-8a5f4f80c2a4
+tags:: [[Networking]]
+
+- # Understanding the OSI Model
+  id:: 6759bee7-0336-4a99-be52-8a5f4f80c2a4
 - The OSI model provides for different computer systems to communicate with each other. It consists of **7 abstract layers**, each responsible for a specific function and communicating with the layer below it.
 - ## The Layers
 	- ### # 7 - Application Layer
@@ -34,7 +36,7 @@ id:: 6759bee7-0336-4a99-be52-8a5f4f80c2a4
 			- No guarantee of delivery, order, or error-checking.
 			- Lightweight and has lower latency.
 			- Supports sending to multiple recipients more efficiently.
-	- ### #3 - Network Layer
+	- ### # 3 - Network Layer
 		- Responsible for determining how data is routed, transmitted, and received across different networks.
 		- **Functions**:
 			- Assigns logical addresses (**IP addresses**) to devices.

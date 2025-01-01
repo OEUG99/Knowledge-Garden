@@ -1,4 +1,6 @@
-# SIEM (Security Information and Event Management)
+tags:: [[Cyber Security]]
+
+- # SIEM (Security Information and Event Management)
 - ## Definition
 	- A centralized platform that helps organizations detect, analyze, and respond to security incidents in real-time.
 - ## Key Functions

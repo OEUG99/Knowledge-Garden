@@ -1,4 +1,6 @@
-# Remote Procedure Call (RPC)
+tags:: [[Networking]]
+
+- # Remote Procedure Call (RPC)
 	- ## Overview
 		- A protocol that allows a program to request a service or execute a procedure on a remote system as if it were local.
 		- Useful in distributed computing but also introduces significant security concerns.

@@ -423,4 +423,7 @@
  :zotero/settings-v2 {"default" {:type-id "Logseq"}
  "Zoro" {}}
  :feature/enable-flashcards? true
- :feature/enable-whiteboards? true}
+ :feature/enable-whiteboards? true
+ :graph/forcesettings {:link-dist 20
+ :charge-range 1200
+ :charge-strength -900}}

@@ -1,4 +1,6 @@
-# What is DNS?
+tags:: [[Networking]]
+
+- # What is DNS?
 	- DNS translates human readable domain names into machine
 	  readable IP addresses.
 	- ## The DNS Query Process:

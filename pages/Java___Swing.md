@@ -1,11 +1,10 @@
--
-- # Introduction to Java Swing
-  heading:: 1
-  id:: 6351e376-9205-4db2-8703-b12a569720f7
+# Introduction to Java Swing
+heading:: 1
+id:: 6351e376-9205-4db2-8703-b12a569720f7
 	- Notes based on [ZetCode's introduction to Java Swing.](https://zetcode.com/javaswing/) and also [begginersbook](https://beginnersbook.com/2015/07/java-swing-tutorial/)
 	- ## Java Swing & MVC:
 	  heading:: 2
-		- Java Swing is implemented with the **[[Design Patterns/Model View Controller]]** - design pattern.
+		- Java Swing is implemented with the **[[Design Pattern/Model View Controller]]** - design pattern.
 			- This means the viewing (display), the business logic/control logic, and the persistant data (the model) are separated.
 			- Information about Swing's MVC implementation can be found [here](https://www.oreilly.com/library/view/java-swing/156592455X/ch01s04.html#:~:text=Swing%20uses%20the%20model%2Dview,in%20how%20the%20component%20behaves.&text=The%20model%20encompasses%20the%20state%20data%20for%20each%20component.)
 			- Each Swing Component implements MVC

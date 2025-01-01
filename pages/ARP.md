@@ -1,4 +1,6 @@
-# What is ARP?
+tags:: [[Networking]]
+
+- # What is ARP?
 - **Address Resolution Protocol**:
 	- Fundamental networking protocol that plays a crucial role in enabling communication within local area networks (LANs).
 - It is a network protocol used for mapping an IP address to a physical MAC address.
