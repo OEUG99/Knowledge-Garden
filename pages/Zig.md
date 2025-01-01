@@ -276,4 +276,4 @@ tags:: [[Programming Language]]
 				- `anyerror` is the global error set, which due to being the superset of all error sets, can have an error from any set coerced to it. Its usage should be generally avoided.
 	- ## Switch Statements
 		- In zig, `switch` works both as a statement and an expression.
-		-
+		- **Every** possible value of the type being switched on must be accounted for, either with a specific case, or an `else` branch
