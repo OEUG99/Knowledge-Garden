@@ -249,4 +249,19 @@ tags:: [[Programming Language]]
 			      };
 			  }
 			  ```
-			-
+			- Error unions returned from a function can have their error sets inferred by not having an explicit error set. This inferred error set contains all possible errors that the function may return.
+				- example:
+				  ```zig
+				  fn createFile() !void {
+				      return error.AccessDenied;
+				  }
+				  
+				  test "inferred error set" {
+				      //type coercion successfully takes place
+				      const x: error{AccessDenied}!void = createFile();
+				  
+				      //Zig does not let us ignore error unions via _ = x;
+				      //we must unwrap it with "try", "catch", or "if" by any means
+				      _ = x catch {};
+				  }
+				  ```
