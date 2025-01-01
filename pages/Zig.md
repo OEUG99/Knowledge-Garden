@@ -309,4 +309,8 @@ tags:: [[Programming Language]]
 	- ## Runtime Safety
 		- It is recommended for developers to use the runtime safety features that zig has to offer. Zig is able to see detectable illegal behavior and cause a panic when safety is on.
 		- Runtime safety protects you against things such out of bounds indices.
-		- If you so wish though, you can disable runtime sa
+		- If you so wish though, you can disable runtime safety by using the built-in function as such in your code:
+		  ```zig
+		  @setRuntimeSafety(false);
+		  ```
+		-
