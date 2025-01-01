@@ -1,6 +1,6 @@
 tags:: [[Programming Language]]
 
-- ![image.png](../assets/image_1735701059603_0.png)
+- ![image.png](../assets/image_1735701059603_0.png){:height 268, :width 534}
 - Preface: much of these notes are taken from: https://zig.guide/
 - ## Syntax
 	- ### Assignment
@@ -193,7 +193,6 @@ tags:: [[Programming Language]]
 			  ```
 		- Defers are useful for clearing up resources when they are no longer needed. Instead of remembering to manually free them up, you can defer the clean up statement right next to the statement that allocates the resources.
 	- ## Errors
-	  collapsed:: true
 		- Errors in zig act sorta like enums, where each error in the set is a value. Zig has no exceptions.
 			- ```zig
 			  const FileOpenError = error{
@@ -275,3 +274,4 @@ tags:: [[Programming Language]]
 				  }
 				  ```
 				- `anyerror` is the global error set, which due to being the superset of all error sets, can have an error from any set coerced to it. Its usage should be generally avoided.
+				-
