@@ -314,4 +314,5 @@ tags:: [[Programming Language]]
 		  @setRuntimeSafety(false);
 		  ```
 		- ### Unreachable
-			- `unreachable` are a type of assesertion to the compiler, that tell the compiler a certain branch is impossible. If we somehow reach an unreachable, this can be caught by runtime sag
+			- `unreachable` are a type of assesertion to the compiler, that tell the compiler a certain branch is impossible. If we somehow reach an unreachable, this can be caught by runtime safety as it is treated as a detectable illegal behavior.
+			-
