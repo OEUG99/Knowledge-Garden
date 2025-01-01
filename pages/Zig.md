@@ -345,4 +345,4 @@ tags:: [[Programming Language]]
 		- Zig also has const pointers, which cannot be used to modify the referenced data. Referencing a const variable will yield a const pointer.
 		- ### Many-Item Pointers
 			- Most programs need to keep track of buffers which don't have compile-time known lengths. Many-item pointers are used for these. These act similarly to their single-item counterparts, using the syntax `[*]T` instead of `*T`.
-			-
+			- ![image.png](../assets/image_1735704290047_0.png)
