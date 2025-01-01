@@ -327,6 +327,7 @@ tags:: [[Programming Language]]
 			  }
 			  ```
 	- ## Pointers
+	  collapsed:: true
 		- Normal pointers in Zig cannot have 0 or null as a value. They follow the syntax `*T`, where `T` is the child type.
 		- Referencing is done with `&variable`, and dereferencing is done with `variable.*`.
 		- ```zig
