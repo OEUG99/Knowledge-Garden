@@ -343,3 +343,6 @@ tags:: [[Programming Language]]
 		- Trying to set a `*T` to the value 0 is detectable illegal behaviour.
 		- 0 often represents a null pointer as there is no zero location in memory.
 		- Zig also has const pointers, which cannot be used to modify the referenced data. Referencing a const variable will yield a const pointer.
+		- ### Many-Item Pointers
+			- Most programs need to keep track of buffers which don't have compile-time known lengths. Many-item pointers are used for these. These act similarly to their single-item counterparts, using the syntax `[*]T` instead of `*T`.
+			-
