@@ -193,7 +193,6 @@ tags:: [[Programming Language]]
 			  ```
 		- Defers are useful for clearing up resources when they are no longer needed. Instead of remembering to manually free them up, you can defer the clean up statement right next to the statement that allocates the resources.
 	- ## Errors
-	  collapsed:: true
 		- Errors in zig act sorta like enums, where each error in the set is a value. Zig has no exceptions.
 			- ```zig
 			  const FileOpenError = error{
