@@ -3,6 +3,7 @@ tags:: [[Programming Language]]
 - much of these notes are taken from: https://zig.guide/language-basics/defer
 - ## Syntax
 	- ### Assignment
+	  collapsed:: true
 		- You can assign with `const` or `var`, and type is defined after the variable name, as such:
 			- ```zig
 			  const x: i32 = 5;
@@ -15,6 +16,7 @@ tags:: [[Programming Language]]
 				  ```
 			- Where possible, `const` values are preffered over `var`
 	- ## Arrays
+	  collapsed:: true
 		- Arrays are denoted as `[N]T` where `N` is the number of elements, and `T` is the type of those elements.
 		- We can use `_` when we define an array with elements inside of it IF we want to define the size of the array based on the initial number of elements.
 			- ```zig
@@ -27,6 +29,7 @@ tags:: [[Programming Language]]
 			  const length = array.len; // 5
 			  ```
 	- ## If-Expressions
+	  collapsed:: true
 		- If statements in zig work as you would expect, except they must resolve to `bool` meaning no implicity is possible.
 			- ```zig
 			  const expect = @import("std").testing.expect;
@@ -52,6 +55,7 @@ tags:: [[Programming Language]]
 			  }
 			  ```
 	- ## While Loops
+	  collapsed:: true
 		- while loops in zig have three parts - a condition, a block, and a continue expression
 			- with out a continue expression:
 			  ```zig
@@ -87,6 +91,7 @@ tags:: [[Programming Language]]
 			  }
 			  ```
 	- ## For Loops
+	  collapsed:: true
 		- For loops are very similar to other languages in Zig.
 			- ### Simple Range Loops
 				- ```zig
@@ -131,6 +136,7 @@ tags:: [[Programming Language]]
 				  }
 				  ```
 	- ## Functions
+	  collapsed:: true
 		- All function arguments are immutable. if a copy is needed the user must explicityly make one.
 			- example:
 			  ```zig
@@ -169,6 +175,7 @@ tags:: [[Programming Language]]
 			  _ = 10;
 			  ```
 	- ## Defer
+	  collapsed:: true
 		- Defer is used to execute a statement upon exiting the current block.
 			- example:
 			  ```zig
@@ -185,6 +192,7 @@ tags:: [[Programming Language]]
 			  ```
 		- Defers are useful for clearing up resources when they are no longer needed. Instead of remembering to manually free them up, you can defer the clean up statement right next to the statement that allocates the resources.
 	- ## Errors
+	  collapsed:: true
 		- Errors in zig act sorta like enums, where each error in the set is a value. Zig has no exceptions.
 			- ```zig
 			  const FileOpenError = error{
@@ -265,4 +273,4 @@ tags:: [[Programming Language]]
 				      _ = x catch {};
 				  }
 				  ```
-				- `anyerror` is the global error set,
+				- `anyerror` is the global error set, which due to being the superset of all error sets, can have an error from any set coerced to it. Its usage should be generally avoided.
