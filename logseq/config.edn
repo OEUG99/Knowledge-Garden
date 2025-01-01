@@ -426,4 +426,4 @@
  :feature/enable-whiteboards? true
  :graph/forcesettings {:link-dist 10
  :charge-range 3000
- :charge-strength 800}}
+ :charge-strength -100}}

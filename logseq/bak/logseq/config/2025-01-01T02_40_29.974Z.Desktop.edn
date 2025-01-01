@@ -424,6 +424,6 @@
  "Zoro" {}}
  :feature/enable-flashcards? true
  :feature/enable-whiteboards? true
- :graph/forcesettings {:link-dist 160
+ :graph/forcesettings {:link-dist 50
  :charge-range 3000
- :charge-strength 800}}
+ :charge-strength -100}}
