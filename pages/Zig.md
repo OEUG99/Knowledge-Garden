@@ -342,3 +342,4 @@ tags:: [[Programming Language]]
 		  ```
 		- Trying to set a `*T` to the value 0 is detectable illegal behaviour.
 		- 0 often represents a null pointer as there is no zero location in memory.
+		-
