@@ -313,4 +313,5 @@ tags:: [[Programming Language]]
 		  ```zig
 		  @setRuntimeSafety(false);
 		  ```
-		-
+		- ### Unreachable
+			- `unreachable` are a type of assesertion to the compiler, that tell the compiler a certain
