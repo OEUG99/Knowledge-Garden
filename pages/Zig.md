@@ -274,4 +274,5 @@ tags:: [[Programming Language]]
 				  }
 				  ```
 				- `anyerror` is the global error set, which due to being the superset of all error sets, can have an error from any set coerced to it. Its usage should be generally avoided.
-	-
+	- ## Switch Statements
+		-
