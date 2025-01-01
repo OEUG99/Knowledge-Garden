@@ -329,7 +329,15 @@ tags:: [[Programming Language]]
 	- ## Pointers
 		- Normal pointers in Zig cannot have 0 or null as a value. They follow the syntax `*T`, where `T` is the child type.
 		- Referencing is done with `&variable`, and dereferencing is done with `variable.*`.
-		- ```
+		- ```zig
+		  fn increment(num: *u8) void {
+		      num.* += 1;
+		  }
 		  
+		  test "pointers" {
+		      var x: u8 = 1;
+		      increment(&x);
+		      try expect(x == 2);
+		  }
 		  ```
--
+		-
