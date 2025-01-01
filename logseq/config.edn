@@ -425,5 +425,5 @@
  :feature/enable-flashcards? true
  :feature/enable-whiteboards? true
  :graph/forcesettings {:link-dist 10
- :charge-range 3000
+ :charge-range 4000
  :charge-strength -100}}
