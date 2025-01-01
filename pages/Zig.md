@@ -340,4 +340,5 @@ tags:: [[Programming Language]]
 		      try expect(x == 2);
 		  }
 		  ```
+		- Trying to set a `*T` to the value 0 is detectable illegal behaviour.
 		-
