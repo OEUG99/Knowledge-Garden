@@ -278,7 +278,7 @@ tags:: [[Programming Language]]
 		- In zig, `switch` works both as a statement and an expression.
 		- **Every** possible value of the type being switched on must be accounted for, either with a specific case, or an `else` branch. This ensures no undefined behavior due to missing cases.
 		- Zig cases don't "fall through", like with out Switch cases work on C++.
-			- example of a switch :
+			- Example of a switch statement:
 			  ```zig
 			  const std = @import("std");
 			  
@@ -295,3 +295,4 @@ tags:: [[Programming Language]]
 			      std.debug.print("{}\n", .{result});
 			  } 
 			  ```
+			- Example of
