@@ -265,3 +265,4 @@ tags:: [[Programming Language]]
 				      _ = x catch {};
 				  }
 				  ```
+				- `anyerror` is the global error set,
