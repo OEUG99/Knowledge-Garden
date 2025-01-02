@@ -1,2 +1,2 @@
 - List of all surgeries from the usa
-- /tag
+- {{query (and (property :tag "#Operation") (property :location "USA"))}}
