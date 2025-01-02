@@ -1,5 +1,5 @@
 - Joe Biden has successfully recovered from surgery, and is being treated with antibiotics.
 	- tag:: #Operation 
-	  Patient-Name:: PlaceHolder
+	  Patient-Name:: Joe Biden
 	  Location:: USA
-	  Surgery-Type:: Placeholder
+	  Surgery-Type:: Knee
