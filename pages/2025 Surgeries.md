@@ -3,4 +3,5 @@
 	  Patient-Name:: Joe Biden
 	  Location:: USA
 	  Surgery-Type:: Knee
--
+- Kamala eye is doing much better after having the cataracts removed.
+	- /tempalte
