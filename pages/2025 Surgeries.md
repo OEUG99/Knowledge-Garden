@@ -4,4 +4,7 @@
 	  Location:: USA
 	  Surgery-Type:: Knee
 - Kamala eye is doing much better after having the cataracts removed.
-	- /tempalte
+	- tag:: #Operation 
+	  Patient-Name:: Kamala
+	  Location:: USA
+	  Surgery-Type:: Eye
