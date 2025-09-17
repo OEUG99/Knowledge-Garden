@@ -1,0 +1,72 @@
+{:blocks (
+{:block/created-at 1758148405436
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [332 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4d1ea250-9416-11f0-964d-43d98c477e8b"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [152 88]
+:lineHeight 1.2
+:fontSize 20
+:parentId "68cb3727-97fe-4cf1-868d-f23b162aa128"
+:nonce 1758148395297
+:italic false
+:text "maze generator - omaze.c project"}}
+:block/updated-at 1758148405436} 
+{:block/created-at 1758148420155
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [352 352]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "5a279420-9416-11f0-964d-43d98c477e8b"
+:fontWeight 400
+:noFill false
+:point [160 168]
+:fontSize 20
+:parentId "68cb3727-97fe-4cf1-868d-f23b162aa128"
+:nonce 1758148417223
+:italic false}}
+:block/updated-at 1758148420155})
+:pages (
+{:block/uuid #uuid "68cb3727-97fe-4cf1-868d-f23b162aa128"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "68cb3727-97fe-4cf1-868d-f23b162aa128"
+:name "68cb3727-97fe-4cf1-868d-f23b162aa128"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("4d1ea250-9416-11f0-964d-43d98c477e8b" "5a279420-9416-11f0-964d-43d98c477e8b")}}
+:block/updated-at 1758148420155
+:block/created-at 1758148391612
+:block/type "whiteboard"
+:block/name "68cb3727-97fe-4cf1-868d-f23b162aa128"
+:block/original-name "68cb3727-97fe-4cf1-868d-f23b162aa128"})}
